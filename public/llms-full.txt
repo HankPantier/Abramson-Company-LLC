@@ -1,0 +1,1965 @@
+# About Abramson & Company LLC
+
+## Identity
+
+Abramson & Company LLC is a CPA firm headquartered at 278 Post Road East in Westport, Connecticut. Ray Abramson, CPA, founded the firm in its current form in 2005, and it operates under the tagline "We are passionate to meet your personal and business needs."
+
+The team includes Ray Abramson, CPA (Principal), Kristen Rossi (Director of Operations), Lisa McEwan (Senior Accountant), Deborah Wamser, Chris Finelli, CPA, Rebecca Reineke, and Jason Smith Jr. (Accountants), Lindsay Brachle (Solution Specialist), and Beth Antunez (Admin). The firm describes its culture as team-oriented, with multiple team members familiar enough with each client to step in for one another, ensuring continuity of service.
+
+The firm's tone is warm, reassuring, and client-focused, favoring plain-spoken, accessible language over technical jargon — reflecting a broader goal of reducing client stress and providing personalized support.
+
+## Positioning & Differentiation
+
+Abramson & Company positions itself as a CPA firm that treats every client like a neighbor, combining CPA-led expertise with genuine personal relationships and deep, specialized industry knowledge. This applies across real estate, professional services, retail, and nonprofit sectors, and extends to clients in Fairfield County, the tri-state area, the Bay Area, and nationwide.
+
+The firm's stated differentiators include:
+
+- Bundled services — bookkeeping, payroll, tax, and advisory — for a fixed monthly fee
+- A secure online platform for real-time collaboration with clients
+- Personalized tax strategies rather than one-size-fits-all preparation
+- CPA-led expertise spanning bookkeeping, payroll, tax, and business advisory
+
+The firm identifies a core client need: people have access to a lot of financial information but lack someone they can talk to and trust for personal guidance. Abramson positions its role as filling that gap — acting less like a transactional preparer and more like an ongoing financial partner that helps clients protect income, minimize taxes, and grow with confidence.
+
+Services offered include Bookkeeping, Outsourced Accounting (bookkeeping, payroll, tax, and audit protection with account reconciliation and quarterly KPI review), Tax Plus (year-round personal tax support including deduction analysis, tax projections, options analysis, and expatriate tax), Payroll, Tax, Business Foundation Services (entity analysis, accounting system setup, retirement plan analysis), Audit Protection (IRS notice handling, state/federal representation, appeals and litigation support), Business Management Services (budgeting, revenue/expense/COGS analysis, tax planning), Financial Advice and Planning, and Advisory.
+
+## Industries Served
+
+### Real Estate
+
+Abramson & Company provides specialized accounting expertise for real estate professionals, one of the firm's core niches alongside professional services, retail, and nonprofits.
+
+### Professional Service Providers
+
+The firm supports professional service businesses, including small doctor offices, independent physician groups, attorneys, marketing companies, and video production companies. Services are tailored to the accounting and advisory needs specific to these practice types.
+
+### Retail
+
+Abramson & Company offers expert accounting and advisory support for the retail industry, applying its broader bundled-service model — bookkeeping, payroll, tax, and advisory — to retail-specific needs.
+
+### Equine
+
+The firm serves clients with horse-related businesses and ownership, providing accounting support tailored to the equine industry. This is a quietly served niche rather than an actively promoted specialty.
+
+### Influencers
+
+Abramson & Company provides tax and accounting support for social media influencers. As with the equine niche, this is served quietly rather than featured as a primary marketing focus.
+
+---
+
+## Resource library
+
+### Forms documents and links
+URL: /resources/forms-documents-and-links
+
+<!-- block: intro-text | variant: centered -->
+## Find the right form for your needs
+
+Most accounting firms bury client paperwork in old email threads or a folder nobody can find twice. We built this page so that doesn't happen here. Whether you need a new-client engagement letter, a tax organizer, or the link to upload last year's 1099s, it lives on one page instead of six inboxes.
+
+If you're a Westport, CT client, or you work with us from Fairfield County, the tri-state area, or the Bay Area, everything below points to the same secure system our team uses every day. No searching, no waiting on hold for a document you already know exists.
+
+<!-- block: checklist-section | variant: with-image | image: client-onboarding-documents.jpg | alt: "New client reviewing an engagement letter with a CPA" | query: "client signing paperwork accountant office" -->
+## Client onboarding and engagement documents
+
+Starting with a new CPA firm usually means a stack of paperwork before anyone answers a real question. We keep the list short and specific:
+
+- Engagement letter outlining scope, fees, and what to expect from bookkeeping, payroll, tax, or advisory work
+- New client intake questionnaire covering entity type, prior-year returns, and current bookkeeping software
+- Document checklist matched to your situation, whether that's a Schedule C, an S-corp, or a rental property
+- Authorization forms for IRS or state correspondence, when your engagement calls for it
+
+Each of these arrives through your secure portal login once we've scheduled your first meeting, so you're never filling out the same information twice.
+
+<!-- block: content-cards | variant: 3-col -->
+## Tax organizers and checklists
+
+A good tax organizer saves you from digging through a shoebox of receipts in March. We provide organizers built for three common situations: individual filers, small business owners, and real estate professionals with rental income or 1031 exchanges. Each one is shorter than the generic version your last preparer sent, because we already know which sections apply to your file.
+
+### Individual tax organizer
+photo: individual-tax-organizer.jpg
+query: person organizing tax documents at desk
+
+A year-end checklist covering income sources, deductions, and life changes that affect your return, paired with a plain-language guide to tax planning.
+
+[Read more](/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning)
+
+### 1099 and contractor prep
+photo: contractor-1099-forms.jpg
+query: small business owner reviewing invoices
+
+Everything a small business owner needs to know about who gets a 1099, filing deadlines, and the penalties for missing one.
+
+[Read more](/resources/e-books/everything-you-need-to-know-about-1099s)
+
+### Small business tax checklist
+photo: small-business-tax-checklist.jpg
+query: business owner planning taxes laptop
+
+A short read on getting ahead of higher taxes before year-end, written for owners who'd rather plan in October than scramble in April.
+
+[Read more](/resources/quick-reads/4-steps-to-get-ahead-of-higher-taxes)
+
+<!-- block: content-split | variant: image-right | image: secure-client-portal-login.jpg | alt: "Client uploading tax documents through a laptop to a secure portal" | query: "person using laptop secure online portal" -->
+## Secure document upload and client portal access
+
+Email was never built to carry a W-2 or a bank statement safely, so we don't use it for that. Every client gets a login to our secure online platform, where you can upload documents, review drafts, and message your CPA in real time instead of waiting for a callback.
+
+The portal is also where engagement letters, signed authorizations, and finished tax returns land once they're ready. If you've misplaced your login, a quick call or email to your contact person gets it reset the same day. This is the same system our team uses internally, so what you upload shows up on our end instantly, not after someone forwards an attachment three times.
+
+<!-- block: checklist-section | variant: standalone -->
+## Payroll and bookkeeping resource links
+
+Clients running payroll or managing books across Connecticut, New York, and New Jersey need quick access to the agencies that set the rules. Here are the links we send most often:
+
+- Connecticut Department of Labor, for state unemployment and new-hire reporting
+- IRS, for federal withholding tables and EIN applications
+- New York State Department of Labor, for tri-state employees on payroll
+- New Jersey Department of Labor and Workforce Development, for NJ-based staff
+- Connecticut Department of Revenue Services, for state tax registration and filing
+
+If a form on one of these sites doesn't match your situation, that's usually a sign it's time to loop in your bookkeeping or payroll contact here before you file anything.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Helpful links for our niche industries
+
+Real estate, retail, equine, and influencer clients each run into rules that a generic small business guide skips entirely. These are the starting points we point clients toward first.
+
+### Real Estate
+icon: Home
+
+1031 exchange timelines, depreciation schedules, and passive activity loss rules affect nearly every rental property owner and investor we work with.
+
+### Professional Service Providers
+icon: Briefcase
+
+Entity structure and quarterly estimated payments matter more for law firms, consultancies, and agencies than most owners expect until tax time arrives.
+
+### Retail
+icon: Building2
+
+Sales tax nexus and inventory accounting rules shift depending on where your customers, not just your storefront, are located.
+
+### Equine
+icon: HeartPulse
+
+Boarding income, breeding operations, and depreciation on horses and equipment follow their own set of IRS guidelines.
+
+### Influencers
+icon: Sparkles
+
+Brand deals, gifted products, and platform payouts all count as income, and the reporting rules aren't always obvious from a 1099-NEC.
+
+<!-- block: cta-banner | variant: image-bg | image: cpa-consultation-call.jpg | alt: "CPA on a phone call with a client about tax documents" | query: "accountant phone call client office" -->
+## Have a question about a form or document
+
+If you're staring at a form and can't tell whether it applies to you, call your contact directly or send a message through the client portal. Our team-based setup means more than one person knows your file, so you're not stuck waiting on a single point of contact.
+
+Need a form we haven't posted yet, or want to talk through what applies to your situation before you fill anything out? Schedule a consultation and we'll walk through it together.
+
+---
+
+### Refund tracker
+URL: /resources/refund-tracker
+
+## Check your refund status in minutes
+
+You don't need to dig through government websites to find out where your money is. For your federal refund, the IRS **Where's My Refund** tool at [irs.gov/refunds](https://www.irs.gov/refunds) gives you a status update within 24 hours of e-filing (or about four weeks after mailing a paper return). For your Connecticut state refund, the Department of Revenue Services runs its tracker through **myconneCT** at [portal.ct.gov/drs](https://portal.ct.gov/drs/individuals/individual-tax-page/status-of-refund). Both tools are free, and both update once a day, usually overnight, so checking more than once every 24 hours won't get you a different answer.
+
+If you filed with Abramson & Company, we can also pull up your filing confirmation and refund amount on request, no login required on your end.
+
+<!-- block: checklist-section | variant: with-image | image: taxpayer-checking-refund-status.jpg | alt: "Person checking tax refund status on laptop at home desk" | query: "person checking laptop tax documents" -->
+## What to have ready before you check
+
+Both the IRS and Connecticut systems will reject your lookup if any detail is slightly off. Have these on hand before you click through:
+
+- Your Social Security number or ITIN
+- Your exact filing status (single, married filing jointly, head of household, etc.)
+- The exact refund amount shown on your return, down to the dollar
+- For CT specifically, the tax year you're checking
+- A few extra minutes, since typing errors are the most common reason people see an error message
+
+If you filed jointly, use the SSN listed first on the return. That trips up more people than anything else.
+
+<!-- block: content-split | variant: image-right | image: reviewing-tax-refund-timeline.jpg | alt: "Accountant reviewing a tax return timeline with a client" | query: "accountant client reviewing paperwork office" -->
+## Typical refund timelines
+
+Timing depends on how you filed and how you're getting paid. E-filed federal returns with direct deposit typically arrive within 21 days. Paper federal returns run six to eight weeks, sometimes longer during peak season. Connecticut refunds generally take longer than federal ones: the DRS estimates 10 to 12 weeks for a processed return, and paper CT returns can stretch past that.
+
+A few things speed things up: filing early, e-filing instead of mailing, and choosing direct deposit over a paper check. A few things slow things down: filing close to the April deadline, claiming certain credits that trigger extra review, or mailing an amended return, which the IRS says can take up to 16 weeks to process.
+
+None of these timelines are promises. They're patterns we see year after year with clients across Westport, Fairfield County, and the tri-state area.
+
+## Common reasons your refund is delayed
+
+A delay usually isn't a red flag. It's often one of these:
+
+A math error or a mismatched Social Security number triggers a manual review, which adds time but rarely changes the outcome. Identity verification requests, where the IRS asks you to confirm you filed the return, are increasingly common and simply require a response, not a correction. Amended returns take longer by design, since they're reviewed by hand rather than run through automated processing. And if you owe back taxes, child support, or certain federal debts, the Treasury Offset Program can reduce or redirect your refund before it reaches you, something you'd typically be notified about separately.
+
+If your status shows "still processing" for more than 21 days past your e-file date, that's the point worth paying attention to, not panicking over.
+
+## When to reach out to our team
+
+Checking a portal once a day is reasonable. Refreshing it five times before lunch isn't going to change the outcome, and it's a good sign it's time to call someone who can actually look into it.
+
+Reach out to us if your refund is more than 21 days late for an e-filed federal return, more than 12 weeks late for a Connecticut return, if you've received an identity verification letter and aren't sure how to respond, or if your refund amount doesn't match what we filed. Because our team works together on every client file, whoever picks up the phone can pull up your return and give you a straight answer, not a generic script.
+
+<!-- block: cta-banner | variant: image-bg | image: cpa-consultation-westport-ct.jpg | alt: "CPA meeting with a client at a desk in a Westport office" | query: "cpa meeting client office consultation" -->
+## Get personalized help with your tax return
+
+A refund tracker can tell you where your money is. It can't tell you why your withholding was off, whether you're missing a credit, or how to plan next year so the refund is bigger, or smaller, on purpose. That's the conversation we have with clients throughout Westport, Fairfield County, and the tri-state area, plus a growing number in California's Bay Area, every tax season.
+
+If you have questions about a delayed refund, a notice you received, or how to set up next year's return so there are fewer surprises, [schedule a consultation](/contact) with Abramson & Company. We'll look at the actual return, not just the status bar.
+
+---
+
+### Video library
+URL: /resources/video-library
+
+<!-- block: intro-text | variant: centered -->
+## Learn accounting and tax topics at your own pace
+
+Questions about taxes, payroll, or bookkeeping don't wait for business hours, and sometimes you just want a straight answer before picking up the phone. Abramson & Company's video library gives Westport, CT clients, and visitors across Fairfield County and the tri-state area, a free way to get plain-spoken explanations on the topics that come up again and again: deductions, deadlines, payroll setup, and more. Each video is short and built around real questions we hear from small business owners, real estate professionals, and individuals filing their own returns. Watch what applies to you, skip what doesn't, and come back whenever a new question surfaces. If something you see raises a question specific to your situation, that's exactly what our team is here for.
+
+<!-- block: content-cards | variant: 3-col -->
+## Tax planning and filing videos
+
+Tax questions rarely arrive at a convenient time. This set of videos covers the topics we hear about most, whether you're an individual in Fairfield County or a small business owner managing quarterly [tax filings](/services/tax) across CT, NY, and NJ.
+
+### Understanding Common Deductions
+photo: tax-deductions-video.jpg
+query: accountant explaining tax deductions
+
+Learn which deductions individuals and small business owners overlook most often, and how to document them properly before filing season arrives.
+
+### Estimated Tax Payments Explained
+photo: estimated-tax-payments-video.jpg
+query: business owner reviewing tax payment schedule
+
+A short breakdown of who needs to make quarterly estimated payments, how the IRS calculates penalties, and how to avoid a surprise bill in April.
+
+### Key Filing Deadlines to Know
+photo: tax-deadlines-calendar-video.jpg
+query: calendar with tax deadline reminder
+
+From personal returns to business entity filings, this video covers the dates that matter most for taxpayers in Connecticut, New York, and New Jersey.
+
+<!-- block: content-cards | variant: 3-col -->
+## Bookkeeping and payroll basics
+
+Day-to-day bookkeeping and payroll compliance are where a lot of small business owners lose time, or lose sleep. These videos break down the fundamentals in plain language, and if you'd rather hand it off entirely, our [bookkeeping](/services/bookkeeping) and [payroll](/services/payroll) teams can take it from here.
+
+### Bookkeeping Basics for New Business Owners
+photo: bookkeeping-basics-video.jpg
+query: small business owner reviewing bookkeeping records
+
+A walkthrough of the records every business should track from day one, and why waiting until tax time to organize them ends up costing more.
+
+### Setting Up Payroll the Right Way
+photo: payroll-setup-video.jpg
+query: employer setting up payroll system
+
+What to have in place before you hire your first employee, from tax IDs to pay schedules, so payroll doesn't turn into a compliance headache later.
+
+### Staying Compliant on Payroll Taxes
+photo: payroll-compliance-video.jpg
+query: payroll paperwork compliance review
+
+Federal and state payroll tax rules change often. This video covers the filing deadlines and withholding basics that keep a small business out of trouble.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Guidance for real estate, retail, and other niche clients
+
+Generic advice only goes so far. These videos speak directly to the industries we work in most, where the tax and accounting rules aren't the same as everyone else's.
+
+### Real Estate
+icon: Home
+
+Videos covering 1031 exchanges, depreciation, and the tax planning questions [real estate](/industries/real-estate) professionals and investors across Fairfield County ask most.
+
+### Retail
+icon: Building2
+
+Inventory accounting, sales tax collection, and cash flow topics built for [retail](/industries/retail) business owners managing multiple revenue streams.
+
+### Professional Service Providers
+icon: Briefcase
+
+Entity structure, estimated taxes, and deduction strategies for [consultants, attorneys, and other service-based businesses](/industries/professional-service-providers).
+
+### Equine
+icon: Star
+
+Guidance on horse-related business expenses, depreciation on equipment and facilities, and the recordkeeping this niche requires.
+
+### Influencers
+icon: Zap
+
+What content creators need to know about self-employment tax, deductible expenses, and reporting income from brand partnerships.
+
+<!-- block: content-split | variant: image-right | image: team-recording-videos.jpg | alt: "CPA team members recording an educational video in a Westport office" | query: "accounting team recording video office" -->
+## Meet the team behind the videos
+
+Every video comes from someone on our team, not a script pulled from a generic library. Ray Abramson founded the firm in 2005, and the CPA-led staff who record these videos are the same people who answer the phone when you call. We built a [team-oriented culture](/who-we-are) on purpose: several team members know each client's file well enough to step in for one another, so the person on screen might be the same person who reviews your return. Watching one is a preview of what working with us actually feels like.
+
+<!-- block: cta-banner | variant: image-bg | image: consultation-call-cta.jpg | alt: "Client and accountant shaking hands after a consultation meeting" | query: "client accountant handshake consultation" -->
+## Have a question a video didn't answer
+
+Videos are a starting point, not a substitute for someone who knows your numbers. If you've watched a few and still have questions specific to your business, your return, or your industry, that's a conversation worth having. [Schedule a consultation](/contact) with our Westport, CT team, and we'll pick up exactly where the video left off.
+
+---
+
+### Quick reads
+URL: /resources/quick-reads
+
+*Content not yet generated.*
+
+---
+
+## Industries we serve
+
+### Real estate accounting
+URL: /industries/real-estate
+
+<!-- block: intro-text | variant: centered -->
+## Accounting built for real estate professionals
+
+Agents chasing commissions, brokers running teams, investors juggling five or six properties, developers mid-construction, property managers reconciling rent rolls: real estate income never looks the same from one client to the next. Most of what's online about real estate taxes is generic. It tells you depreciation exists but not how to apply it to your triplex in Westport or your flip in New Canaan.
+
+What real estate professionals in Fairfield County actually need is someone who picks up the phone, knows the deal structure, and has already thought through the tax angle before the closing date arrives. Abramson & Company has worked with real estate clients across Westport, CT, Fairfield County, and the tri-state area since 2005, and we build the financial side of your business around how you actually earn money, not a template.
+
+<!-- block: service-cards | variant: 3-col -->
+## Services tailored to property income and transactions
+
+Property income rarely fits into one bucket. Rental cash flow, commission checks, 1031 proceeds, and construction draws each carry different tax treatment and different bookkeeping needs. Here's how our services line up against the real estate specifics that actually matter.
+
+### Bookkeeping
+icon: Calculator
+
+We track rent rolls, security deposits, commission splits, and property-level expenses so every unit or listing has its own clean set of books, not one blended ledger that hides what's actually profitable.
+
+### Outsourced Accounting
+icon: Briefcase
+
+For investors and developers managing multiple entities, we handle the full accounting function, month-end close, financial statements, and reconciliations across each LLC, so you get one clear picture instead of five disconnected spreadsheets.
+
+### Tax Plus
+icon: FileCheck
+
+Ongoing tax support built around real estate timing: 1031 exchange deadlines, cost segregation studies, and depreciation schedules reviewed before decisions get made, not after the return is filed.
+
+### Payroll
+icon: Users
+
+Property management teams and brokerages with support staff get payroll that handles commission-based pay structures and multi-state employees without the filing headaches.
+
+### Tax
+icon: Coins
+
+Personal and business returns prepared with attention to passive activity rules, rental loss limitations, and the entity structure behind each property you hold.
+
+### Business Foundation Services
+icon: Building2
+
+Setting up a new LLC for an acquisition or restructuring how you hold multiple properties? We help you choose an entity structure that fits your tax picture and your exit plan.
+
+<!-- block: content-split | variant: image-right | image: real-estate-tax-planning.jpg | alt: "Accountant and real estate investor reviewing property tax documents together" | query: "real estate investor meeting accountant" -->
+## Tax strategies for investors, agents, and property owners
+
+Depreciation sounds simple until you're weighing a cost segregation study against the cost of the study itself, or deciding whether a rental loss is deductible this year under the passive activity rules. Agents face a different problem: commission income that swings wildly month to month, with quarterly estimates due whether the deal closed or not.
+
+We build tax strategy around your calendar, not April's. That means reviewing depreciation schedules and entity structure before year-end, flagging when a cost segregation study makes sense on a new acquisition, and setting quarterly estimates that reflect what you're actually earning rather than last year's numbers. For clients holding several properties, we look at the portfolio as a whole so losses on one property aren't quietly wasted while another owes tax it didn't need to.
+
+The goal is simple: fewer surprises at filing time, and a strategy you understood months before it mattered.
+
+<!-- block: checklist-section | variant: with-image | image: real-estate-platform-dashboard.jpg | alt: "Real estate professional checking financial dashboard on laptop and phone" | query: "person using laptop financial dashboard" -->
+## Real-time financial visibility through our secure platform
+
+A lender wants updated financials before Friday. A partner asks how a property performed last quarter. A deal is closing and you need current numbers, not last month's. Real estate moves fast, and waiting on a callback isn't realistic when you're managing several properties or transactions at once.
+
+Our secure online platform gives you real-time access to your books, so you can pull current numbers for a lender request, a partner update, or a due diligence packet without waiting on us to send a file.
+
+- See income and expenses by property, updated as transactions are entered
+- Share financials securely with lenders, partners, or attorneys when a deal needs proof of numbers
+- Message your accounting team directly inside the platform instead of chasing an email thread
+- Pull reports on demand for a refinance, sale, or year-end review
+
+<!-- block: content-split | variant: image-left | image: local-cpa-team-real-estate.jpg | alt: "CPA team members discussing a client's real estate portfolio in office" | query: "accounting team meeting office" -->
+## A team that knows your properties and your goals
+
+When you call with a question about your Bridgeport rental or a 1031 deadline coming up next week, you shouldn't have to explain your whole portfolio from scratch because the one person who knew it is out of the office. We run a team-oriented culture where more than one staff member knows your properties, your entity structure, and what you're working toward, so someone is always ready to help.
+
+Abramson & Company has served real estate professionals from our Westport, CT office since 2005, with clients throughout Fairfield County and the tri-state area of Connecticut, New York, and New Jersey. We also work with clients in California, including the Bay Area, using the same secure platform and the same direct access to your team, regardless of time zone.
+
+<!-- block: cta-banner | variant: image-bg | image: real-estate-agent-consultation.jpg | alt: "Real estate agent shaking hands after a financial consultation meeting" | query: "real estate agent handshake meeting" -->
+## Let's talk about your real estate business
+
+Whether you're closing your first rental purchase or managing a portfolio across three states, the numbers behind it deserve more than a generic template. Our bundled services come with a fixed monthly fee, so you know your cost upfront and can add bookkeeping, tax, payroll, and advisory support as your portfolio grows, without a surprise invoice.
+
+Tell us what you're working on, a 1031 exchange, a new acquisition, a management company that's outgrown its spreadsheets, and we'll walk through what proactive support looks like for your situation.
+
+[Schedule a consultation](/contact)
+
+---
+
+### Professional service provider accounting
+URL: /industries/professional-service-providers
+
+## Accounting built for consultants, agencies, and firms
+
+<!-- block: intro-text | variant: centered -->
+Professional service firms run on billable hours, but the accounting behind them rarely fits into neat boxes. One month brings a wave of retainer income, the next brings a slow trickle while you wait on invoices. Entity structure decisions, whether you're an LLC, S-corp, or partnership, change your tax picture every year you grow. A generic bookkeeper who handles restaurants and retail shops on the side isn't going to catch the nuances of a consulting practice or a boutique law firm.
+
+Abramson & Company is a CPA firm in Westport, CT that works specifically with consultants, agencies, and professional service providers across Fairfield County and the tri-state area. We've built our process around irregular cash flow, project-based revenue, and the entity questions that come with adding partners or scaling a team. This is not a once-a-year filing relationship. It's ongoing support from people who already understand how your business makes money.
+
+<!-- block: content-split | variant: image-right | image: consultant-reviewing-financials.jpg | alt: "Professional service provider reviewing financial reports with a CPA" | query: "consultant meeting accountant office" -->
+## Bookkeeping and outsourced accounting for busy practices
+
+Most professional service providers didn't start their firm to spend evenings reconciling bank feeds. Our [bookkeeping](/services/bookkeeping) and [outsourced accounting](/services/outsourced-accounting) services combine into a single bundled package for one fixed monthly fee, so there's no surprise invoice when your books get more complicated.
+
+You get access to a secure online platform where you and our team see the same numbers in real time, no waiting for a monthly PDF or a callback. If you're managing project-based billing across multiple clients, that visibility matters: you can check margins on a contract or confirm cash on hand before making a hiring decision, without waiting for us to send a report.
+
+This is the kind of support a growing consulting firm or agency actually uses, not a service that sits unopened in an inbox once a quarter.
+
+<!-- block: content-split | variant: image-left | image: tax-planning-professional-firm.jpg | alt: "CPA discussing tax strategy documents with a professional services client" | query: "tax planning meeting office documents" -->
+## Tax planning and preparation for service-based businesses
+
+Service-based businesses tend to get hit hardest by once-a-year tax prep, because so much of what determines your bill (entity structure, retirement contributions, quarterly estimates, how you pay yourself) has to be decided before December 31, not after. Our [Tax](/services/tax) and Tax Plus services are built around planning throughout the year, not just filing in April.
+
+For consultants and professional firms, that often means reviewing your entity election as revenue grows, timing income and expenses around project cycles, and coordinating owner compensation with retirement contributions. We also handle [personal income tax](/services/personal-income-tax) alongside your business return, since for most owners the two are inseparable.
+
+The goal is a strategy you understand and revisit with us, not a form that shows up once a year with a number attached.
+
+<!-- block: checklist-section | variant: with-image | image: payroll-team-professional-services.jpg | alt: "Small professional services team reviewing payroll and staffing documents" | query: "small business team payroll paperwork" -->
+## Payroll and business foundation support as you grow
+
+Adding your first employee, or your fifth, changes the administrative load on a professional service firm fast. Our [payroll](/services/payroll) service handles the filings, deposits, and compliance work so you're not learning state withholding rules between client calls. For firms bringing on 1099 contractors, subcontracted specialists, or part-time staff, we set up the systems correctly the first time.
+
+[Business Foundation Services](/services/business-foundation-services/) cover the groundwork many growing firms skip: entity setup, accounting system structure, and the internal controls that keep books clean as headcount rises.
+
+- Payroll processing, tax filings, and new-hire compliance
+- Contractor payments and 1099 tracking
+- Entity structure and accounting system setup for scaling firms
+- Ongoing support as staffing needs shift
+
+This is the administrative work that quietly eats a founder's week. We take it off your plate so client work stays the priority.
+
+<!-- block: content-split | variant: image-right | image: cpa-advisory-meeting-westport.jpg | alt: "CPA advisor and business owner reviewing financial plan together" | query: "financial advisor client consultation office" -->
+## Audit protection and financial advice when it matters
+
+An IRS notice or a client audit request can stall a professional service firm for weeks if you're not prepared. Our [Audit Protection](/services/audit-protection) service gives you a direct line to someone who already knows your books, so you're not starting from scratch explaining your business to a stranger under deadline pressure.
+
+Beyond compliance, growth decisions (bringing on a partner, opening a second office, evaluating a retirement plan) deserve more than a guess. We work alongside clients on [business management](/services/business-management-services) and [retirement plan analysis](/services/retirement-plan-analysis) questions as they come up, not just at tax time.
+
+Having someone to call before you make a decision, not just after, is the difference between reacting to problems and planning around them.
+
+## A CPA team that knows your business by name
+
+Ray founded Abramson & Company in its current form in 2005, and the firm has kept a deliberately team-oriented culture since. Multiple people on our team know each client's business well enough to step in for one another, so you're never stuck waiting on one person's calendar to get an answer.
+
+We work with small business owners, real estate professionals, retail businesses, and professional service providers across Westport, Fairfield County, and the broader tri-state area of Connecticut, New York, and New Jersey, along with a growing group of clients in California's Bay Area. Read more about how the firm works on our [who we are](/who-we-are) page.
+
+<!-- block: cta-banner | variant: image-bg | image: westport-cpa-consultation.jpg | alt: "CPA and professional service business owner shaking hands after consultation" | query: "business owner accountant handshake meeting" -->
+## Talk to a Westport CPA about your practice
+
+If your consulting practice, agency, or professional firm has outgrown a once-a-year tax appointment, it's worth a conversation. We'll walk through your bookkeeping, tax position, and payroll setup, and tell you plainly where a fixed monthly package and a CPA-led team could save you time and money.
+
+Schedule a consultation with Abramson & Company and bring your questions. We'll bring the answers.
+
+---
+
+### Retail accounting
+URL: /industries/retail
+
+<!-- block: intro-text | variant: centered -->
+## Accounting support made for retail businesses
+
+Retail runs on thin margins and constant movement. Cash in the register at open, card swipes all day, online orders overnight, and a stockroom that never quite matches what the shelves show. Add seasonal swings around the holidays and back-to-school, and closing the books each month can feel like chasing a moving target.
+
+Abramson & Company has worked with retail owners across Westport and Fairfield County since 2005, so we know where the numbers usually go sideways: POS reconciliation, inventory valuation, and sales tax across multiple states if you sell online. CPA-led support means every recommendation, from cash flow timing to tax strategy, comes from someone who has actually reviewed your numbers, not a call center reading from a script.
+
+<!-- block: content-split | variant: image-right | image: retail-pos-reconciliation.jpg | alt: "Retail store owner reviewing point-of-sale reports with accountant" | query: "retail store owner checking receipts" -->
+## Bookkeeping and POS reconciliation for retail stores
+
+Daily sales run through more channels than most retail owners have time to track: cash drawers, credit card terminals, e-commerce platforms, and sometimes a second or third store location. Our [bookkeeping](/services/bookkeeping) service reconciles POS reports against bank deposits and merchant statements every week, not just at month-end, so discrepancies get caught while you still remember what happened that Tuesday afternoon.
+
+Bookkeeping integrates with the POS and payment systems you already run, whether that's Square, Shopify, Clover, or a legacy system tied to your inventory management. You get a clean, current set of books through Abramson's secure online platform, where you can see reconciled sales, cost of goods, and margins without waiting for a phone call back. That means faster answers on which items are actually profitable and less time spent second-guessing your own numbers.
+
+<!-- block: checklist-section | variant: with-image | image: retail-payroll-seasonal-staff.jpg | alt: "Retail employee working a shift at store checkout counter" | query: "retail employee working checkout counter" -->
+## Payroll built for retail schedules and seasonal staffing
+
+Retail payroll rarely looks like a typical 9-to-5 spreadsheet. Hourly shifts change week to week, holiday hiring spikes headcount for six weeks and then drops it back down, and an owner might run [payroll](/services/payroll) across two or three store locations with different state tax rules. Getting it wrong means back pay corrections, penalty notices, or a seasonal hire who never got the right withholding.
+
+- Hourly and shift-based payroll processed on the schedule your stores actually run
+- Seasonal hires onboarded and offboarded without compliance gaps
+- Multi-location payroll handled under one system, even across CT, NY, and NJ
+- Tip reporting and minimum wage compliance built into every pay run
+- Direct integration with your bookkeeping, so labor costs show up in your margins automatically
+
+<!-- block: content-split | variant: image-left | image: retail-tax-planning-meeting.jpg | alt: "Accountant reviewing tax documents with retail store owner" | query: "accountant discussing taxes retail owner" -->
+## Tax planning and preparation for retail businesses
+
+Inventory valuation method, sales tax nexus across states, and depreciation on store fixtures each shape your retail tax bill differently than a typical service business. A change in how you value inventory, LIFO versus FIFO for example, can move taxable income by a meaningful amount, and most retail owners never get advice on it until year-end, when there's nothing left to plan.
+
+Abramson builds a personalized [tax](/services/tax) strategy around your sales cycle: quarterly check-ins before your busy season, not a single meeting in March. Retail deductions around store buildout, equipment, and shrinkage get identified while there's still time to act on them. [Audit protection](/services/audit-protection) is built into the relationship too, so if a sales tax audit or an IRS inquiry lands on your desk, you're not facing it without the CPA who prepared the return in the first place.
+
+<!-- block: content-split | variant: image-right | image: retail-growth-financial-review.jpg | alt: "Retail owner reviewing financial dashboard on laptop in store" | query: "retail owner laptop store dashboard" -->
+## Financial insight to guide retail growth decisions
+
+Deciding whether to open a second location, buy inventory ahead of a price increase, or add three more part-time staff for the holidays requires numbers you can trust today, not a report from six weeks ago. [Outsourced accounting](/services/outsourced-accounting) keeps your financials current and reviewed by a CPA, so the cash flow projection you're looking at reflects this month's reality.
+
+Abramson's secure online platform gives you real-time access to sales trends, margin by category, and cash position, along with direct messaging to your accounting team when a number doesn't look right. [Business management services](/services/business-management-services) layer on top for owners weighing a lease renewal, a new POS system, or a hiring decision, turning bookkeeping data into an actual growth plan instead of a spreadsheet nobody opens.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Why Westport retailers choose Abramson & Company
+
+Retail owners in Westport and across Fairfield County need an accounting relationship that holds up during the busiest weeks of the year, not just tax season.
+
+### Bundled, fixed-fee service
+icon: Coins
+
+Bookkeeping, payroll, tax, and advisory come under one fixed monthly fee, so a busy December doesn't come with a surprise invoice.
+
+### Team-based coverage
+icon: Users
+
+Multiple team members know your account well enough to answer a question when your usual contact is out, so a payroll deadline never waits on one person's calendar.
+
+### Rooted in Fairfield County since 2005
+icon: MapPin
+
+Ray founded the firm in 2005, and it has served retail businesses across Westport, Fairfield County, and the CT-NY-NJ tri-state area since.
+
+<!-- block: cta-banner | variant: image-bg | image: retail-storefront-consultation.jpg | alt: "Exterior of a small retail storefront in Westport Connecticut" | query: "small retail storefront Connecticut street" -->
+## Talk with a retail accounting specialist today
+
+Running a retail store leaves little room for chasing down reconciliations or wondering if your sales tax filing is correct in every state you ship to. A short conversation with Abramson & Company can show you where your books need attention and what a fixed monthly plan looks like for a business your size. [Schedule a consultation](/contact) and bring your questions about inventory, payroll, or your next tax filing.
+
+---
+
+### Video Production
+URL: /industries/video-production
+
+<!-- block: content-split | variant: image-right | image: video-production-accounting-intro.jpg | alt: "Video production crew reviewing budget documents on set" | query: "video production crew reviewing paperwork" -->
+## Accounting built around how video production companies work
+
+Video production income rarely lands the same way twice. One month you're invoicing a client for a six-figure commercial shoot; the next you're waiting forty-five days on a production payment while covering gear rentals, freelance editors, and a small crew of contractors. Generic bookkeeping software wasn't built for that rhythm, and neither was the accountant down the street.
+
+Abramson & Company works with production companies across Westport, CT and Fairfield County who need a CPA firm that already understands project-based revenue, equipment-heavy budgets, and a workforce that shifts from job to job. Our bookkeeping, payroll, and tax services are built around that reality instead of asking you to fit a standard small-business template. That means fewer surprises at tax time and a clearer read on cash flow between projects.
+
+<!-- block: checklist-section | variant: with-image | image: video-production-bookkeeping-team.jpg | alt: "Accountant and production manager reviewing invoices on a laptop" | query: "accountant reviewing invoices laptop office" -->
+## Bookkeeping and outsourced accounting for production budgets and client billing
+
+Production budgets rarely stay still. A single project might involve a client retainer, rental deposits, freelancer invoices, and reimbursable expenses, all moving at different speeds. Our [bookkeeping](/services/bookkeeping) and [outsourced accounting](/services/outsourced-accounting) services keep those pieces reconciled in one place, on a secure online platform where you see real-time numbers instead of waiting for a monthly PDF.
+
+Bundled under one fixed monthly fee, this service covers:
+
+- Project-by-project budget tracking so you know margin on each shoot, not just overall revenue
+- Client invoicing and collections support to keep cash flow steady between productions
+- Vendor and equipment rental payment tracking, so nothing slips through the cracks
+- Monthly reconciliation and reporting your team can review without decoding spreadsheets
+
+The goal is straightforward: your creative team spends time on production, not chasing receipts.
+
+<!-- block: content-split | variant: image-left | image: video-production-crew-payroll.jpg | alt: "Production crew members on set during a filming setup" | query: "film crew working on set" -->
+## Payroll for crews, freelancers, and contractors
+
+A single shoot day might involve a full-time production manager on payroll, three freelance camera operators paid 1099, and a per-project gaffer working under a union agreement. Classifying each person correctly, and paying them on time, is where a lot of production companies get into trouble with the IRS or state labor departments.
+
+Abramson & Company's [payroll](/services/payroll) service handles W-2 staff, 1099 contractor payments, and per-project crew in one system, so you're not juggling three separate processes for three types of workers. We track worker classification, filing deadlines, and year-end 1099 and W-2 issuance, and flag misclassification risk before it becomes a problem. Crews get paid accurately and on schedule, and you get a payroll record that holds up if a filing ever gets questioned.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Tax planning and deductions specific to video and media production
+
+Production companies carry deductions most small businesses never touch, and miss others because nobody flagged them. [Personalized tax strategy](/services/tax) for a media business looks different than for a retail shop, and that's where planning ahead of the return matters more than the return itself.
+
+### Equipment depreciation
+icon: Wallet
+
+Cameras, lenses, lighting rigs, and edit bay hardware depreciate on a schedule that rewards planning your purchases, not just recording them after the fact. We help you time equipment buys against Section 179 and bonus depreciation rules so a big gear purchase works for your tax bill instead of against it.
+
+### Home studio and office deductions
+icon: Home
+
+Many production owners run pre-production, editing, or client meetings from a home office or converted studio space. We calculate the deduction correctly, square footage, utilities, and depreciation included, so you claim what you're entitled to without raising a flag.
+
+### Production-related expense deductions
+icon: FileText
+
+Location fees, travel to shoots, insurance, and post-production software subscriptions all carry deduction rules specific to project-based creative work. We track these against your bookkeeping records so nothing gets missed at filing time.
+
+### Connecticut digital media tax credit guidance
+icon: Award
+
+Connecticut offers a sliding-scale tax credit for qualified digital media and motion picture production expenses. We help determine whether your production activity and spending qualify, and walk through the documentation the state requires.
+
+<!-- block: content-split | variant: image-right | image: video-production-company-growth-meeting.jpg | alt: "Small business owner and accountant discussing growth plans at a desk" | query: "business owner accountant discussing growth plans" -->
+## Business advisory support as your production company grows
+
+Plenty of production companies start as one person with a camera and a laptop, then grow into an agency with a full crew, a studio lease, and multiple concurrent projects. Each stage raises a different question: stay a sole proprietor or move to an S-corp? Set up a formal budget process before hiring? How much to set aside for slow months?
+
+[Business Foundation Services](/services/business-foundation-services/) help you choose the right entity structure and set up financial systems that scale with you, from a freelance operation to a full production house. [Business Management Services](/services/business-management-services) cover the longer view: profit distribution, retirement planning, and the financial decisions that come with owning a growing creative business.
+
+<!-- block: stats-bar | variant: 3-up -->
+## Why Westport and Fairfield County production businesses choose our team
+
+Choosing a CPA for a production business isn't just about tax forms. It's about knowing someone will pick up the phone when a client payment is late or a gear purchase timing question comes up mid-shoot. Get to know [our team](/who-we-are).
+
+### 2005
+Founded
+
+Abramson & Company has served Westport and Fairfield County businesses since 2005, working alongside owners as they've grown from solo operations to full crews.
+
+### 3 states plus California
+Client reach
+
+The firm supports clients across Connecticut, New York, and New Jersey, plus a growing group of California clients concentrated in the Bay Area.
+
+### Team-based coverage
+No single point of failure
+
+Multiple team members know each client's account well enough to step in, so a vacation or sick day never means your questions go unanswered.
+
+<!-- block: cta-banner | variant: image-bg | image: video-production-studio-consultation.jpg | alt: "CPA and video production owner shaking hands in a studio office" | query: "CPA meeting client office handshake" -->
+## Talk to a CPA who understands your production business
+
+You didn't get into production to spend your evenings reconciling invoices or wondering if a gear purchase qualifies for a deduction. You got into it to make things. Let a CPA who already understands project-based revenue, freelance crews, and Connecticut's media tax credit rules handle the financial side.
+
+[Schedule a consultation](/contact) and talk to a person who knows this industry, not just a form.
+
+---
+
+## Services
+
+### Bookkeeping
+URL: /services/bookkeeping
+
+<!-- block: intro-text | variant: centered -->
+## Bookkeeping support that gives you peace of mind
+
+Falling behind on your books creates a quiet kind of stress. You know it's there even when you're not looking at it. For small business owners in Westport and across Fairfield County, that unease usually comes from not knowing where the numbers actually stand.
+
+Abramson & Company built its bookkeeping service around a simple idea: you should never have to guess. Every transaction gets categorized, every account gets reconciled, and every report reaches you before you have to ask for it. Founded in 2005, our firm treats bookkeeping as the foundation everything else rests on, from tax planning to the advice you need to grow. When the books are clean, the rest of the picture gets a lot easier to see.
+
+<!-- block: checklist-section | variant: with-image | image: bookkeeper-reviewing-documents.jpg | alt: "Bookkeeper reviewing financial documents and receipts at a desk" | query: "bookkeeper reviewing financial documents desk" -->
+## What our bookkeeping services include
+
+Bookkeeping done right is more than data entry. Our team categorizes every transaction, reconciles bank and credit card accounts monthly, and delivers financial statements you can actually read and use. Here's what's included:
+
+- Transaction categorization and coding, done consistently every month
+- Bank and credit card reconciliations to catch errors before they compound
+- Monthly profit and loss statements and balance sheets
+- Accounts payable and receivable tracking
+- Custom reporting built around the metrics that matter to your business
+- Direct coordination with your CPA on tax questions as they come up
+
+Bookkeeping is also the entry point into two of our other services. Clients who want a fully outsourced finance function often move into [Outsourced Accounting](/services/outsourced-accounting), where we handle month-end close and management reporting. Those who want tax strategy woven into their monthly numbers add [Tax Plus](/services/tax), so nothing gets discovered for the first time in April.
+
+<!-- block: content-split | variant: image-right | image: fixed-fee-consultation.jpg | alt: "Accountant explaining fixed monthly pricing to a small business owner" | query: "accountant discussing pricing with client" -->
+## One fixed monthly fee, no surprises
+
+Hourly billing punishes you for asking questions. Call your bookkeeper twice in a week and you might see it reflected on the invoice. We don't work that way.
+
+Every bookkeeping client pays one fixed monthly fee that bundles bookkeeping with the related services you need, whether that's payroll, tax prep, or advisory support. You know the number before the month starts, and it doesn't move because you emailed us three times instead of one.
+
+That predictability matters most when cash flow is already tight. Fixed-fee bundling lets you budget for accounting the way you budget for rent or payroll, without worrying that a busy month turns into a surprise bill.
+
+<!-- block: content-split | variant: image-left | image: online-dashboard-review.jpg | alt: "Business owner checking financial dashboard on a laptop at home" | query: "business owner laptop financial dashboard" -->
+## Real-time access through our secure client platform
+
+Not knowing where your numbers stand between meetings is its own kind of stress. Our secure online platform gives you real-time access to your books, so you can check your cash position at 9pm on a Tuesday without waiting for a callback.
+
+You'll see reconciled transactions, current financial statements, and shared documents in one place. If a question comes up, you can flag it directly in the platform instead of digging through an email thread from three weeks ago.
+
+It's the same information we're looking at, updated on the same schedule we update it, so you're never working from an outdated picture of your own business.
+
+## Bookkeeping tailored to your industry
+
+Every industry keeps its books a little differently. A property manager's chart of accounts doesn't look like a boutique's, and a veterinary practice tracks costs a retail shop never has to think about. We've built bookkeeping workflows around the niches we know best, plus a few industries most local firms overlook.
+
+<!-- block: industry-cards | variant: 3-col -->
+### Real Estate
+icon: Home
+
+Property managers and investors need bookkeeping that tracks income and expenses by property, not just by month. We reconcile security deposits, CAM charges, and escrow so reports match what your lender expects to see. See our [real estate accounting work](/industries/real-estate).
+
+### Professional Service Providers
+icon: Briefcase
+
+Law firms, consultants, and agencies bill by project or retainer, and your books should reflect that. We track work-in-progress and unbilled time so revenue recognition lines up with cash actually collected. Learn more about our [professional service provider support](/industries/professional-service-providers).
+
+### Retail
+icon: Building2
+
+Inventory, point-of-sale integration, and sales tax across jurisdictions complicate retail books fast. We reconcile daily sales data against deposits so shrinkage and errors surface quickly. Explore our [retail bookkeeping approach](/industries/retail).
+
+### Equine
+icon: HeartPulse
+
+Boarding fees, veterinary costs, and seasonal cash flow make equine businesses harder to track than most bookkeepers realize. We've built the categories that fit how horse operations actually run.
+
+### Influencers
+icon: Sparkles
+
+Brand deals, affiliate income, and gifted product all count as revenue, and the IRS expects it reported correctly. We track irregular income streams so tax season doesn't turn into a scramble.
+
+### Construction
+icon: Hammer
+
+Job costing, retainage, and progress billing require bookkeeping that goes deeper than a standard general ledger. We track costs by job so you know which projects actually make money.
+
+### Healthcare
+icon: Stethoscope
+
+Insurance reimbursements, payer mix, and practice overhead move on their own timeline. We reconcile receivables against what payers actually remit, not just what was billed.
+
+<!-- block: content-split | variant: image-right | image: accounting-team-meeting.jpg | alt: "Accounting team collaborating around a table in a modern office" | query: "accounting team collaborating office" -->
+## A team that knows your business, not just your numbers
+
+Ray founded Abramson & Company in 2005 on a straightforward premise: clients need someone to talk to, not just software to log into. That's still true.
+
+We built a team-oriented culture on purpose. More than one person on our staff knows your account well enough to answer a question if your usual contact is out or on vacation. You're never stuck waiting for one specific person to call back.
+
+For clients across Westport, Fairfield County, and the tri-state area, that continuity means fewer dropped balls and fewer repeated conversations. You explain your business once, and the whole team carries that context forward.
+
+<!-- block: cta-banner | variant: image-bg | image: westport-small-business-owner.jpg | alt: "Small business owner reviewing paperwork in a bright office" | query: "small business owner smiling office" -->
+## Get your books in order today
+
+If your books haven't been reconciled in months, you're not alone, and you don't need to catch up by yourself. Abramson & Company works with small business owners throughout Westport and Fairfield County who want clean numbers and a straight answer when they ask for one.
+
+[Schedule a consultation](/contact) and we'll walk through where your books stand today and what a fixed monthly plan would look like for your business.
+
+---
+
+### Payroll
+URL: /services/payroll
+
+<!-- block: content-prose -->
+## Payroll that gives you back your time
+
+Most small business owners lose the better part of a full workday every month to payroll. Calculating hours, chasing tax deposits, fixing a misclassified employee before the filing deadline: it adds up, and it pulls you away from the work that actually grows your business.
+
+At Abramson & Company, payroll is not a task we hand off to a junior processor and hope for the best. It's run by the same CPA-led team that handles your bookkeeping, tax, and advisory work, so nothing falls through the cracks between departments. You get your time back, and you get it back with the peace of mind that a CPA is watching the details.
+
+<!-- block: checklist-section | variant: with-image | image: payroll-processing-checklist.jpg | alt: "Payroll specialist reviewing employee pay records on a laptop" | query: "payroll specialist reviewing documents office" -->
+## What our payroll services include
+
+You should know exactly what you're paying for. Here's what's covered when Abramson & Company runs your payroll:
+
+- Processing of scheduled payrolls, weekly, biweekly, or monthly
+- New employee setup and onboarding paperwork
+- Salary changes, bonuses, and off-cycle payments
+- Federal, state, and local payroll tax filings
+- W-2 and 1099 processing at year-end
+- Time tracking integration so hours flow straight into pay runs
+- Direct deposit and pay stub delivery for every employee
+- Ongoing compliance checks so filing deadlines never slip
+
+Each of these is handled by a CPA-supervised team, not a call center reading from a script. If a filing deadline is approaching or a tax rule changes, you hear about it before it becomes a problem.
+
+<!-- block: content-split | variant: image-right | image: fixed-fee-payroll-platform.jpg | alt: "Small business owner reviewing payroll dashboard on a tablet" | query: "business owner tablet dashboard office" -->
+## One team, one fixed monthly fee
+
+Most payroll providers bill by the transaction, the pay run, or the phone call, so your invoice shifts every month for reasons you didn't ask for. Abramson & Company bundles payroll with the rest of your accounting support, bookkeeping, tax, and advisory, for one fixed monthly fee. You know the cost before the year starts, and it doesn't move because you hired a seasonal employee or ran an extra bonus check.
+
+Every client also gets access to a secure online platform where you can review pay runs, pull reports, and message your team in real time. No faxing timesheets, no guessing whether a filing went through. It's payroll you can actually see.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Payroll built for your industry
+
+Payroll doesn't look the same across industries, and treating it like a one-size template is where most providers get it wrong.
+
+### Real Estate Teams
+icon: Home
+
+Agents often mix W-2 staff with 1099 contractors and commission-based pay. We structure payroll so commission splits, referral fees, and staff wages are classified correctly from the start, not corrected after an IRS notice.
+
+### Professional Service Providers
+icon: Briefcase
+
+Law firms, consultancies, and agencies often carry bonus structures and partner draws alongside salaried staff. We keep those distinctions clean on every pay run and every tax filing.
+
+### Retail Businesses
+icon: Clock
+
+Hourly staff, seasonal hiring, and shifting schedules make retail payroll a moving target. Time tracking integration and fast turnaround keep pay runs accurate even when your headcount changes month to month.
+
+### Equine Operations
+icon: Users
+
+Barn staff, trainers, and seasonal help often span multiple pay structures and, sometimes, multiple states. We handle the classification and filing details so you can stay focused on the horses.
+
+### Influencer Businesses
+icon: Zap
+
+Income that arrives in bursts, from brand deals to platform payouts, still needs consistent payroll and tax handling if you employ assistants or production help. We keep the paperwork steady even when the income isn't.
+
+<!-- block: content-split | variant: image-left | image: cpa-team-client-meeting.jpg | alt: "Two accountants and a client reviewing payroll reports together" | query: "accountants client meeting discussing documents" -->
+## A team that knows your business, not just your numbers
+
+Call your payroll provider and get a stranger on the line. That's the norm at most firms. Abramson & Company has run a team-oriented practice since Ray founded it in 2005, which means more than one person on your account knows your business well enough to answer without putting you on hold.
+
+If your usual contact is out, someone else on the team can still tell you why a filing was flagged or when your next tax deposit is due. That coverage matters most during payroll weeks, when a delay isn't an inconvenience, it's a missed paycheck. Clients across Westport, Fairfield County, the CT-NY-NJ tri-state area, and California's Bay Area rely on that continuity.
+
+<!-- block: cta-banner | variant: image-bg | image: business-owner-handshake-consultation.jpg | alt: "Business owner shaking hands with a CPA after a payroll consultation" | query: "business owner handshake advisor office" -->
+## Let's simplify your payroll
+
+You don't need to keep losing hours to payroll spreadsheets and tax deadline stress. A short conversation is enough to show you what CPA-led payroll looks like at a fixed monthly cost, with a team that already understands your industry.
+
+[Schedule a consultation](/contact) and let's get your payroll off your plate.
+
+---
+
+### Tax
+URL: /services/tax
+
+<!-- block: content-split | variant: image-right | image: tax-planning-conversation.jpg | alt: "CPA and client reviewing tax documents together at a desk" | query: "accountant client tax consultation" -->
+## Personalized tax support for Westport individuals and businesses
+
+Most tax prep feels transactional: drop off documents, wait, sign, done. Abramson & Company has worked differently since Ray founded the firm in 2005, treating every Westport, Fairfield County, and tri-state area client as someone with a life, not just a folder of receipts. When a question comes up in March or in September, someone who already understands your return picks up the phone.
+
+That matters because tax law changes every year, and generic advice rarely fits a specific situation. A CPA looks at your return in the context of your whole financial picture, whether that's a rental property, a growing consulting practice, or a family business passed down for two generations. The goal isn't just an accurate filing. It's a plan you understand and trust, built by people who stay in your corner after April 15.
+
+<!-- block: service-cards | variant: 3-col -->
+## What our tax services cover
+
+Tax touches every part of a client's finances, so Abramson & Company built its services to work together instead of in isolation.
+
+### Tax Planning & Preparation
+icon: Calculator
+
+Federal, state, and local returns for individuals, LLCs, S-corps, and partnerships, prepared with an eye toward next year's return, not just this one. Quarterly estimates, entity structure reviews, and deduction strategy are built into the process rather than billed as an afterthought.
+
+### Tax Plus
+icon: Target
+
+A year-round planning service that layers proactive strategy on top of standard preparation: mid-year check-ins, income projections, and adjustments as your business or life changes. It's built for clients who want tax decisions made in July, not scrambled in March.
+
+### Audit Protection
+icon: ShieldCheck
+
+Representation and support if the IRS or Connecticut Department of Revenue Services sends a letter, so you're not facing an inquiry alone or paying by the hour for peace of mind.
+
+Because tax outcomes depend on clean books and accurate payroll records, these services connect directly to [bookkeeping](/services/bookkeeping) and [payroll](/services/payroll), giving your CPA a full, current picture of your business before decisions get made, not after.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Tax strategies tailored to your industry
+
+A restaurant's tax picture looks nothing like a real estate investor's, and treating them the same way costs clients money. Abramson & Company built specific knowledge in five niches where the rules, deductions, and timing genuinely differ.
+
+### Real Estate
+icon: Home
+
+Depreciation schedules, 1031 exchanges, and passive activity rules shape returns for landlords, agents, and developers across Fairfield County and the tri-state area. [Learn more about real estate tax support](/industries/real-estate).
+
+### Professional Service Providers
+icon: Briefcase
+
+Entity structure and quarterly estimates matter most for consultants, attorneys, and other [professional service providers](/industries/professional-service-providers) whose income can swing significantly year to year.
+
+### Retail
+icon: Receipt
+
+Inventory accounting, sales tax compliance, and seasonal cash flow all factor into how [retail businesses](/industries/retail) plan for tax season, not just how they file.
+
+### Equine
+icon: Award
+
+Boarding income, breeding operations, and horse-related depreciation rules require a preparer who has actually seen an equine tax return before.
+
+### Influencers
+icon: Globe
+
+Sponsorship income, gifted products, and multi-state filing questions come up constantly for content creators building income across platforms and states.
+
+<!-- block: checklist-section | variant: with-image | image: secure-tax-portal-planning.jpg | alt: "Client reviewing tax documents on a laptop through a secure online portal" | query: "person laptop online financial portal" -->
+## How our fixed monthly fee model simplifies tax planning
+
+Most firms bill by the form, the hour, or the phone call, which makes tax costs unpredictable and turns every question into a line item.
+
+- One flat monthly fee bundles tax planning, preparation, bookkeeping, payroll, and advisory support, so there's no surprise invoice for asking a question in October.
+- A secure online platform lets you upload documents, message your CPA, and review your return in real time, from a phone, a laptop, or a client sitting in California at 9 a.m. Pacific.
+- Personalized tax strategies get built around your actual return, not a generic checklist, because planning happens throughout the year instead of during a two-week rush in April.
+
+This model exists because clients told Abramson & Company the same thing for years: they wanted to know what tax help would cost before they called, not after. For a deeper look at proactive planning, [see the firm's guide to tax refund strategy](/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning).
+
+<!-- block: content-split | variant: image-left | image: tax-team-collaboration.jpg | alt: "Team of accountants collaborating around a table reviewing client files" | query: "accounting team meeting collaboration office" -->
+## A team that knows your tax situation, not just your file
+
+No single person holds your entire tax file at Abramson & Company. Multiple team members review each client's return, income situation, and history closely enough to answer a question when your usual contact is out of office or on vacation.
+
+That's a deliberate structure, not an accident. A team-oriented culture means calls get returned even during the first week of April, when solo practitioners often go dark. Continuity matters more during a tax question than almost any other part of running a business, because timing drives outcomes: a missed estimate deadline or an overlooked deduction can cost real money. Clients get a team that already knows their situation, not a single point of failure who happens to be reachable that day.
+
+<!-- block: content-prose -->
+## Serving Westport and the greater tri-state area
+
+Abramson & Company has been rooted in Westport since 2005, and most clients still walk in from Fairfield County towns like Norwalk, Weston, and Wilton. The firm's reach extends across the tri-state area, covering Connecticut, New York, and New Jersey, and includes a growing group of clients in California, particularly the Bay Area.
+
+Distance doesn't change the level of service. The secure online platform means a client in San Francisco gets the same real-time document review and CPA access as someone dropping off paperwork in person on the Post Road. Local roots and remote capability aren't in tension here: they're the same firm, working the same way, regardless of time zone.
+
+<!-- block: cta-banner | variant: image-bg | image: westport-tax-consultation.jpg | alt: "Advisor and client shaking hands in a modern office setting" | query: "advisor client handshake office" -->
+## Get started with a tax conversation, not a sales pitch
+
+You don't need a finished shoebox of receipts to start a conversation about taxes. A short call with a CPA at Abramson & Company usually surfaces two or three questions worth answering before year-end, whether that's an entity change, a missed deduction, or a filing deadline coming up faster than expected.
+
+Schedule a consultation and talk through your specific situation. No pressure, no sales script, just a straightforward look at where your tax picture stands and what to do next.
+
+[Schedule a consultation](/contact)
+
+---
+
+### Outsourced accounting
+URL: /services/outsourced-accounting
+
+<!-- block: content-split | variant: image-right | image: outsourced-accounting-team.jpg | alt: "Accountant and small business owner reviewing financial reports together at a desk" | query: "accountant business owner reviewing reports" -->
+## Your accounting department without the overhead
+
+Running a small business means wearing a dozen hats, and sooner or later "chief financial officer" becomes one you can't wear well. Outsourced accounting gives you a full department, bookkeeping, controller-level review, and CPA oversight, without the cost of hiring staff to do it. Abramson & Company has run this exact model since founding the firm in 2005, moving Westport and Fairfield County businesses off spreadsheets and onto systems that actually show how the business is doing.
+
+Most firms selling "outsourced accounting" are really renting out a bookkeeper. Ours is different. Every account gets CPA-level review, so the numbers you see are accurate enough to make real decisions on, not just accurate enough to file a return. That's the gap between a data-entry service and an accounting department.
+
+<!-- block: checklist-section | variant: with-image | image: monthly-close-checklist.jpg | alt: "Accounting team member reconciling bank statements on a laptop" | query: "accountant reconciling bank statements laptop" -->
+## What our outsourced accounting team handles for you
+
+An outsourced accounting engagement with our firm covers the full cycle of financial work a growing business needs, not a slice of it. See how it compares to standard [bookkeeping](/services/bookkeeping) if you're deciding how much support your business actually needs.
+
+- Day-to-day transaction management, so every bill, deposit, and expense is coded correctly and on time
+- Bank and credit card reconciliations, completed monthly so nothing slips through unnoticed
+- Financial statement preparation, including profit and loss, balance sheet, and statement of cash flows
+- Cash flow reporting, so you can see what's coming before it becomes a problem
+- Month-end close, run against a defined checklist and timeline you can count on
+- Ongoing account review by a CPA, not just a bookkeeper entering data
+
+If you've been getting by on a part-time bookkeeper and hope, this is the difference between reactive numbers and numbers you can actually plan around.
+
+<!-- block: content-split | variant: image-left | image: fixed-fee-billing.jpg | alt: "Business owner reviewing a monthly invoice statement at a desk" | query: "business owner reviewing invoice statement" -->
+## How our fixed monthly bundle keeps costs predictable
+
+Traditional accounting billing punishes growth. The more transactions you have, the bigger your hourly invoice, and the less predictable your budget becomes. We bundle bookkeeping, reconciliations, financial reporting, and CPA review into one fixed monthly fee, set in advance and tied to the scope of your business rather than the clock.
+
+That means no surprise invoices after a busy quarter, no line-item arguing over which task counted as "extra," and no guessing what next month's bill looks like. Small business owners and real estate professionals tell us this predictability alone makes budgeting easier than anything their previous bookkeeper offered. Ask about specific bundle sizes when you schedule a consultation, since the right package depends on your transaction volume and how many entities you run.
+
+<!-- block: content-split | variant: image-right | image: secure-client-portal.jpg | alt: "Business owner viewing financial dashboard on a laptop screen" | query: "business owner laptop financial dashboard" -->
+## Real-time collaboration through our secure client platform
+
+You shouldn't have to email a spreadsheet and wait three days for an answer. Every outsourced accounting client gets access to a secure online platform where financials, documents, and messages live in one place, updated as our team closes your books.
+
+Log in and see your current cash position, message your account team directly, and pull a financial statement without waiting for month-end to ask for one. It's the same transparency you'd expect from an in-house controller, minus the payroll cost of employing one. For owners who've felt in the dark about their own numbers, that visibility changes how decisions get made.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Built for Westport and Fairfield County businesses
+
+Abramson & Company has served Westport and Fairfield County since 2005, with clients across the tri-state area of Connecticut, New York, and New Jersey, plus a growing group of clients in California's Bay Area. Outsourced accounting works especially well for a few types of businesses we see most often.
+
+### Real Estate
+icon: Home
+
+Property managers and investors need cash flow reporting that keeps pace with closings, draws, and multiple entities, not a once-a-year summary. See our dedicated [real estate accounting services](/industries/real-estate) for specifics.
+
+### Retail
+icon: Building2
+
+Inventory tracking, point-of-sale reconciliation, and seasonal cash flow swings need a bookkeeping rhythm built around [retail businesses](/industries/retail), not a generic monthly close.
+
+### Professional Service Providers
+icon: Briefcase
+
+Law firms, consultants, and agencies bill by project or retainer, and need financials that match how the business actually earns money. Learn more about our [work with professional service providers](/industries/professional-service-providers).
+
+<!-- block: content-split | variant: image-left | image: accounting-team-meeting.jpg | alt: "Two accounting team members discussing a client file together" | query: "colleagues discussing client file office" -->
+## A team that knows your business, not just your books
+
+Software can categorize a transaction. It can't tell you why your margins slipped in March or whether now's the time to hire. That takes someone who actually knows your business.
+
+Our team is built so more than one person understands your account well enough to answer a real question, not just look up an account number. If your usual contact is out, someone else on the team can still tell you where things stand. That continuity matters when you need an answer today, not next Tuesday. It's the reassurance clients tell us they were missing before they called us: someone to talk to, not just a login and a hope.
+
+<!-- block: cta-banner | variant: image-bg | image: cta-consultation-westport.jpg | alt: "CPA shaking hands with a small business owner in an office setting" | query: "cpa handshake business owner office" -->
+## Get started with a free consultation
+
+Since 2005, Abramson & Company has been building outsourced accounting departments for businesses across Westport, Fairfield County, and the tri-state area. Schedule a consultation and we'll walk through your current books, your reporting gaps, and what a fixed monthly bundle would look like for your business.
+
+[Schedule a consultation](/contact)
+
+---
+
+### Business foundation services
+URL: /services/business-foundation-services/
+
+<!-- block: intro-text | variant: centered -->
+## Start your business with a CPA in your corner
+
+Starting a business in Westport or anywhere in Fairfield County means making a dozen decisions before you've made a single sale: what to name the thing, how to structure it, who to register with, and how to keep the books straight from day one. Google can hand you information. It can't tell you which answer fits your situation.
+
+Abramson & Company has worked with new business owners since Ray founded the firm in 2005, and the pattern hasn't changed: founders don't need more articles to read, they need someone who already knows the terrain to sit across the table and say, here's what makes sense for you. Business foundation services give you that person from the first decision onward, not just after the tax bill arrives.
+
+<!-- block: checklist-section | variant: with-image | image: startup-paperwork-review.jpg | alt: "Small business owner and CPA reviewing startup documents together" | query: "business owner reviewing paperwork consultation" -->
+## What our business foundation services include
+
+A strong start has fewer moving parts than most founders expect once someone lays them out in order. Our business foundation services cover the decisions that shape everything else:
+
+- Entity type analysis, weighing LLC, S-corp, and other structures against your tax picture and long-term plans
+- Business plan review, so your numbers hold up under real scrutiny before you present them to a lender or partner
+- Registration and licensing guidance for Connecticut, New York, or New Jersey, depending on where you're setting up
+- Accounting system setup, giving you a bookkeeping structure that fits your business instead of a generic template
+- A direct line to a CPA who can answer the question that's keeping you up at night, not a call center
+
+Each piece connects to the next. Get the entity right and the tax strategy follows more cleanly. Get the accounting system built correctly and payroll, bookkeeping, and tax prep run smoother for years.
+
+<!-- block: content-split | variant: image-right | image: entity-structure-planning.jpg | alt: "CPA and business owner discussing entity structure options at a desk" | query: "advisor client discussing business structure" -->
+## Choosing the right entity structure for your goals
+
+LLC or S-corp isn't a question with one right answer. It depends on how much you expect to earn in year one, whether you plan to bring in partners or investors, how you want to pay yourself, and what your exit looks like five or ten years out. A retail shop owner in Westport and a real estate investor building a portfolio in Fairfield County often land in different structures even when their revenue numbers look similar.
+
+We walk through the tax consequences of each option with you, not at you. That means modeling out self-employment tax exposure, distribution rules, and filing obligations before you file anything, so the structure you choose supports where the business is actually headed instead of where a template assumed it would go.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Built for real estate, professional services, retail, and more
+
+Foundational decisions look different depending on the business. We bring specific experience to the industries where our clients build:
+
+### Real Estate
+icon: Home
+
+Entity structure decisions matter more when property, financing, and multiple LLCs are involved. We help investors and agents set up structures that hold up as portfolios grow.
+
+### Professional Service Providers
+icon: Briefcase
+
+Consultants, attorneys, and other service-based founders need entity and tax setups that match how they bill and how they plan to scale their practice.
+
+### Retail Businesses
+icon: Building2
+
+Inventory, point-of-sale systems, and multi-location plans all shape the right accounting setup from the first day the doors open.
+
+### Equine Businesses
+icon: Award
+
+Boarding, training, and breeding operations carry their own tax and liability considerations. We've built foundations for equine clients who needed structure specific to the industry.
+
+### Influencers
+icon: Sparkles
+
+Content creators and influencers face entity and tax questions most CPAs haven't seen before. We have.
+
+<!-- block: content-split | variant: image-left | image: team-bundled-services-meeting.jpg | alt: "Accounting team members collaborating on a client account together" | query: "accounting team collaborating office meeting" -->
+## One team, bundled support as you grow
+
+Business foundation services are the starting point, not the whole relationship. As your business grows, bookkeeping, payroll, and tax needs stack up, and our bundled pricing model lets you add them for one fixed monthly fee instead of negotiating a new invoice every time.
+
+Our team-oriented culture means more than one person at Abramson & Company knows your file well enough to pick up the phone when you call. You're never stuck waiting on a single point of contact, and everything you need runs through the same secure online platform, so your bookkeeper, payroll processor, and CPA are all looking at the same real-time numbers.
+
+<!-- block: cta-banner | variant: image-bg | image: new-business-owner-handshake.jpg | alt: "New business owner shaking hands with a CPA advisor" | query: "business owner handshake advisor office" -->
+## Let's build your business on solid ground
+
+Ray founded this firm in 2005 on the idea that new business owners need a CPA they can actually talk to, not just a tax preparer they meet once a year. If you're starting a business in Westport, Fairfield County, or anywhere in the tri-state area of Connecticut, New York, and New Jersey, we can help you make the entity, registration, and accounting decisions that set the tone for everything that follows.
+
+[Schedule a consultation](/contact) and let's talk through where your business stands and what it needs to start strong.
+
+---
+
+### Audit protection
+URL: /services/audit-protection
+
+<!-- block: intro-text | variant: centered -->
+## Fear no audit with a CPA-led defense team
+
+An IRS notice in the mailbox can ruin a week. Most business owners open it, feel their stomach drop, and have no idea what happens next. That's the moment Abramson & Company steps in.
+
+We respond to the IRS and Connecticut Department of Revenue Services directly on your behalf, so you're not the one on the phone trying to decode agency language. Since founding the firm in 2005, Ray Abramson has built a team that treats audit defense as a core discipline, not an afterthought bolted onto tax prep. You get a CPA between you and the auditor, handling correspondence, deadlines, and documentation while you keep running your business. That's the whole point of audit protection: fewer sleepless nights, one clear point of contact, and someone in your corner who already knows your file.
+
+<!-- block: checklist-section | variant: with-image | image: audit-notice-review.jpg | alt: "CPA reviewing an IRS audit notice with a client at a desk" | query: "accountant reviewing tax documents client" -->
+## What our audit protection covers
+
+Audit protection through Abramson & Company isn't a single phone call. It's a defined scope of work that stays active for as long as an inquiry runs, covering:
+
+- Direct response to IRS notices and letters, including CP2000s, underreporter notices, and audit selection letters
+- Handling of Connecticut Department of Revenue Services notices and other state tax authority correspondence
+- Representation at the examination and appeals level, so you're not sitting across the table alone
+- Support through litigation-track matters when a case escalates beyond standard appeals
+- Ongoing communication with the assigned agent or auditor, tracked and documented so nothing falls through a gap
+- Coordination with your bookkeeping and tax records already on file with our team, cutting down the scramble to find documentation
+
+Every response goes out under CPA review before it reaches the IRS or state. You'll know what's been sent, when, and why.
+
+<!-- block: content-split | variant: image-right | image: westport-office-team.jpg | alt: "Accounting team collaborating in a Westport Connecticut office" | query: "accounting team office meeting Connecticut" -->
+## Why Westport and Fairfield County businesses choose us
+
+Local knowledge matters when a state notice arrives, and geography still shapes half the questions we field. We work with individuals and small-to-midsize businesses across Westport, Fairfield County, and the wider tri-state area of Connecticut, New York, and New Jersey, plus a growing group of clients in California's Bay Area who found us through referral.
+
+The firm runs on a team-oriented model: more than one person on staff knows your file well enough to step in if your usual contact is out. That matters most during an audit, when a state deadline doesn't wait for someone's vacation. You're not tied to a single name on a business card. You're tied to a firm that already has your history, your numbers, and your context on hand.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Audit protection tailored to your industry
+
+Auditors look for different red flags depending on what you do. Generic advice misses the details that actually trigger a notice, so our approach shifts by industry.
+
+### Real Estate
+icon: Home
+
+Depreciation schedules, 1031 exchanges, and passive activity loss rules draw scrutiny in real estate audits. We prepare documentation on entity structure and property transactions before an inquiry ever arrives.
+
+### Professional Service Providers
+icon: Briefcase
+
+Attorneys, consultants, and other service providers face questions about business use of home offices, owner compensation, and deductible expenses. We keep the paper trail organized so those answers are ready.
+
+### Retail
+icon: Building2
+
+Inventory valuation, cash transactions, and sales tax reconciliation are common audit triggers for retail businesses. We tie your point-of-sale and bookkeeping records together so the numbers match every filing.
+
+### Equine
+icon: HeartPulse
+
+Hobby-loss rules hit equine operations harder than almost any other niche, since the IRS routinely questions whether a horse business is run for profit. We document the operational and financial case that it is.
+
+### Influencers
+icon: Sparkles
+
+Gifted products, brand deals, and mixed personal-business expenses create audit exposure unique to influencer income. We help classify income correctly from the start, so an audit finds consistency instead of confusion.
+
+<!-- block: content-split | variant: image-left | image: secure-client-portal.jpg | alt: "Business owner reviewing financial reports on a secure online client portal" | query: "business owner laptop financial dashboard" -->
+## How audit protection fits into your fixed monthly plan
+
+Audit protection isn't sold as a surprise add-on when a notice shows up. It's built into the bundled, fixed-monthly-fee model that covers bookkeeping, payroll, tax, and advisory work under one plan. You know the cost before anything happens, not after.
+
+Everything runs through the same secure online platform where you already track invoices, payroll runs, and tax filings. When a notice comes in, the team pulling your defense together is looking at the same live numbers you are, in real time, instead of requesting documents from scratch. That continuity is the difference between a defense built on guesswork and one built on records that were accurate the day they were filed.
+
+<!-- block: process-steps | variant: vertical -->
+## What to expect if you receive an audit notice
+
+### Call us before you respond to anything
+
+Don't sign, mail, or email anything back to the IRS or state on your own. Call your Abramson & Company contact first, ideally within 24 to 48 hours of opening the notice.
+
+### Send us the notice
+
+Upload the letter through the secure client portal or forward it directly. We confirm receipt and flag the response deadline immediately so nothing lapses.
+
+### We review and respond
+
+A CPA on your account reviews the notice against your existing records, drafts the response, and handles direct correspondence with the agency on your behalf.
+
+### We keep you posted
+
+You get a plain-language update at each stage, whether the matter closes in one letter or moves toward an appeals-level review.
+
+<!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "CPA shaking hands with a small business client in an office" | query: "business consultation handshake office meeting" -->
+## Get audit protection in place before you need it
+
+Most people call us after the notice arrives. The smarter move is calling before one does. Since 2005, Abramson & Company has built audit defense into the everyday work of running a business in Westport, Fairfield County, and beyond, so it's already there when you need it.
+
+Schedule a consultation and we'll walk through what audit protection looks like for your business, your industry, and your existing tax and bookkeeping setup.
+
+---
+
+### Personal income tax
+URL: /services/personal-income-tax
+
+<!-- block: intro-text | variant: centered -->
+## Personal tax help built for Westport and Fairfield County residents
+
+Tax season doesn't have to mean stacks of forms and unanswered questions. If you live in Westport, own a home in Fairfield County, or split time between Connecticut and California's Bay Area, you need a return prepared correctly and a person who picks up the phone when you have a question in March, June, or November.
+
+Abramson & Company has prepared personal returns from our Westport office since 2005. We work with residents across Fairfield County and the tri-state area of Connecticut, New York, and New Jersey, plus a growing group of Bay Area clients who found us through referrals. The tax code changes every year, and most people don't have time to track it. That's the gap we fill: a CPA who explains what changed, what it means for your return, and what to do before the deadline, not after.
+
+<!-- block: checklist-section | variant: with-image | image: personal-tax-return-review.jpg | alt: "CPA reviewing a client's personal tax return documents at a desk" | query: "accountant reviewing tax documents client" -->
+## What our personal tax service includes
+
+A bare-bones filing shop plugs numbers into software and mails you a bill. Our personal income tax service is built to catch what a fast-turnaround preparer misses, and to keep working after April 15.
+
+- Federal and multi-state return preparation for Connecticut, New York, New Jersey, and California
+- Year-round tax planning, not a once-a-year appointment in April
+- Audit protection, so you have support if the IRS or a state agency sends a letter
+- Coordination with your business return, payroll, and bookkeeping if you own a company
+- Review of withholding, estimated payments, and life changes like a home sale or a new dependent
+- A CPA who signs your return and stands behind it after it's filed
+
+<!-- block: content-split | variant: image-right | image: real-estate-professional-tax-planning.jpg | alt: "Real estate professional reviewing tax paperwork with a laptop" | query: "real estate agent reviewing paperwork office" -->
+## Personalized strategy, not one-size-fits-all filing
+
+Two people with the same income can owe very different amounts of tax. A real estate agent with 1099 income and mileage deductions needs a different strategy than a business owner running payroll through an S-corp, or an influencer with sponsorship income spread across multiple 1099s.
+
+Our personal tax service starts with a conversation about how you actually make money, not a checklist. Real estate professionals get help with cost segregation and self-employment tax planning. Business owners get returns that connect cleanly to their business filings. Influencers and content creators get guidance on quarterly estimates and expense tracking. Equine clients, from boarding operations to competition horses, get help sorting hobby-loss rules from legitimate business deductions. The strategy fits the income, not the other way around.
+
+<!-- block: content-split | variant: image-left | image: accounting-team-collaboration.jpg | alt: "Two accountants collaborating over a client file in an office" | query: "accounting team collaborating office meeting" -->
+## A team that knows your full financial picture
+
+Ask five accounting firms what happens if your preparer is out sick during tax season, and most won't have a good answer.
+
+At Abramson & Company, more than one team member knows your file. If your regular contact is unavailable, someone else can answer your question or file an extension without starting from scratch. That's by design: the firm's team-oriented culture exists specifically so no single person is a bottleneck for your return. For clients juggling W-2 income, rental property in Fairfield County, and a small business on the side, that continuity matters more in March than in any other month.
+
+<!-- block: content-split | variant: image-right | image: secure-online-tax-portal.jpg | alt: "Client uploading tax documents on a laptop through a secure portal" | query: "person using laptop online portal home" -->
+## Collaborate securely from anywhere
+
+Uploading tax documents shouldn't mean emailing PDFs back and forth or dropping off a folder in person, especially if you're managing your return from Connecticut while your CPA works from Westport, or the reverse if you're a Bay Area client three time zones away.
+
+Our secure online platform lets you upload W-2s, 1099s, and prior returns, message your preparer, and check the status of your return in real time. You can review a draft, sign documents electronically, and see exactly where things stand without a phone call. It's the same platform we use for bookkeeping and payroll clients, so if you also run a business with us, everything lives in one place.
+
+<!-- block: stats-bar | variant: 3-up -->
+## Why Westport individuals and business owners choose Abramson & Company
+
+Abramson & Company has prepared personal and business tax returns from Westport since 2005. Clients choose the firm for CPA-led review of every return, a fixed monthly fee that bundles tax with bookkeeping and payroll when needed, and a team that already knows their financial picture before tax season starts.
+
+- **2005**: Year Abramson & Company was founded in Westport, CT
+- **4**: States served, including Connecticut, New York, New Jersey, and California
+- **5**: Client niches served, from real estate and retail to equine
+
+<!-- block: cta-banner | variant: image-bg | image: westport-cpa-office-consultation.jpg | alt: "CPA shaking hands with a client after a tax consultation meeting" | query: "advisor client handshake office meeting" -->
+## Get started on your personal tax return
+
+Tax deadlines don't move, but the stress around them can shrink. Schedule a consultation with a CPA who will look at your full financial picture, not just this year's forms, and tell you what to expect before you owe anything or file a single page. Whether you live in Westport, work remotely from the Bay Area, or run a business alongside your personal return, we're ready to talk before the season gets loud.
+
+[Schedule a consultation](/contact)
+
+---
+
+### Entity type analysis
+URL: /services/entity-type-analysis
+
+<!-- block: intro-text | variant: centered -->
+## Choosing the right structure shapes your tax and liability future
+
+Every business decision starts with a structure. LLC, S-corp, C-corp, partnership, or sole proprietorship: each carries its own tax treatment, liability exposure, and paperwork burden. Pick wrong, and you could pay more in self-employment tax than necessary, or leave personal assets exposed to business debt. Pick right, and the structure quietly supports growth for years without you thinking about it again.
+
+For business owners in Westport and across Fairfield County, entity type analysis is one of the first services under Abramson & Company's [Business Foundation Services](/services/business-foundation-services/). It's a deliberate review of income projections, liability risk, and long-term plans, conducted by a CPA who asks the right questions before recommending a direction. New ventures and established companies both need this review: the tax code doesn't stay still, and neither should your entity choice.
+
+<!-- block: content-split | variant: image-right | image: business-owner-entity-review.jpg | alt: "Small business owner reviewing entity structure paperwork with an advisor" | query: "small business owner meeting advisor documents" -->
+## Who benefits most from a professional entity review
+
+New business owners face this decision on day one, often without knowing how much it matters. A [real estate](/industries/real-estate) investor forming an LLC for a rental property, a [professional service provider](/industries/professional-service-providers) setting up a consulting practice, or a [retail](/industries/retail) owner opening a second location each face a different calculation. Guess wrong, and unwinding the paperwork later costs more than getting it right the first time.
+
+Established businesses need this review too. An equine business scaling from hobby to full operation, an influencer whose income has outgrown a sole proprietorship, or a retail partnership bringing on new owners all reach a point where the original structure no longer fits. Restructuring isn't a sign something went wrong. It's what growth looks like on paper.
+
+<!-- block: process-steps | variant: vertical -->
+## How our CPA-led process works
+
+### Understanding your goals
+The process starts with a conversation about where the business is headed: revenue targets, hiring plans, potential investors, and how you eventually want to exit. This context shapes everything that follows, more than any generic checklist could.
+
+### Reviewing income and liability exposure
+A CPA walks through projected income, self-employment tax exposure, and the personal liability risk tied to your current or planned structure. Real numbers replace guesswork at this stage.
+
+### Weighing the options
+LLC, S-corp, C-corp, partnership, or sole proprietorship: each option gets compared against your actual projections, not textbook assumptions. Some structures that look appealing on paper create tax problems once your specific numbers are run through them.
+
+### Recommending a structure in plain language
+You get a clear recommendation with the reasoning behind it, explained without jargon, so the decision makes sense before anything gets filed. Questions get answered on the spot, not weeks later in a follow-up email.
+
+<!-- block: checklist-section | variant: with-image | image: online-platform-collaboration.jpg | alt: "Business owner and CPA reviewing financial dashboard on a laptop together" | query: "business owner accountant laptop collaboration" -->
+## Support that continues after you choose a structure
+
+Entity selection isn't a form filed and forgotten. Once a structure is set, it connects directly to how your books are kept, how payroll runs, and how your tax return gets filed each year. Abramson & Company bundles these services under one fixed monthly fee, so entity setup doesn't sit disconnected from everything that follows.
+
+- Bookkeeping calibrated to your new entity type from day one
+- Payroll structured correctly for S-corp or partnership distributions
+- Tax planning that reflects your entity choice, not last year's assumptions
+- Real-time access through a secure online platform, so you and your CPA see the same numbers
+- A natural path forward into [accounting system setup](/services/accounting-system-setup) once the structure is in place
+
+<!-- block: content-split | variant: image-left | image: westport-cpa-team-meeting.jpg | alt: "CPA team members discussing a client file together in a Westport office" | query: "accounting team discussion office meeting" -->
+## Why Westport and Fairfield County businesses trust Abramson & Company
+
+Ray founded Abramson & Company in 2005, and the firm has spent two decades working with business owners across Westport, Fairfield County, and the tri-state area of Connecticut, New York, and New Jersey. Clients in California's Bay Area work with the firm too, often needing guidance on how their state's rules interact with a Connecticut-based structure. That geographic range shows up in the questions the team knows to ask.
+
+The firm is built so more than one person knows your file. If your regular contact is unavailable, another team member can pick up the conversation without making you start over. Read more about [who we are](/who-we-are). That continuity matters most during a decision like entity structure, where questions surface months after the paperwork is filed.
+
+<!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "CPA and business owner shaking hands after a consultation meeting" | query: "consultation handshake office meeting" -->
+## Get your entity type reviewed by a Westport CPA
+
+If you're forming a new business or wondering whether your current structure still fits, a short conversation can save years of tax inefficiency. [Schedule a consultation](/contact) with Abramson & Company and get a straight answer on what LLC, S-corp, C-corp, partnership, or sole proprietorship status actually means for your numbers.
+
+---
+
+### Accounting system setup
+URL: /services/accounting-system-setup
+
+<!-- block: content-split | variant: image-right | image: accounting-system-setup-review.jpg | alt: "CPA and small business owner reviewing new chart of accounts on laptop" | query: "accountant small business owner laptop meeting" -->
+## Get a solid accounting foundation from day one
+
+Setting up a new accounting system feels bigger than it is, right up until you pick the wrong software or build a chart of accounts that doesn't fit your business. Then you spend the next two years untangling mismatched categories and duplicate transactions. Most small business owners we meet have tried to do this themselves, or inherited a system from a bookkeeper who's since moved on, and they're not sure the numbers underneath are even right.
+
+Abramson & Company has been setting up accounting systems since 2005, when Ray founded the firm in its current form. Every engagement starts with the same question: what does your business actually need to track, not what does a default install assume you need. Get the foundation right now, and every report, tax return, and financial decision that follows rests on solid ground instead of guesswork.
+
+<!-- block: checklist-section | variant: with-image | image: accounting-setup-checklist.jpg | alt: "Bookkeeper connecting bank feeds and chart of accounts in accounting software" | query: "bookkeeper setting up accounting software" -->
+## What's included in our setup process
+
+Setup work goes fine until it's rushed. Here's exactly what happens when Abramson & Company builds your accounting system from scratch:
+
+- A chart of accounts built for your industry, not copied from a generic template
+- Software selection and setup, typically [QuickBooks](/services/bookkeeping) Online, configured for how your business actually runs
+- Bank and credit card feeds connected and mapped so transactions flow in correctly
+- Historical data migration if you're moving from another system or from spreadsheets
+- Initial categorization rules set up so your reports are accurate from month one
+- A walkthrough with your CPA so you understand what you're looking at, not just where to click
+
+By the time we hand off your finished system, it's already been tested against a full month of real transactions, not a demo account.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Built around your business, not a generic template
+
+A chart of accounts that works for a real estate investor doesn't work for a retail shop, and neither works for an equine business tracking boarding income and vet costs. We build your setup around the business you actually run.
+
+### Real Estate
+icon: Home
+
+Property income, rehab costs, and multi-property cash flow need their own account structure, not a generic profit and loss. See how we support [real estate professionals](/industries/real-estate).
+
+### Professional Service Providers
+icon: Briefcase
+
+Law firms, consultants, and agencies need accounts built around billable hours, retainers, and project profitability. Learn more about our work with [professional service providers](/industries/professional-service-providers).
+
+### Retail
+icon: Building2
+
+Inventory, cost of goods sold, and multi-location sales require a setup that separates margin from overhead from day one. See our [retail](/industries/retail) approach.
+
+### Equine
+icon: HeartPulse
+
+Boarding fees, vet bills, feed costs, and breeding income each need their own line so you know what's actually profitable.
+
+### Influencers
+icon: Sparkles
+
+Sponsorship income, platform payouts, and equipment expenses get tracked separately so tax time doesn't turn into a scramble.
+
+<!-- block: content-split | variant: image-left | image: secure-client-portal-review.jpg | alt: "Client and accountant reviewing accounting setup progress on secure online platform" | query: "client accountant reviewing documents online screen" -->
+## Collaborate in real time on our secure platform
+
+Most accounting setups happen behind closed doors: you hand over your bank statements and wait for a finished product. We work differently.
+
+Abramson & Company's secure online platform lets you watch your setup take shape in real time. Log in, see the chart of accounts as it's built, flag a category that doesn't fit, and get an answer the same day instead of waiting on a follow-up call. Your CPA team sees the same screen you do. That kind of visibility matters most in the first few weeks, when small corrections are easy to make and expensive to fix later.
+
+<!-- block: content-prose -->
+## A team that knows your business from the start
+
+A lot of small business owners have been burned by a solo bookkeeper who left, or a QuickBooks-only setup with no one to call when something breaks. Abramson & Company runs on a team-oriented culture: multiple people on your account know your chart of accounts, your industry, and your history from setup forward.
+
+If your usual contact is out, someone else already knows your file. You're not re-explaining your business to a stranger, and you're not stuck waiting for one person's calendar to open up. That's been built into how the firm has worked since 2005, and it matters more during setup than at almost any other point in the relationship, because early decisions shape everything that follows.
+
+<!-- block: service-cards | variant: 3-col -->
+## From setup to ongoing bookkeeping and advisory support
+
+Setup is the first step, not the whole relationship. Once your system is built, most clients move into ongoing support:
+
+### Bookkeeping
+icon: Calculator
+
+Monthly categorization, reconciliation, and reporting on the system we just built for you. See our [bookkeeping](/services/bookkeeping) service.
+
+### Outsourced Accounting
+icon: ChartBar
+
+Full accounting function support for businesses that need more than bookkeeping but aren't ready for an in-house controller. Explore [outsourced accounting](/services/outsourced-accounting).
+
+### Tax Plus
+icon: Receipt
+
+Your accounting setup feeds directly into tax planning, so your CPA works from real numbers instead of a shoebox in April. Learn about [tax planning](/services/tax).
+
+All three are available as part of a bundled monthly fee, so setup, bookkeeping, and tax work don't arrive as separate invoices from separate people.
+
+<!-- block: cta-banner | variant: image-bg | image: westport-cpa-consultation.jpg | alt: "Small business owner meeting with CPA at Westport Connecticut office" | query: "small business owner accountant office consultation" -->
+## Start your accounting system setup with a Westport CPA
+
+You don't have to figure out chart of accounts structure or software choice on your own. Abramson & Company works with small business owners, real estate professionals, and retail shops across Westport, Fairfield County, and the tri-state area of Connecticut, New York, and New Jersey, plus clients as far as the Bay Area in California.
+
+Schedule a consultation and bring your questions, whether that's which software to use or how to migrate three years of spreadsheets. We'll tell you what your setup actually needs before you commit to anything.
+
+[Schedule a consultation](/contact)
+
+---
+
+### Retirement plan analysis
+URL: /services/retirement-plan-analysis
+
+<!-- block: intro-text | variant: centered -->
+## Get a clear picture of your retirement readiness
+
+Scattered 401(k) balances from old jobs. A SEP IRA you opened years ago and haven't looked at since. A vague sense that retirement is "handled," but no real proof of it. That's the situation many business owners and professionals in Westport bring to us, and it's exactly what a retirement plan analysis is built to fix.
+
+A CPA-led review pulls every account into one picture: what you have, what it's costing you in taxes, and whether it lines up with the retirement you actually want. Abramson & Company has guided Fairfield County clients through this process since founding the firm in 2005, using the same plain-spoken approach behind our [tax and business advisory work](/services/tax). No jargon, no sales pitch, just a clear read on where you stand.
+
+<!-- block: service-cards | variant: 3-col -->
+## Who benefits from a retirement plan review
+
+Retirement planning looks different depending on how you earn your income. Here's who tends to gain the most from a formal review.
+
+### Small Business Owners
+icon: Building2
+
+Running payroll, covering overhead, and reinvesting in growth often push retirement contributions to the back burner. A review shows how much you can defer tax-free without straining cash flow, and whether a SEP IRA or Solo 401(k) fits your staffing situation better.
+
+### Self-Employed Professionals
+icon: Briefcase
+
+Freelancers and solo practitioners have some of the widest contribution limits available, and some of the least guidance on how to use them. We map out contribution ceilings against your actual income so you're not guessing at deadlines or leaving deductions on the table.
+
+### Real Estate Investors
+icon: Home
+
+Rental income, depreciation, and 1031 exchanges complicate what a "normal" retirement contribution looks like. A review accounts for your full income picture, not just W-2 wages. Many of our [real estate clients](/industries/real-estate) combine this analysis with broader tax planning.
+
+### Professional Service Providers
+icon: Scale
+
+Attorneys, consultants, and other practice owners often have retirement accounts opened at different life stages with no coordination between them. We flag where fees, redundancy, or missed contribution room are quietly costing you. [Professional service providers](/industries/professional-service-providers) we work with often pair this with ongoing tax strategy.
+
+<!-- block: checklist-section | variant: with-image | image: retirement-plan-review-checklist.jpg | alt: "Advisor and client reviewing retirement account statements together at a desk" | query: "advisor client reviewing financial documents desk" -->
+## What our retirement plan analysis covers
+
+A retirement plan analysis starts with the accounts you already have, not a blank slate. We gather statements from your 401(k), SEP IRA, Solo 401(k), or pension plan and evaluate them against your income, tax bracket, and timeline.
+
+The review typically includes:
+
+- A full inventory of existing retirement accounts and their current allocations
+- An assessment of how much you're contributing versus how much you're allowed to contribute tax-free
+- A comparison of your current plan structure against other tax-advantaged options
+- A look at how retirement contributions interact with your [business entity type](/services/entity-type-analysis) and overall tax strategy
+- Alignment between your retirement plan and any estate planning documents already in place
+- A written summary of findings and recommended next steps, in language you can actually use
+
+Nothing here is generic. Recommendations come from someone who already knows your tax return, your business structure, and your goals, because the same CPA team handles all three.
+
+<!-- block: content-split | variant: image-right | image: business-owner-retirement-options.jpg | alt: "Small business owner discussing SEP IRA and Solo 401k options with advisor" | query: "small business owner financial advisor meeting" -->
+## Retirement plan options for business owners and the self-employed
+
+Choosing between a SEP IRA and a Solo 401(k) isn't a coin flip. It depends on your income level, whether you have employees, and how aggressively you want to contribute in a given year.
+
+A SEP IRA is simple to set up and works well for business owners with fluctuating income or a small number of employees. A Solo 401(k) often allows higher total contributions and adds a Roth option that a SEP IRA doesn't offer. For business owners with staff beyond themselves, a SIMPLE IRA or small 401(k) plan may fit better, something we often map out alongside [business foundation services](/services/business-foundation-services/).
+
+Abramson & Company walks through the math with you, comparing contribution limits, administrative cost, and tax impact side by side, so the plan you choose fits your business today, not a generic recommendation pulled from a brochure.
+
+<!-- block: content-split | variant: image-left | image: cpa-team-collaboration-platform.jpg | alt: "CPA team members collaborating on a client retirement plan using a laptop" | query: "accounting team collaboration laptop office" -->
+## How your CPA team supports your retirement strategy
+
+Retirement decisions rarely happen in isolation. They connect to your tax return, your entity structure, and sometimes your exit plan for the business itself. That's why the same team handling your bookkeeping, payroll, or tax filing is the one reviewing your retirement accounts, not a separate advisor working from a different set of numbers.
+
+Abramson & Company runs on a team-oriented model: multiple people on staff know your file well enough to step in when needed, so a question doesn't sit in an inbox waiting for one specific person to return. Documents and statements move through a secure online platform, so you can share information and see progress without a string of email attachments.
+
+<!-- block: content-prose -->
+## Serving Westport and the tri-state area
+
+Abramson & Company is based in Westport, CT, and works with clients throughout Fairfield County and the greater CT-NY-NJ tri-state area. A number of clients are based farther out, including a concentration in California's Bay Area, connecting by phone and through the secure client platform rather than in-person meetings.
+
+Wherever you're located, the retirement plan analysis works the same way: real numbers, reviewed by a CPA who already understands your tax situation.
+
+<!-- block: cta-banner | variant: image-bg | image: schedule-retirement-consultation.jpg | alt: "Client and CPA advisor shaking hands after a retirement planning consultation" | query: "handshake advisor client office meeting" -->
+## Schedule your retirement plan review
+
+If your retirement accounts feel scattered, or no one has actually looked at all of them together, that's the gap this service closes. Bring whatever statements you have, even if it's just a login you haven't checked in a year. [Schedule a consultation](/contact) and we'll take it from there.
+
+---
+
+### Business management services
+URL: /services/business-management-services
+
+<!-- block: intro-text | variant: centered -->
+## Running your business shouldn't mean running yourself ragged
+
+You started your business to build something, not to spend nights reconciling spreadsheets or double-checking whether last quarter's payroll filings went through correctly. Most owners we talk with in Westport and across Fairfield County aren't short on information. Between apps, articles, and well-meaning advice from other owners, there's plenty of that. What's missing is someone who knows their business well enough to say what actually matters.
+
+That's the gap our business management services close. Instead of juggling separate contacts for bookkeeping, payroll, tax, and strategy, you get one CPA-led team that ties those pieces together into a single, coherent picture. This isn't facility oversight or property management. It's financial and operational guidance built around how your business actually runs.
+
+<!-- block: checklist-section | variant: with-image | image: business-management-services-overview.jpg | alt: "Accountant organizing financial reports and documents for a small business" | query: "accountant organizing financial documents office" -->
+## What business management services include at Abramson
+
+Business management services at Abramson & Company cover the financial and operational oversight small-to-midsize businesses need day to day, not the maintenance, leasing, or tenant work a property manager handles. Think of it as a standing seat at the table for your company's numbers and decisions.
+
+Here's what that looks like in practice:
+
+- Cash flow monitoring and forecasting, so you know what's coming before it hits your account
+- Monthly and quarterly [financial reporting](/services/outsourced-accounting) built for decisions, not just compliance
+- Vendor and [payroll](/services/payroll) coordination handled by people who already know your business
+- Budget and expense oversight tied to your actual goals, not generic industry benchmarks
+- Strategic decision support when you're weighing a hire, a lease, or a new line of business
+- Coordination across [bookkeeping](/services/bookkeeping), payroll, [tax](/services/tax), and advisory so nothing falls through the cracks between services
+
+Each piece runs through the same team and the same fixed monthly fee, so the picture stays whole instead of scattered across separate vendors and separate invoices.
+
+<!-- block: content-split | variant: image-right | image: business-management-team-meeting.jpg | alt: "CPA team reviewing client financial reports together at a conference table" | query: "accounting team collaborating office meeting" -->
+## One team that knows your business from every angle
+
+Business management pricing at Abramson works on a bundled, fixed monthly fee. You know the cost upfront, and it covers the coordination between bookkeeping, payroll, tax, and advisory work rather than a separate invoice for every phone call or question.
+
+More importantly, more than one person on our team knows your business well enough to actually answer your questions. If your usual contact is out, someone else can pick up the conversation without making you start over. That's a deliberate part of how Ray built the firm: a team-oriented culture where the knowledge about your business doesn't sit in one person's inbox.
+
+For a business owner, that means fewer dropped threads and less time spent re-explaining your own company to whoever happens to answer the phone.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Built for real estate, professional services, retail, equine, and influencer businesses
+
+Different industries carry different operational headaches. Here's where our business management clients typically need the most support.
+
+### Real Estate
+icon: Building2
+
+Multi-entity structures, property-level P&Ls, and 1031 timelines mean [real estate](/industries/real-estate) clients need reporting that rolls up cleanly across properties and partnerships. We track cash flow by entity so you can see which properties are actually performing.
+
+### Professional Service Providers
+icon: Briefcase
+
+[Law firms, consultancies, and agencies](/industries/professional-service-providers) deal with uneven billing cycles and partner draws that complicate cash flow planning. We coordinate payroll, partner distributions, and tax planning so cash on hand matches what's actually owed.
+
+### Retail
+icon: Receipt
+
+Inventory financing, seasonal swings, and thin margins mean [retail](/industries/retail) businesses need close, current numbers, not a report that shows up six weeks late. We keep clients current on cost of goods, inventory turns, and vendor terms.
+
+### Equine Businesses
+icon: HeartPulse
+
+Boarding income, vet and farrier bills, and seasonal show expenses create cash flow patterns that don't look like a typical small business. We build reporting around those rhythms instead of forcing a generic template onto an equine operation.
+
+### Influencers and Content Creators
+icon: Sparkles
+
+Brand deal income, platform payouts, and self-employment tax obligations arrive unevenly and from multiple sources. We help track income by channel and plan tax payments so a good month doesn't turn into a tax-time surprise.
+
+<!-- block: content-split | variant: image-left | image: secure-client-portal-review.jpg | alt: "Business owner reviewing financial dashboard on a laptop with an advisor" | query: "business owner laptop financial dashboard review" -->
+## Real-time visibility through a secure online platform
+
+You shouldn't have to call and wait for someone to email you a PDF to know where your business stands. Clients work with their Abramson team through a secure online platform that keeps financials current and puts real numbers in front of you, not last quarter's snapshot.
+
+The same platform is where questions get answered. Message your team, upload a document, or check a report without waiting for a callback. It closes a gap a lot of owners feel: plenty of information out there, but not enough of it that's actually about their business, current, and easy to reach.
+
+<!-- block: content-prose -->
+## Serving business owners across Fairfield County and beyond
+
+Abramson & Company is based in Westport, CT, and most of our business management clients are within driving distance across Fairfield County. That local footprint matters when you want to sit down in person with your CPA team.
+
+It's not the whole story, though. We also work with clients throughout the tri-state area of Connecticut, New York, and New Jersey, and with a growing group of clients in California, particularly the Bay Area. The secure online platform makes distance beside the point: your reporting and your team look the same whether you're in Westport or Walnut Creek.
+
+<!-- block: cta-banner | variant: image-bg | image: cpa-consultation-westport.jpg | alt: "CPA shaking hands with a small business owner in a bright office" | query: "handshake business meeting office professional" -->
+## Talk with a CPA about your business today
+
+Ray founded Abramson & Company in 2005 because business owners needed more than a once-a-year tax preparer. Nearly two decades later, that's still the job: a CPA-led team that knows your business well enough to help you make decisions, not just file paperwork after the fact.
+
+If you're running a real estate portfolio, a retail shop, a professional practice, an equine operation, or a growing influencer brand, and you're tired of piecing together advice from a dozen sources, let's talk. A short conversation is enough to see whether our business management services fit how you actually work.
+
+[Schedule a consultation](/contact)
+
+---
+
+## Other
+
+### Who We Are
+URL: /who-we-are
+
+<!-- block: intro-text | variant: centered -->
+## A CPA firm built on personal connection
+
+Westport is a small town with a lot of financial complexity moving through it: family businesses, real estate transactions, retail storefronts, and professional practices that all need more than a once-a-year tax appointment. Abramson & Company was built around a simple idea: clients need someone to actually talk to, not another portal full of unread articles.
+
+That's the gap we work to close. Small business owners and individuals in Fairfield County have access to more financial information than ever, but not enough of it comes with a person attached. A CPA firm should feel like a resource you can call, not a form you have to fill out. Every service we offer, from bookkeeping to business advisory work, is built to give clients a direct line to guidance they can trust.
+
+<!-- block: content-split | variant: image-right | image: firm-founding-story-2005.jpg | alt: "Founder Ray reviewing financial documents at his Westport CPA office" | query: "cpa founder reviewing documents office" -->
+## Our story since 2005
+
+Ray founded Abramson & Company in its current form in 2005, and the firm has operated out of Westport, CT, ever since. Two decades in one town builds a certain kind of institutional memory: we've worked with clients through market downturns, business sales, generational transitions, and every tax law change in between.
+
+Longevity matters when you're choosing someone to handle your finances. A firm that's been advising the same community since 2005 has already made its mistakes, refined its processes, and built the systems that let it respond quickly when a client calls with a problem. That history is part of what clients are buying when they sign on with us, not just a set of services but a firm that's still standing and still local.
+
+<!-- block: content-split | variant: image-left | image: team-collaboration-client-file.jpg | alt: "Two CPA team members reviewing a client account together at a desk" | query: "accounting team collaborating office desk" -->
+## A team that knows you, not just your file
+
+One of the most common complaints about accounting firms is the single point of failure: your main contact goes on vacation, changes roles, or leaves, and suddenly nobody can answer a simple question. We built our team culture to avoid that problem entirely.
+
+Multiple people on our staff know each client's business, not just their file number. If your usual contact is out, someone else can pick up the phone and already understand your entity structure, your payroll schedule, or where your tax return stands. It's a small operational choice with a big effect on how supported clients feel, especially during tax season or a business transition when timing matters most.
+
+<!-- block: checklist-section | variant: with-image | image: westport-fairfield-county-map-area.jpg | alt: "Map view of Westport and Fairfield County Connecticut coastline" | query: "connecticut coastal town aerial view" -->
+## Serving Westport, Fairfield County, and beyond
+
+Our home base is Westport, CT, and most of our client relationships start close to home. But the firm's reach extends well past the town line, following clients as their businesses and lives grow.
+
+- Westport, CT and the surrounding Fairfield County towns
+- The tri-state area spanning Connecticut, New York, and New Jersey
+- Clients in California, with a concentration in the Bay Area
+- Remote collaboration for clients who split time between coasts
+
+Geography rarely limits what a CPA relationship can accomplish once secure, real-time collaboration tools are in place, which is exactly how we work with clients outside Fairfield County.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Who we serve best
+
+We work with individuals and businesses across Fairfield County and beyond, but certain client types tend to get the most value from how we operate.
+
+### Small Business Owners
+icon: Briefcase
+
+From startups to established operations, small business owners come to us for bookkeeping, payroll, and tax planning that doesn't require them to become accountants themselves.
+
+### Real Estate Professionals
+icon: Home
+
+Agents, brokers, and investors face entity structuring and cash flow questions that generic tax prep misses. See our [real estate services](/industries/real-estate) for specifics.
+
+### Professional Service Providers
+icon: Scale
+
+Attorneys, consultants, and other [professional service providers](/industries/professional-service-providers) need accounting that keeps pace with billable hours and client trust accounts.
+
+### Retail Businesses
+icon: Building2
+
+Inventory, seasonal cash flow, and point-of-sale reconciliation are daily realities for the [retail businesses](/industries/retail) we support.
+
+### Not-for-Profit Organizations
+icon: Users
+
+Boards and directors need financial reporting that satisfies funders and regulators without pulling staff away from the mission.
+
+### Equine and Influencer Businesses
+icon: Sparkles
+
+Two niches with unusual income patterns and expense structures: equine operations and content creators both get specialized attention here.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Our approach to accounting, tax, and advisory
+
+How we work matters as much as what we do. Three things set the day-to-day experience apart from a typical CPA relationship.
+
+### Bundled services, one fixed fee
+icon: DollarSign
+
+Bookkeeping, payroll, tax, and advisory support are bundled under a fixed monthly fee, so clients know their cost before the year starts instead of guessing at an hourly bill.
+
+### A secure platform for real-time collaboration
+icon: ShieldCheck
+
+Documents, financials, and messages move through a secure online platform, so clients can see where things stand and reach their team without waiting for a callback.
+
+### Personalized tax strategies
+icon: Target
+
+Tax plans are built around each client's actual entity structure and income sources, not a generic checklist applied to every return.
+
+### CPA-led expertise across every service
+icon: BadgeCheck
+
+Every engagement, from [bookkeeping](/services/bookkeeping) to [payroll](/services/payroll) to [business advisory work](/services/business-management-services), is overseen by CPA-led staff rather than handed off to junior processors. See the [full service list](/services) for details, or read what current clients say on our [testimonials page](/testimonials).
+
+<!-- block: cta-banner | variant: image-bg | image: westport-ct-cpa-consultation.jpg | alt: "Advisor and client shaking hands after a consultation in Westport office" | query: "advisor client handshake office meeting" -->
+## Let's talk about your needs
+
+You don't need a fully organized spreadsheet or a list of tax questions to reach out. Most client relationships start with a conversation about what isn't working, whether that's a bookkeeping backlog, a confusing tax bill, or a business decision that needs a second opinion from someone who knows the numbers.
+
+[Schedule a consultation](/contact) and talk with the Westport, CT team that's been doing this since 2005.
+
+---
+
+### Contact
+URL: /contact
+
+<!-- block: intro-text | variant: centered -->
+## Let's talk about your accounting needs
+
+Reaching out to a CPA firm shouldn't feel like one more task on your to-do list. Ray started this firm in 2005 because business owners and families in Westport needed a real person to call when tax season, payroll, or a tricky financial decision felt overwhelming. That's still how we work today. Every team member knows enough about your situation to pick up the phone and help, so you're never stuck waiting for the one person who "handles your account." Send a message, call, or stop by our Westport office. We'll take it from there.
+
+<!-- block: content-prose -->
+## Reach our Westport team directly
+
+Our office sits in Westport, CT, convenient to clients throughout Fairfield County and the wider tri-state area of Connecticut, New York, and New Jersey. Call during business hours if you'd rather talk through your situation than type it out, or send an email if that fits your day better. Prefer to meet in person? Stop by the office; we're glad to sit down and walk through bookkeeping, payroll, tax, or advisory questions face to face. However you reach out, a member of our team, not a call center, responds.
+
+<!-- block: cta-banner | variant: color-bg -->
+## Send us a message
+
+The form on this page asks for the basics: your name, email, phone number, which service you're interested in (bookkeeping, tax, payroll, or advisory), and a short message about what's on your mind. That's it. No lengthy questionnaires, no account setup. Once you submit it, an actual person on our team reads it and replies, usually within one business day, not an autoresponder that leaves you guessing. If you'd rather skip ahead and get a time on the calendar, [schedule a consultation](/free-consultation) and we'll take it from there.
+
+<!-- block: content-split | variant: image-right | image: remote-client-video-call.jpg | alt: "Accountant on a video call with a remote client using a laptop" | query: "remote video call accountant client" -->
+## Serving clients near and far
+
+Most of our clients are in Westport, CT and across Fairfield County, but the firm's reach goes further. We work with real estate professionals, retailers, and professional service providers throughout the tri-state area of Connecticut, New York, and New Jersey, plus a growing group of clients in California, especially the Bay Area. Distance doesn't change how closely we work with you. Our secure online platform lets you upload documents, review financials, and message your team in real time, whether you're five minutes from our office or three time zones away. Bookkeeping, payroll, tax, and business advisory support come through the same personal relationship, just without the drive.
+
+<!-- block: process-steps | variant: vertical -->
+## What to expect when you reach out
+
+### You send your message
+We read every inquiry personally, no automated triage. Expect a reply within one business day.
+
+### We schedule a short call
+A brief conversation lets us understand your situation, whether it's a business just starting out or a return that's overdue.
+
+### You get a plan, not a pitch
+We outline what we'd do, how the bundled monthly fee works, and what to expect before you commit to anything.
+
+### Onboarding starts on your schedule
+Once you're ready, we set up your access to our secure online platform and introduce you to your team.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Trusted by businesses across every industry
+
+Abramson & Company works with clients across a handful of industries where the accounting questions get specific fast. CPA-led teams handle the bookkeeping, tax, and advisory work so you can focus on running the business.
+
+### Real Estate
+icon: Building
+
+Agents, brokers, and investors count on us for entity structuring, 1031 guidance, and bookkeeping built around commission cycles.
+
+### Professional Service Providers
+icon: Briefcase
+
+Law firms, consultants, and agencies get payroll, tax planning, and advisory support built around billable hours and client trust accounts.
+
+### Retail
+icon: CreditCard
+
+Inventory, sales tax, and seasonal cash flow get easier to manage with bookkeeping that matches how retail actually moves.
+
+### Equine
+icon: HeartPulse
+
+Boarding, breeding, and training operations get accounting that understands the industry's unusual mix of livestock, land, and labor costs.
+
+### Influencers
+icon: Sparkles
+
+Content creators get help sorting brand deals, 1099 income, and quarterly estimates before tax season turns into a scramble.
+
+<!-- block: form | variant: contact -->
+## Ready to reduce your financial stress
+
+You don't need to have every question figured out before you reach out. Most people who contact us are juggling a business, a family, or both, and just need someone who'll pick up the phone. Fill out the form below, or [schedule a consultation](/contact), and we'll take it from there. That's the point of working with a firm this size: you get answers from people who already know your name.
+
+---
+
+### Careers
+URL: /resources/careers
+
+<!-- block: intro-text | variant: centered -->
+## Grow your career at Abramson & Company
+
+Abramson & Company has served Westport, Connecticut and the surrounding Fairfield County business community since Ray founded the firm in 2005. Two decades later, we're still adding to the team, which means we're looking for accountants, bookkeepers, payroll specialists, and tax professionals who want more than a job title.
+
+If you're searching for accounting jobs in Westport CT, you already know the difference between a firm that treats you as a name on a spreadsheet and one that invests in how you grow. Client relationships here run deep enough that colleagues routinely cover for one another, so new hires learn from working CPAs instead of figuring things out alone in a cubicle.
+
+Open roles span bookkeeping, outsourced accounting, payroll, tax preparation, and business advisory work. Whether you're early in your career or bringing years of public accounting experience, there's a place here for people who want steady, meaningful work at a firm built to last.
+
+<!-- block: content-split | variant: image-right | image: accounting-team-collaboration.jpg | alt: "Accounting team members collaborating around a desk in office" | query: "accounting team collaborating office" -->
+## Work in a team-oriented culture that supports you
+
+Accounting can be a lonely job when you're the only person who understands a client's books. That's not how this firm operates. Multiple team members know each client well enough to step in without missing a beat, whether someone is on vacation, home sick, or simply buried during the first two weeks of April.
+
+This cross-training model means new hires aren't handed a client list and left to sink or swim. You'll shadow senior staff, ask questions without worrying about looking inexperienced, and build real working relationships with colleagues who know your caseload. For candidates weighing CPA careers in Westport, Connecticut against a role at a larger firm where departments barely talk to each other, that built-in backup is hard to overstate. Your workload doesn't disappear when you're out, and clients get the same quality of service no matter who picks up the phone. [Meet the team](/who-we-are) to see who you'd be working alongside.
+
+<!-- block: industry-cards | variant: 3-col -->
+## What it's like to serve clients across industries
+
+No two days look alike here. One morning you might be reconciling books for a Fairfield County landlord, and by afternoon you're building a tax strategy for a retail client in Bridgeport or reviewing payroll for a professional services firm in Greenwich. Clients stretch across Connecticut, New York, New Jersey, and California, especially the Bay Area, so the casework stays varied and the client roster keeps growing.
+
+### Real Estate
+icon: Home
+
+Property owners, investors, and developers need accurate books, entity structuring, and tax strategies built around depreciation and 1031 exchanges. See how the firm approaches this niche on the [real estate industry page](/industries/real-estate).
+
+### Professional Service Providers
+icon: Briefcase
+
+Law firms, consultancies, and agencies bring recurring bookkeeping, payroll, and cash flow questions that reward a team who already knows their business model. Learn more on the [professional services page](/industries/professional-service-providers).
+
+### Retail
+icon: Building2
+
+Inventory, seasonal cash flow, and multi-location payroll keep retail work fast-paced and detail-driven. Explore the firm's retail work on the [retail industry page](/industries/retail).
+
+### Equine
+icon: HeartPulse
+
+Barn owners, trainers, and breeding operations have unique cost structures, from feed and vet bills to boarding income, that generalist firms often miss.
+
+### Influencers
+icon: Sparkles
+
+Content creators and social media professionals need help tracking irregular income, deductible expenses, and estimated tax payments across platforms and states.
+
+<!-- block: service-cards | variant: 3-col -->
+## Current openings in accounting, tax, and payroll
+
+We hire for roles that fit where you are in your career, not just what's open this week. Current and recurring openings include:
+
+### Staff Accountant
+icon: Calculator
+
+Entry-level and early-career candidates support bookkeeping, account reconciliations, and financial statement preparation for a mixed caseload of small business clients. A bachelor's degree in accounting is expected; CPA candidates are encouraged to apply.
+
+### Audit Associate
+icon: FileCheck
+
+This role assists with not-for-profit and small business audit engagements, testing internal controls and preparing supporting documentation under a senior accountant's direction. Prior audit exposure through coursework or internship is a plus.
+
+### Payroll Specialist
+icon: DollarSign
+
+Process multi-client payroll runs, manage tax filings and compliance deadlines, and answer client questions about withholdings and benefits. Attention to detail matters more than years of experience.
+
+### Senior Tax Accountant
+icon: Receipt
+
+Prepare individual and business tax returns, research planning strategies, and work directly with clients across CT, NY, and NJ during tax season and beyond. Three or more years in public accounting is preferred.
+
+### Accounting Intern
+icon: GraduationCap
+
+Students pursuing an accounting degree gain hands-on exposure to bookkeeping, tax season workflow, and client communication, with mentorship from CPAs who remember being interns themselves.
+
+<!-- block: content-split | variant: image-left | image: westport-connecticut-downtown.jpg | alt: "Skyline view of Westport Connecticut waterfront downtown area" | query: "Westport Connecticut downtown waterfront" -->
+## Why accounting professionals choose Westport CT
+
+Westport sits at the center of Fairfield County's business activity, close enough to New York City for client meetings but removed from the commute grind that wears down a lot of public accountants. Real estate firms, professional service providers, retail businesses, and not-for-profits fill the client roster here, so the caseload stays varied without requiring a move to a bigger, more anonymous firm.
+
+The firm's reach also extends beyond Connecticut. Clients across the tri-state area of CT, NY, and NJ, plus a growing group in California's Bay Area, mean the work doesn't feel geographically limiting even if you're building a career from a Westport office. For accounting professionals weighing Fairfield County against a larger metro market, that combination of local roots and wider reach is worth a second look. Read what current clients say about working with the team on the [testimonials page](/testimonials).
+
+<!-- block: cta-banner | variant: image-bg | image: job-interview-handshake.jpg | alt: "Accountant shaking hands with new colleague in modern office" | query: "job interview handshake office" -->
+## Apply to join our team
+
+If you've read this far, you already have a sense of what working here looks like: real client relationships, a team that has your back, and casework that never gets boring. The next step is simple. Send your resume through the [contact page](/contact), tell us which role interests you, and a member of the team will follow up directly, not through an automated screening system.
+
+Still weighing your options or have questions about a specific opening before you apply? That's a conversation worth having before you commit to anything.
+
+[Schedule a consultation](/contact)
+
+---
+
+### Schedule a free consultation
+URL: /free-consultation
+
+<!-- block: content-prose -->
+## Get a clear picture of your finances with one conversation
+
+Most business owners don't call an accountant because they've got it all figured out. They call because something feels off, a number doesn't add up, tax season is looming, or they're simply tired of guessing. If that sounds familiar, a free consultation with Abramson & Company is a good place to start.
+
+There's no sales pitch and no obligation. You'll sit down with someone who reviews your numbers, listens to what's actually keeping you up at night, and gives you a straight answer about what makes sense next. Whether you run a real estate brokerage in Westport or a retail shop in Fairfield County, this first conversation is about clarity, not commitment.
+
+<!-- block: process-steps | variant: horizontal -->
+## What to expect during your free consultation
+
+### Schedule a time that works for you
+Pick a date on our calendar or reach out directly. Calls typically run 30 to 45 minutes and can happen by phone or video, whichever is easier for your schedule.
+
+### Talk with a CPA, not a call center
+You'll speak with someone from our team who works directly with clients, not a scripted intake person. Expect real questions about your business or personal finances.
+
+### Cover what matters most to you
+Bookkeeping backlogs, payroll headaches, an upcoming tax deadline, a business decision you're not sure about, bring whatever's on your mind. We'll cover bookkeeping, tax, payroll, or advisory needs depending on what you need.
+
+### Leave with a clear next step
+No pressure, no jargon. You'll know whether our services fit, and if they do, what working together would actually look like.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Support tailored to your industry
+
+Generic advice doesn't help much when your business has its own quirks. We work with clients across a handful of industries where the accounting details actually matter.
+
+### Real Estate
+icon: Home
+
+Commission timing, 1031 exchanges, property-level bookkeeping. We understand how real estate professionals get paid and taxed differently from a typical business owner.
+
+### Professional Service Providers
+icon: Briefcase
+
+From law firms to consultants, service-based businesses need clean books and smart entity structuring to keep more of what they bill.
+
+### Retail
+icon: Building2
+
+Inventory, seasonal cash flow, and payroll for hourly staff all require a bookkeeping rhythm that matches how retail actually operates.
+
+### Equine
+icon: ShieldCheck
+
+Boarding income, breeding operations, and the unique tax treatment of horses call for someone who's seen this niche before.
+
+### Influencers
+icon: Globe
+
+Brand deals, 1099 income from multiple platforms, and irregular payment schedules need a bookkeeping approach built for that pace.
+
+<!-- block: content-split | variant: image-right | image: cpa-team-client-meeting.jpg | alt: "CPA and small business owner reviewing financial documents together at a desk" | query: "accountant meeting with client office" -->
+## Why local business owners trust our team
+
+Ray founded Abramson & Company in 2005, and the firm has grown by staying close to its clients rather than chasing scale for its own sake. That's still how the team operates today: multiple people know your account well enough to step in when your usual contact is out, so you're never stuck waiting on one person.
+
+We work with individuals and small-to-midsize businesses across Westport, Fairfield County, and the tri-state area of Connecticut, New York, and New Jersey, along with a growing group of clients in the Bay Area of California. Distance hasn't been a barrier since we built our systems around remote collaboration from the start.
+
+<!-- block: checklist-section | variant: with-image | image: online-accounting-platform.jpg | alt: "Business owner reviewing financial dashboard on a laptop with an accountant" | query: "small business owner laptop financial review" -->
+## A firm that grows with you
+
+A free consultation isn't a one-time transaction, it's the start of a relationship built around a few specific advantages you won't find at every CPA firm.
+
+- Bundled bookkeeping, payroll, tax, and advisory services for one fixed monthly fee, so there are no surprise bills
+- A secure online platform where you can see your numbers and collaborate with our team in real time
+- Personalized tax strategies built around your actual goals, not a generic template
+- CPA-led expertise across every service, so the person reviewing your books is the same caliber handling your tax return
+
+This is the model we walk you through during your consultation, so you know exactly what ongoing support would look like before you commit to anything.
+
+<!-- block: cta-banner | variant: image-bg | image: consultation-call-scheduling.jpg | alt: "Accountant on a phone call scheduling a client consultation in a bright office" | query: "professional phone consultation office setting" -->
+## Book your free consultation today
+
+If you've been putting off a call because you're not sure it's worth it, this is your sign. A 30-minute conversation with our team costs you nothing and tells you a lot, whether that's a fix for a bookkeeping mess, a smarter tax plan, or just confirmation that you're already on the right track.
+
+Reach out through our contact page and we'll find a time that works. [Schedule a consultation](/contact) and get the kind of straight answers you've been looking for.
+
+---
+
+### Client success stories
+URL: /testimonials
+
+<!-- block: intro-text | variant: centered -->
+## Real relationships behind every result
+
+The stories on this page were not pulled from a review site or run through a marketing filter. They describe the kind of work Abramson & Company does every week for people in Westport, across Fairfield County, and beyond. Because multiple team members get to know each client's business, not just their file, someone here can always pick up the phone and understand the question being asked. Names and identifying details have been changed to protect client privacy, but the situations are drawn straight from the practice.
+
+That team-based approach is the difference clients notice first. It's also the reason so many stay for a decade, not one filing season.
+
+<!-- block: content-split | variant: image-right | image: small-business-owner-consultation.jpg | alt: "Small business owner reviewing bookkeeping records with an accountant" | query: "small business owner meeting advisor" -->
+## Small business owners find a partner they can trust
+
+A Fairfield County boutique owner came to Abramson & Company after two years of stitching together tax software, a part-time bookkeeper, and guesswork on payroll. Sales were up. She still couldn't say whether she was actually making money. Within a month, her books were current, payroll ran on schedule, and a CPA was reviewing her numbers monthly instead of once a year in a panic.
+
+That pattern shows up in most small business relationships here: [bookkeeping](/services/bookkeeping), [payroll](/services/payroll), tax, and advisory work bundled under one fixed monthly fee, so there's no guessing what next month's invoice will look like. She checks a secure online platform to see her financials in real time and messages her accountant directly instead of waiting for a callback. Two tax seasons later, she has a specific plan for entity structure and retirement contributions, not just a filed return.
+
+<!-- block: content-split | variant: image-left | image: real-estate-professional-tax-planning.jpg | alt: "Real estate professional reviewing property tax documents at a desk" | query: "real estate agent reviewing documents" -->
+## Real estate and property professionals gain clarity on complex finances
+
+A [real estate](/industries/real-estate) investor managing a handful of rental properties across Connecticut and New York came in confused about depreciation schedules, passive activity rules, and which entity structure fit a growing portfolio. His previous accountant filed returns on time but never explained the reasoning behind them.
+
+Working with a CPA who understands real estate specifically, he got a personalized tax strategy built around his actual portfolio: how properties were titled, how expenses were tracked property by property, and where cost segregation could reduce taxable income. An [entity type analysis](/services/entity-type-analysis) clarified whether an LLC, S-corp, or partnership made sense for his next acquisition. That kind of continuity matters across a tri-state portfolio, since Connecticut, New York, and New Jersey each treat rental income a little differently. Three years in, he calls before he buys, not after.
+
+<!-- block: content-split | variant: image-right | image: retail-owner-laptop-review.jpg | alt: "Retail business owner reviewing financial reports on a laptop" | query: "retail owner laptop financial review" -->
+## Retail and professional service clients streamline their books
+
+A professional services firm in Westport was closing its books three weeks after month-end, every month, because bookkeeping ran through three systems that didn't talk to each other. [Outsourced accounting](/services/outsourced-accounting) from Abramson & Company consolidated everything onto one secure online platform, where the owner and her team see real-time numbers instead of waiting on a spreadsheet email.
+
+Month-end close now takes days, not weeks. The owner reviews cash flow and payroll costs from her phone during a coffee break, and her CPA flags issues before they become expensive. A [retail](/industries/retail) client with multiple locations had a similar shift: outsourced bookkeeping and payroll freed up roughly ten hours a month that used to go to reconciling receipts, hours she now spends on buying and merchandising instead.
+
+<!-- block: content-split | variant: image-left | image: content-creator-financial-review.jpg | alt: "Content creator reviewing income and expense statements on a laptop" | query: "content creator reviewing finances laptop" -->
+## Equine and influencer clients get advice built for unique income
+
+Nontraditional income doesn't fit neatly into standard tax software, and clients in equine businesses and content creation know it firsthand. A horse farm owner juggling boarding fees, training income, and equipment depreciation needed a tax strategy that treated the business as a business, not a hobby, in the eyes of the IRS. A [video and content producer](/industries/video-production) with sponsorship income, ad revenue, and merchandise sales needed someone who understood 1099s from a dozen platforms and knew which expenses actually qualified as deductions.
+
+Both found CPA-led advisory support built around how they actually earn money, not a generic template. That's the advantage of treating equine and influencer income as its own niche instead of an afterthought.
+
+<!-- block: stats-bar | variant: 3-up -->
+## Why clients across CT, NY, NJ, and California stay with us
+
+Ray founded Abramson & Company in 2005, and the firm has served Westport and Fairfield County clients for two decades since. That longevity matters more than it sounds: the same CPAs who set up a client's books in year one are often still reviewing their tax strategy in year ten. Because multiple team members know each client's file, a vacation or a busy season never means unanswered questions.
+
+**2005:** the year the firm was founded by Ray
+
+**20 years:** serving Westport and Fairfield County clients
+
+**4 states:** CT, NY, NJ, and California, including the Bay Area
+
+Geography changes. The level of attention doesn't.
+
+<!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "Client and accountant shaking hands after a consultation meeting" | query: "client accountant handshake meeting" -->
+## Share your goals and start your own success story
+
+Every story above started with one phone call and a specific problem: a file that didn't reconcile, a 1099 season that felt overwhelming, a rental portfolio that outgrew a generic tax preparer. Yours can start the same way. [Schedule a consultation](/contact) and tell the team at Abramson & Company what's keeping you up at night. There's a good chance someone here has already solved it, for a client not far from where you're standing now.
+
+---

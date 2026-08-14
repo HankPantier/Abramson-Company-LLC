@@ -1,9 +1,144 @@
 {
   "primary": [
-    { "label": "Services", "url": "/services" },
-    { "label": "Pricing Calculator", "url": "/pricing-calculator" },
-    { "label": "About", "url": "/about" },
-    { "label": "Resources", "url": "/resources" },
-    { "label": "Contact", "url": "/contact" }
+    {
+      "url": "/who-we-are",
+      "label": "Who We Are"
+    },
+    {
+      "url": "/services",
+      "label": "Services",
+      "children": [
+        {
+          "url": "/services/bookkeeping",
+          "label": "Bookkeeping"
+        },
+        {
+          "url": "/services/payroll",
+          "label": "Payroll"
+        },
+        {
+          "url": "/services/tax",
+          "label": "Tax"
+        },
+        {
+          "url": "/services/personal-income-tax",
+          "label": "Personal income tax"
+        },
+        {
+          "url": "/services/outsourced-accounting",
+          "label": "Outsourced accounting"
+        },
+        {
+          "url": "/services/business-foundation-services/",
+          "label": "Business foundation services"
+        },
+        {
+          "url": "/services/audit-protection",
+          "label": "Audit protection"
+        },
+        {
+          "url": "/services/entity-type-analysis",
+          "label": "Entity type analysis"
+        },
+        {
+          "url": "/services/accounting-system-setup",
+          "label": "Accounting system setup"
+        },
+        {
+          "url": "/services/retirement-plan-analysis",
+          "label": "Retirement plan analysis"
+        },
+        {
+          "url": "/services/business-management-services",
+          "label": "Business management services"
+        }
+      ]
+    },
+    {
+      "url": "/industries",
+      "label": "Industries we serve",
+      "children": [
+        {
+          "url": "/industries/real-estate",
+          "label": "Real estate accounting"
+        },
+        {
+          "url": "/industries/professional-service-providers",
+          "label": "Professional service provider accounting"
+        },
+        {
+          "url": "/industries/retail",
+          "label": "Retail accounting"
+        },
+        {
+          "url": "/industries/video-production",
+          "label": "Video Production"
+        }
+      ]
+    },
+    {
+      "url": "/resources/resource-library",
+      "label": "Resource library",
+      "children": [
+        {
+          "url": "/resources/forms-documents-and-links",
+          "label": "Forms documents and links"
+        },
+        {
+          "url": "/resources/refund-tracker",
+          "label": "Refund tracker"
+        },
+        {
+          "url": "/resources/video-library",
+          "label": "Video library"
+        },
+        {
+          "url": "/resources/quick-reads",
+          "label": "Quick reads",
+          "children": [
+            {
+              "url": "/resources/quick-reads/5-tips-to-build-a-healthy-money-mindset-and-grow-your-finances",
+              "label": "5 tips to build a healthy money mindset and grow your finances"
+            },
+            {
+              "url": "/resources/quick-reads/4-steps-to-get-ahead-of-higher-taxes",
+              "label": "4 steps to get ahead of higher taxes"
+            },
+            {
+              "url": "/resources/quick-reads/why-small-businesses-are-going-bankrupt-and-how-to-avoid-it",
+              "label": "Why small businesses are going bankrupt and how to avoid it"
+            },
+            {
+              "url": "/resources/quick-reads/with-odds-of-a-recession-going-up-here-are-5-things-small-businesses-should-do-now",
+              "label": "5 things small businesses should do as recession odds rise"
+            },
+            {
+              "url": "/resources/quick-reads/irs-gives-taxpayers-new-way-to-report-tax-fraud",
+              "label": "IRS gives taxpayers a streamlined way to report tax fraud"
+            },
+            {
+              "url": "/resources/quick-reads/summer-camps-may-qualify-for-dependent-care-tax-credit",
+              "label": "Summer camps may qualify for dependent care tax credit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "/testimonials",
+      "label": "Client success stories"
+    },
+    {
+      "url": "/resources/careers",
+      "label": "Careers"
+    },
+    {
+      "url": "/contact",
+      "label": "Contact"
+    },
+    {
+      "url": "/free-consultation",
+      "label": "Schedule a free consultation"
+    }
   ]
 }

@@ -1,24 +1,48 @@
 {
   "firm": {
-    "name": "Korbey Lague PLLP",
-    "shortName": "Korbey Lague",
-    "tagline": "CPAs you can talk to",
-    "foundingYear": "1972"
+    "name": "Abramson & Company LLC",
+    "tagline": "We are passionate to meet your personal and business needs",
+    "foundingYear": "2005"
   },
   "contact": {
-    "address": { "street": "123 Main St", "city": "Tyngsborough", "state": "MA", "zip": "01879" },
-    "phone": "978-555-0100",
-    "email": "info@korbeylague.com"
+    "address": {
+      "street": "278 Post Road East",
+      "city": "Westport",
+      "state": "CT",
+      "zip": "06880"
+    },
+    "phone": "(203) 852-1099",
+    "email": "info@abramsonco.com"
   },
   "palette": {
-    "primary": "#003B71",
-    "secondary": "#6C7278",
-    "complementary": "#B8422E",
-    "action": "#00C1DE",
-    "nearBlack": "#1A1C1E",
-    "nearWhite": "#F7F5F2"
+    "primary": "#c23c3c",
+    "secondary": "#742424",
+    "complementary": "#3cc2c2",
+    "action": "#40e3e4",
+    "nearBlack": "#3f0706",
+    "nearWhite": "#cfc0be"
   },
-  "social": [],
+  "social": [
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/abramson-&-company-llc"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/AbramsonCoLLC"
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/AbramsonCoLLC/"
+    },
+    {
+      "platform": "other",
+      "url": "https://maps.google.com/?cid=11124934619096844370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+    }
+  ],
   "certifications": [],
-  "logo": { "primary": "", "alt": "Korbey Lague PLLP logo" }
+  "logo": {
+    "primary": "abrahmason-logo.png",
+    "alt": "Abramson & Company LLC logo"
+  }
 }

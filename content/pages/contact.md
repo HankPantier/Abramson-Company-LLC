@@ -30,7 +30,6 @@ Our office sits in Westport, CT, convenient to clients throughout Fairfield Coun
 ## How to Reach Us
 
 <!-- block: map -->
-## Where to Find Us
 
 <!-- block: cta-banner | variant: color-bg -->
 ## Send us a message

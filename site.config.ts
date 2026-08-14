@@ -112,13 +112,13 @@ export const siteConfig: SiteConfig = {
     // console without blocking content. Flip to 'enforce' once the deployed
     // site loads clean. See docs/how-to-new-site.md, step 7.
     mode: 'report-only',
-    extraOrigins: ['https://*.calendly.com'],
+    extraOrigins: [],
   },
   booking: {
     // Placeholder Calendly URL so the contact drawer's "Book a call" demos out
     // of the box. Replace per client with the firm's real scheduling link (or
     // manage it from the onboarding admin's "Contact & scheduling" editor).
-    provider: 'calendly',
-    url: 'https://calendly.com/your-firm/discovery-call',
+    provider: 'none',
+    url: '',
   },
 }

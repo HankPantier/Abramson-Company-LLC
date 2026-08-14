@@ -87,7 +87,7 @@ export type SiteConfig = {
 }
 
 export const siteConfig: SiteConfig = {
-  siteUrl: 'https://korbeylague.com',
+  siteUrl: 'https://www.abramsonco.com',
   legalLinks: [
     { label: 'Privacy Policy', url: '/privacy-policy' },
     { label: 'Terms of Service', url: '/terms-of-use' },

@@ -95,12 +95,7 @@
         {
           "label": "Quick reads",
           "url": "/resources/quick-reads",
-          "children": [
-            {
-              "label": "5 things small businesses should do as recession odds rise",
-              "url": "/resources/quick-reads/with-odds-of-a-recession-going-up-here-are-5-things-small-businesses-should-do-now"
-            }
-          ]
+          "children": []
         }
       ]
     },

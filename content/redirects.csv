@@ -4,3 +4,4 @@
 # Lines starting with # are ignored by the Next.js redirect loader.
 old_url,new_url,status_code,reason
 /resources/e-books/cybersecurity-on-a-shoestring-budget,/resources/cybersecurity-on-a-shoestring-budget,301,Relocated via editor
+/resources/e-books/how-to-read-a-financial-statement,/resources/how-to-read-a-financial-statement,301,Relocated via editor

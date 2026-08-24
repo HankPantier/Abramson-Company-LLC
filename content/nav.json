@@ -108,6 +108,10 @@
       "url": "/resources/careers"
     },
     {
+      "label": "Resources",
+      "url": "/resources"
+    },
+    {
       "label": "Contact",
       "url": "/contact"
     },

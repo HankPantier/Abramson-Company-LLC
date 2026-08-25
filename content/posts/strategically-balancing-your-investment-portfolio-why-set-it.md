@@ -1,5 +1,5 @@
 ---
-title: "A Balanced Investment Portfolio Takes More Than Setting It and Forgetting It"
+title: A Balanced Investment Portfolio Takes More Than Setting It and Forgetting It
 slug: strategically-balancing-your-investment-portfolio-why-set-it
 date: 2026-08-24
 author: "Ray Abramson, CPA"

@@ -1,144 +1,123 @@
 {
   "primary": [
     {
-      "url": "/who-we-are",
-      "label": "Who We Are"
+      "label": "Who We Are",
+      "url": "/who-we-are"
     },
     {
-      "url": "/services",
       "label": "Services",
+      "url": "/services",
       "children": [
         {
-          "url": "/services/bookkeeping",
-          "label": "Bookkeeping"
+          "label": "Bookkeeping",
+          "url": "/services/bookkeeping"
         },
         {
-          "url": "/services/payroll",
-          "label": "Payroll"
+          "label": "Payroll",
+          "url": "/services/payroll"
         },
         {
-          "url": "/services/tax",
-          "label": "Tax"
+          "label": "Tax",
+          "url": "/services/tax"
         },
         {
-          "url": "/services/personal-income-tax",
-          "label": "Personal income tax"
+          "label": "Personal income tax",
+          "url": "/services/personal-income-tax"
         },
         {
-          "url": "/services/outsourced-accounting",
-          "label": "Outsourced accounting"
+          "label": "Outsourced accounting",
+          "url": "/services/outsourced-accounting"
         },
         {
-          "url": "/services/business-foundation-services/",
-          "label": "Business foundation services"
+          "label": "Business foundation services",
+          "url": "/services/business-foundation-services/"
         },
         {
-          "url": "/services/audit-protection",
-          "label": "Audit protection"
+          "label": "Audit protection",
+          "url": "/services/audit-protection"
         },
         {
-          "url": "/services/entity-type-analysis",
-          "label": "Entity type analysis"
+          "label": "Entity type analysis",
+          "url": "/services/entity-type-analysis"
         },
         {
-          "url": "/services/accounting-system-setup",
-          "label": "Accounting system setup"
+          "label": "Accounting system setup",
+          "url": "/services/accounting-system-setup"
         },
         {
-          "url": "/services/retirement-plan-analysis",
-          "label": "Retirement plan analysis"
+          "label": "Retirement plan analysis",
+          "url": "/services/retirement-plan-analysis"
         },
         {
-          "url": "/services/business-management-services",
-          "label": "Business management services"
+          "label": "Business management services",
+          "url": "/services/business-management-services"
         }
       ]
     },
     {
-      "url": "/industries",
       "label": "Industries we serve",
+      "url": "/industries",
       "children": [
         {
-          "url": "/industries/real-estate",
-          "label": "Real estate accounting"
+          "label": "Real estate accounting",
+          "url": "/industries/real-estate"
         },
         {
-          "url": "/industries/professional-service-providers",
-          "label": "Professional service provider accounting"
+          "label": "Professional service provider accounting",
+          "url": "/industries/professional-service-providers"
         },
         {
-          "url": "/industries/retail",
-          "label": "Retail accounting"
+          "label": "Retail accounting",
+          "url": "/industries/retail"
         },
         {
-          "url": "/industries/video-production",
-          "label": "Video Production"
+          "label": "Video Production",
+          "url": "/industries/video-production"
         }
       ]
     },
     {
-      "url": "/resources/resource-library",
       "label": "Resource library",
+      "url": "/resources/resource-library",
       "children": [
         {
-          "url": "/resources/forms-documents-and-links",
-          "label": "Forms documents and links"
+          "label": "Forms documents and links",
+          "url": "/resources/forms-documents-and-links"
         },
         {
-          "url": "/resources/refund-tracker",
-          "label": "Refund tracker"
+          "label": "Refund tracker",
+          "url": "/resources/refund-tracker"
         },
         {
-          "url": "/resources/video-library",
-          "label": "Video library"
+          "label": "Video library",
+          "url": "/resources/video-library"
         },
         {
-          "url": "/resources/quick-reads",
           "label": "Quick reads",
-          "children": [
-            {
-              "url": "/resources/quick-reads/5-tips-to-build-a-healthy-money-mindset-and-grow-your-finances",
-              "label": "5 tips to build a healthy money mindset and grow your finances"
-            },
-            {
-              "url": "/resources/quick-reads/4-steps-to-get-ahead-of-higher-taxes",
-              "label": "4 steps to get ahead of higher taxes"
-            },
-            {
-              "url": "/resources/quick-reads/why-small-businesses-are-going-bankrupt-and-how-to-avoid-it",
-              "label": "Why small businesses are going bankrupt and how to avoid it"
-            },
-            {
-              "url": "/resources/quick-reads/with-odds-of-a-recession-going-up-here-are-5-things-small-businesses-should-do-now",
-              "label": "5 things small businesses should do as recession odds rise"
-            },
-            {
-              "url": "/resources/quick-reads/irs-gives-taxpayers-new-way-to-report-tax-fraud",
-              "label": "IRS gives taxpayers a streamlined way to report tax fraud"
-            },
-            {
-              "url": "/resources/quick-reads/summer-camps-may-qualify-for-dependent-care-tax-credit",
-              "label": "Summer camps may qualify for dependent care tax credit"
-            }
-          ]
+          "url": "/resources/quick-reads",
+          "children": []
         }
       ]
     },
     {
-      "url": "/testimonials",
-      "label": "Client success stories"
+      "label": "Client success stories",
+      "url": "/testimonials"
     },
     {
-      "url": "/resources/careers",
-      "label": "Careers"
+      "label": "Careers",
+      "url": "/resources/careers"
     },
     {
-      "url": "/contact",
-      "label": "Contact"
+      "label": "Resources",
+      "url": "/resources"
     },
     {
-      "url": "/free-consultation",
-      "label": "Schedule a free consultation"
+      "label": "Contact",
+      "url": "/contact"
+    },
+    {
+      "label": "Schedule a free consultation",
+      "url": "/free-consultation"
     }
   ]
 }

@@ -1963,3 +1963,142 @@ Geography changes. The level of attention doesn't.
 Every story above started with one phone call and a specific problem: a file that didn't reconcile, a 1099 season that felt overwhelming, a rental portfolio that outgrew a generic tax preparer. Yours can start the same way. [Schedule a consultation](/contact) and tell the team at Abramson & Company what's keeping you up at night. There's a good chance someone here has already solved it, for a client not far from where you're standing now.
 
 ---
+
+## Resources
+
+### A Balanced Investment Portfolio Takes More Than Setting It and Forgetting It
+URL: /resources/strategically-balancing-your-investment-portfolio-why-set-it
+
+A client came to us three years ago with a portfolio that looked great on paper: steady returns, a name-brand fund lineup, nothing dramatic. When we pulled it apart, it turned out the equity allocation had drifted from 65% to nearly 82% because he hadn't touched it since 2019. He wasn't wrong to like the returns. But he was carrying far more risk than he realized, and one bad quarter would have hit him much harder than he expected. That's the quiet cost of "set it and forget it" investing: it feels responsible because you're not making impulsive trades, but the portfolio is drifting anyway, just without anyone watching.
+
+A balanced investment portfolio isn't a single decision you make once and revisit at retirement. It's a discipline, closer to maintaining a house than framing a photograph. Markets move, some holdings grow faster than others, and your own life changes shape what "balanced" even means for you. Skipping the maintenance doesn't preserve your original strategy. It slowly replaces it with something else.
+
+## Why allocations drift even when you do nothing
+
+Asset allocation strategy starts with a mix, say 60% stocks and 40% bonds, chosen to match your goals and your tolerance for risk. That mix is only accurate on day one. If stocks return 10% annually and bonds return 3%, a 60/40 portfolio left untouched can look like this within a few years:
+
+| Year | Stock allocation (untouched) | Bond allocation (untouched) |
+|------|------------------------------|------------------------------|
+| 0 | 60% | 40% |
+| 3 | 68% | 32% |
+| 5 | 74% | 26% |
+| 7 | 79% | 21% |
+
+The portfolio has grown, which feels good. But the risk profile has changed just as much. By year seven, someone who chose 60/40 because they wanted moderate risk is now running a portfolio that behaves like an aggressive growth account, without ever deciding to take on that risk. The Federal Reserve's research notes on household finance and investment behavior have tracked how allocation shifts like this tend to go unnoticed by individual investors for years at a time, particularly during extended bull markets when nobody wants to question a winning streak. You can review that research directly through the [Federal Reserve's notes on household finance and investment behavior](https://www.federalreserve.gov/econres/notes/feds-notes/default.htm).
+
+## What rebalancing actually looks like in practice
+
+Portfolio rebalancing means selling a portion of what's grown and adding to what hasn't, to bring the mix back to your target. It sounds counterintuitive, since you're trimming your winners. That's the point. You're not predicting which asset class will do better next year. You're making sure no single decision from three years ago is quietly running your entire financial plan today.
+
+Most of our Westport and Fairfield County clients rebalance on one of two schedules: a calendar check (once or twice a year) or a threshold check (rebalance whenever an asset class drifts more than 5 percentage points from target). Both work. What doesn't work is doing it only when the market drops and fear finally forces a decision. By then you're rebalancing under stress, often at the worst possible moment.
+
+The part investors miss most often is the tax side. Selling appreciated stock inside a taxable brokerage account triggers capital gains, and a rebalancing move made without a tax plan can cost more than the risk it was meant to fix. A CPA-led review can time trades around loss harvesting, use new contributions to rebalance instead of selling, and coordinate rebalancing with year-end tax planning rather than treating it as a separate event. If you haven't looked at how taxes and investment decisions interact this year, our guide on [4 steps to get ahead of higher taxes](/resources/4-steps-to-get-ahead-of-higher-taxes) is a useful starting point.
+
+## Risk tolerance investing changes with your life, not just the market
+
+Risk tolerance isn't a fixed number you calculate once at age 30 and carry forever. It shifts with your income, your family, and your business. A Westport small business owner in growth mode can usually absorb more portfolio volatility, since the business itself is the primary asset generating cash flow. That same owner five years from a sale, with retirement funds tied up in a 401(k) and a chunk of net worth locked in the company, typically needs a more conservative personal portfolio to offset the concentration risk already sitting in the business.
+
+Real estate professionals face a similar mismatch. Property income and personal investment accounts often move in correlated directions during a downturn, which means a portfolio that looks diversified on a statement can behave less diversified in an actual recession. Retail business owners carrying seasonal cash flow swings need liquidity considerations that a static 70/30 model doesn't account for. None of this shows up automatically in a rebalancing algorithm. It shows up in a conversation about what's actually happening in your business and your household.
+
+The AICPA's Personal Financial Planning resources point to the same conclusion from a different angle: financial planning works best as an ongoing relationship between tax, investment, and life-event decisions, not a set of separate documents reviewed once a year. You can see their guidance directly at the [AICPA Personal Financial Planning resource hub](https://www.aicpa-cima.com/topic/personal-financial-planning).
+
+## Portfolio diversification means more than owning different funds
+
+A lot of portfolios that look diversified on the surface aren't. Five mutual funds that all hold the same 20 large-cap technology names don't reduce risk the way five genuinely different asset classes do. True portfolio diversification spreads exposure across asset types (equities, fixed income, real assets, cash), across geographies, and across correlation, meaning holdings that don't all rise and fall together.
+
+This matters more for business owners than most people assume. If your income, your retirement account, and your business equity are all tied to the same local economy or the same sector, a downturn hits every part of your financial picture at once. Diversifying the investment portfolio is one of the few levers available to offset that concentration, and it only works if someone is checking the actual overlap between holdings, not just counting how many fund names appear on a statement.
+
+## How we help clients keep their portfolios honest
+
+We built our Financial Advice and Planning service around the fact that rebalancing decisions rarely happen in isolation. They connect to your tax return, your retirement contributions, your business entity structure, and whatever life change is coming next, whether that's a home purchase, a business sale, or a child heading to college. Our team reviews allocation drift alongside your tax picture so a rebalancing trade doesn't create a surprise bill next April.
+
+Clients also get access to our secure online platform, where the same numbers we're reviewing are visible to them in real time, not buried until the year-end meeting. Because the firm works on a bundled, fixed monthly fee across bookkeeping, payroll, tax, and advisory services, a portfolio check-in doesn't come with a separate invoice attached to it. And because our team is structured so more than one CPA knows each client's full picture, you're not stuck waiting for one specific person to be available when a market move calls for a quick decision.
+
+If retirement accounts are part of the picture, our [retirement plan analysis](/services/retirement-plan-analysis) service looks specifically at whether your 401(k), SEP IRA, or Solo 401(k) allocations still match your target mix, since those accounts often get rebalanced even less often than taxable brokerage accounts.
+
+## Common Questions
+
+**How often should I rebalance my investment portfolio?**
+Most investors do well rebalancing on a set schedule, once or twice a year, or whenever an asset class drifts more than about 5 percentage points from its target. Rebalancing more frequently than that usually adds transaction costs and tax events without meaningfully improving results.
+
+**Does rebalancing always mean selling investments and triggering taxes?**
+Not necessarily. New contributions, dividends, and interest can often be directed toward underweighted asset classes instead of selling appreciated positions, which avoids triggering capital gains. When selling is unavoidable, timing it alongside loss harvesting or year-end tax planning usually reduces the tax hit.
+
+**How is asset allocation different from diversification?**
+Asset allocation is the mix between broad categories like stocks, bonds, and cash. Diversification is how spread out your holdings are within and across those categories. A portfolio can have a reasonable stock-bond split and still be poorly diversified if most of the stock holdings overlap in the same sector or region.
+
+**Does my risk tolerance change if I own a business?**
+Often, yes. Business owners frequently carry concentrated risk in the business itself, which changes how much additional risk the rest of the portfolio should hold. Someone with significant equity tied up in a company usually benefits from a more conservative personal investment mix to balance that concentration.
+
+If your portfolio hasn't been reviewed alongside your tax situation this year, or if you're not sure how much your allocation has drifted since it was set, [get in touch with our team](/contact) and we'll walk through where things stand and what, if anything, needs to change.
+
+---
+
+
+### Auto Leasing vs. Buying: Which Makes More Sense?
+URL: /resources/auto-leasing-vs-buying-which-makes-more-sense
+
+Every few years, the lease-versus-buy conversation resurfaces, usually right after a windshield chip turns into a crack or a lease notice shows up in the mail. Dealerships are happy to steer that conversation toward the monthly payment, because a lower payment closes a sale faster. That's not the number that matters most. The real answer depends on your tax situation, how you use the vehicle, and what happens to your cash flow over the next three to six years. We've walked dozens of Westport and Fairfield County clients through this decision, from real estate agents who log 20,000 miles a year showing properties to video production owners hauling gear to shoots, and the right answer rarely matches the dealership's recommendation.
+
+This isn't a car blog checklist. It's the framework a CPA actually uses when a client asks, over coffee or on a call, "should I lease or buy?"
+
+## Why the monthly payment is the wrong starting point
+
+A lease payment is almost always lower than a loan payment on the same vehicle, because you're only financing the depreciation during the lease term, not the full purchase price. That makes leasing look cheaper on paper. But the monthly payment doesn't tell you what happens at mileage limits, at lease-end wear charges, or at the moment you want to modify the vehicle for business use. It also ignores the tax treatment, which for a self-employed professional or small business owner can be worth thousands of dollars a year, in either direction.
+
+Start instead with three questions: How is the vehicle actually used? Is it titled personally or through a business? And how long do you typically keep a car before you're itching to trade it in? Those answers, not the sticker payment, determine which option wins.
+
+## The tax picture looks different once a business is involved
+
+If you're an employee driving a personal vehicle, the tax code doesn't offer much of a lever anymore. The 2017 tax law suspended unreimbursed employee business expense deductions through 2025, so commuting and even some work-related mileage as a W-2 employee generally isn't deductible. That changes the moment self-employment, an LLC, or an S-corp enters the picture.
+
+For business owners, real estate agents, and professional service providers who use a vehicle for client meetings, property showings, or job sites, the deduction math depends on whether you buy or lease and how the vehicle is classified.
+
+**If you buy:** you can generally depreciate the vehicle over its useful life, and heavier vehicles may qualify for accelerated write-offs. Under [IRS Publication 946](https://www.irs.gov/publications/p946), vehicles with a gross vehicle weight rating (GVWR) over 6,000 pounds, think many SUVs and pickup trucks, can qualify for a Section 179 deduction of up to $30,500 in 2024, on top of standard depreciation. Lighter passenger vehicles face annual depreciation caps under the luxury auto rules, so the payoff is smaller and slower.
+
+**If you lease:** you generally deduct the business-use percentage of your lease payments each year, plus a small "lease inclusion" adjustment if the vehicle's value exceeds IRS thresholds. There's no big first-year Section 179 windfall, but the deduction is steady and simple to track.
+
+Neither path is automatically better. A real estate agent who trades vehicles every two to three years and wants predictable, level deductions often does better leasing. A contractor who needs a heavy-duty truck for five-plus years and wants the largest possible first-year write-off often does better buying and electing Section 179. This is exactly the kind of decision we work through with clients in our [tax planning](/services/tax) engagements, because the right answer changes based on your entity type, your income level, and what else is happening on your return that year.
+
+## The cash flow test that matters more than the payment
+
+Even after the tax analysis, cash flow decides the winner more often than not. Leasing preserves cash today: lower monthly payments, little or no equity built, and a built-in upgrade cycle every two to four years. Buying ties up cash today (or increases financed debt) in exchange for equity and, eventually, a paid-off asset with no payment at all.
+
+Auto financing costs have moved meaningfully over the past few years. The Federal Reserve's [G.19 Consumer Credit report](https://www.federalreserve.gov/releases/g19/current/) tracks outstanding auto loan balances and terms nationally, and financing costs directly affect which option makes sense for you. When rates are elevated, the gap between a lease payment and a loan payment on the same vehicle widens, which is exactly when leasing starts looking more attractive on cash flow alone, even before you factor in taxes.
+
+Here's a simplified side-by-side to use as a starting point, not a final answer:
+
+| Factor | Leasing | Buying |
+|---|---|---|
+| Monthly payment | Typically lower | Typically higher |
+| Equity built | None | Yes, over time |
+| Mileage limits | Usually 10,000–15,000/year | None |
+| Tax deduction (business use) | Deduct lease payment percentage | Depreciation, possible Section 179 |
+| Best for | Vehicles replaced every 2–3 years | Vehicles kept 5+ years |
+| End-of-term flexibility | Turn in, buy out, or re-lease | Sell, trade, or keep driving |
+
+## Driving habits change the answer more than people expect
+
+A client who drives 8,000 miles a year commuting into a home office in Westport has a very different equation than one showing properties across Fairfield County or hauling video equipment between Bay Area shoots. Mileage caps on leases (typically 10,000 to 15,000 miles a year, with per-mile overage charges around 15 to 30 cents) can turn an attractive lease payment into an expensive surprise at turn-in. High-mileage drivers, including many of the real estate professionals we work with, are frequently better off buying, both for the tax depreciation and to avoid overage penalties that can run into the thousands.
+
+On the other hand, a professional service provider who drives mostly for client meetings within a 20-mile radius and likes driving a newer, better-equipped vehicle every couple of years often comes out ahead leasing, especially once the business-use lease deduction is factored in.
+
+We also see this decision get more complicated once entity structure enters the picture, since whether the vehicle sits on a personal return, a Schedule C, or inside an S-corp changes both the deduction mechanics and the audit exposure. If you're setting up a new entity or restructuring an existing one, that's worth reviewing alongside our [business foundation services](/services/business-foundation-services) before you sign paperwork on a vehicle.
+
+## Common Questions
+
+**Is it ever better to buy a car outright instead of financing or leasing?**
+Yes, if you have the cash available and don't need it for other purposes, buying outright eliminates interest cost entirely and gives you full ownership and depreciation rights from day one. For business owners in a high-income year, that can also mean a larger Section 179 deduction than financing would allow, since the deduction is tied to the vehicle's cost basis, not how it's paid for.
+
+**Can I deduct my car lease if I'm self-employed?**
+Generally yes, for the business-use percentage of the lease payment, tracked through mileage logs or a consistent business-use percentage. The IRS also requires an income inclusion adjustment on higher-value leased vehicles, which reduces the deduction slightly. [IRS Publication 946](https://www.irs.gov/publications/p946) covers the related depreciation rules for owned vehicles, and a CPA can walk through the lease-specific adjustment for your situation.
+
+**Does the Section 179 vehicle deduction apply to any car I buy for my business?**
+No. Section 179 favors heavier vehicles, generally those with a GVWR over 6,000 pounds, which is why many SUVs and trucks qualify for larger first-year deductions than sedans. Lighter passenger vehicles fall under separate luxury auto depreciation limits that cap the deduction significantly.
+
+**How do interest rates affect the lease vs. buy decision right now?**
+Higher auto financing rates widen the gap between loan and lease payments, since lease pricing is driven more by projected depreciation than by the prevailing interest rate. The Federal Reserve's [G.19 report](https://www.federalreserve.gov/releases/g19/current/) tracks these financing trends, and when rates climb, the cash flow argument for leasing tends to get stronger, even before tax considerations come into play.
+
+A vehicle decision this size deserves the same scrutiny you'd give a business investment, because for many of our clients, it is one. If you want a straight answer based on your actual tax return, your entity structure, and how you really use the vehicle, [reach out to our team](/contact) and we'll run the numbers with you before you sign anything.
+
+---

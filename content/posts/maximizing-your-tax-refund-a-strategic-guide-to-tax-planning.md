@@ -58,7 +58,7 @@ Entity structure, retirement plan design, and quarterly estimate timing all affe
 ### Real estate professionals
 icon: Home
 
-Depreciation, 1031 exchanges, and real estate professional status rules create planning opportunities that don't exist for other income types. Missing one filing election can cost thousands.
+Depreciation, 1031 exchanges, real estate professional status rules, and [second home tax strategy](/resources/how-to-turn-a-second-home-into-a-tax-win) create planning opportunities that don't exist for other income types. Missing one filing election can cost thousands.
 
 ### Retail businesses
 icon: Receipt

@@ -8,7 +8,7 @@ image: reviewing-monthly-bills-at-desk.jpg
 image_alt: "Person reviewing monthly credit card statements and subscription charges at a desk with a laptop"
 tags: ["budgeting", "small business finance", "personal finance", "cash flow"]
 meta_title: "Subscription Creep: How to Audit & Cut Recurring Costs | Abramson & Company, Westport CT"
-meta_description: "Subscription creep can cost you thousands a year. Learn how to audit recurring charges and manage them like a real budget line item, with CPA guidance."
+meta_description: "Subscription creep can cost you thousands a year. Learn how to audit recurring charges and manage them like a real budget line item, with CPA guidance from Abramson & Company in Westport, CT."
 target_keyword: "subscription creep"
 secondary_keywords: ["managing subscription costs", "recurring expenses budget", "subscription audit tips", "cutting monthly expenses"]
 canonical_url: https://www.abramsonco.com/resources/take-back-control-of-subscription-creep

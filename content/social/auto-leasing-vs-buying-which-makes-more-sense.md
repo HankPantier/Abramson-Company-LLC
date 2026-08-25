@@ -1,5 +1,5 @@
 ---
-title: Social suggestions — Auto Leasing vs. Buying: Which Makes More Sense?
+title: "Social suggestions — Auto Leasing vs. Buying: Which Makes More Sense?"
 post: /resources/auto-leasing-vs-buying-which-makes-more-sense
 ---
 ## LinkedIn

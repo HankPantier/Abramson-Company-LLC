@@ -8,7 +8,7 @@ image: senior-couple-reviewing-documents-at-home.jpg
 image_alt: "An older couple sitting at a kitchen table reviewing financial paperwork together"
 tags: ["long-term care", "retirement planning", "tax planning", "estate planning"]
 meta_title: "Long-Term Care Planning Costs: A Funding Guide | Abramson & Company LLC, Westport CT"
-meta_description: "Long-term care planning costs can exceed $250,000. Compare insurance vs self-funding, VA Aid and Attendance benefits, and tax angles with CPA guidance."
+meta_description: "Long-term care planning costs can exceed $250,000. Compare insurance vs self-funding, VA Aid and Attendance benefits, and tax angles with CPA guidance. Abramson & Company LLC, Westport, CT CPA firm."
 target_keyword: "long-term care planning costs"
 secondary_keywords: ["long-term care insurance vs self-funding", "veterans aid and attendance benefit", "paying for nursing home care", "long-term care financial planning"]
 canonical_url: https://www.abramsonco.com/resources/long-term-care-how-you-can-financially-prepare-for-the-expen

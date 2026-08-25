@@ -7,8 +7,8 @@ excerpt: "Business credit card rewards can do more than pad your wallet. Here's 
 image: business-owner-reviewing-credit-card-statement.jpg
 image_alt: "Small business owner reviewing a credit card statement alongside financial records"
 tags: ["tax planning", "bookkeeping", "small business finance"]
-meta_title: "Business Credit Card Rewards Strategy for Owners"
-meta_description: "Learn how to build a business credit card rewards strategy, whether points are taxable, and how to choose the right card based on your actual spending."
+meta_title: "Business Credit Card Rewards Strategy for Owners | Abramson & Company LLC"
+meta_description: "Learn how to build a business credit card rewards strategy, whether points are taxable, and how to choose the right card based on your actual spending. Advice from a Westport, CT CPA firm serving Fairfield County and the tri-state area."
 target_keyword: "business credit card rewards strategy"
 secondary_keywords: ["best business credit card for small business taxes", "are credit card rewards taxable for businesses", "how to choose a business credit card", "maximize business credit card points"]
 canonical_url: https://www.abramsonco.com/resources/business-credit-card-rewards-a-financial-strategy-for-busine

@@ -7,8 +7,8 @@ excerpt: "Renting vs. buying isn't a lifestyle question, it's a financial statem
 image: couple-reviewing-finances-at-home.jpg
 image_alt: "A couple sitting at a kitchen table reviewing financial documents while deciding between renting and buying a home"
 tags: ["financial planning", "homeownership", "tax planning"]
-meta_title: "Buy vs Rent a Home: The Financial Math Explained"
-meta_description: "Is renting better than buying? See a real cost comparison, tax deduction facts, and opportunity cost math to decide what's right for your finances."
+meta_title: "Buy vs Rent a Home: The Financial Math Explained | Westport, CT"
+meta_description: "Is renting better than buying? See a real cost comparison, tax deduction facts, and opportunity cost math to decide what's right for your finances. Guidance from Abramson & Company in Westport, CT."
 target_keyword: "buy vs rent home financially"
 secondary_keywords: ["cost of buying vs renting a home", "is renting better than buying", "financial planning for homeownership", "rent vs buy calculator"]
 canonical_url: https://www.abramsonco.com/resources/do-the-math-behind-renting-vs-buying-a-home

@@ -7,7 +7,7 @@ excerpt: "Whether your vacation home is a tax-free perk or a full rental busines
 image: lakehouse-porch-vacation-property.jpg
 image_alt: "A vacation lake house with a porch, representing a second home that could qualify for rental tax treatment"
 tags: ["tax planning", "real estate", "second home", "vacation rental"]
-meta_title: "Second Home Tax Rules: The IRS 14-Day Rule Explained"
+meta_title: "Second Home Tax Rules: The IRS 14-Day Rule Explained | Abramson & Company LLC"
 meta_description: "Learn the second home tax rules that determine deductions, the IRS 14-day rule, and how personal use vs. rental days affect your vacation property's taxes."
 target_keyword: "second home tax rules"
 secondary_keywords: ["second home vs investment property", "renting out a second home taxes", "vacation home rental income tax", "IRS 14 day rule second home"]

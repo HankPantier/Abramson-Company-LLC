@@ -45,7 +45,7 @@ It's written for owners who want a clear answer, not a sales pitch.
 
 Most businesses don't wake up one day and decide to change how they pay for accounting. They notice the same friction points repeating month after month. If any of these sound familiar, the guide will be worth your time:
 
-- Your monthly accounting bill varies enough that you can't plan around it
+- Your monthly accounting bill varies enough that you can't plan around it — a classic sign of [subscription creep](/resources/take-back-control-of-subscription-creep) that drains thousands annually
 - You only hear from your accountant at tax time or when something is already wrong
 - You've got separate people handling bookkeeping, payroll, and tax, and none of them talk to each other
 - You're paying for advice reactively, after a decision's already been made, instead of before

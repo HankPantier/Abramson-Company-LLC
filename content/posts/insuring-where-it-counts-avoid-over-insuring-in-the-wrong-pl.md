@@ -7,8 +7,8 @@ excerpt: "Insurance planning isn't a checklist of policies to buy. It's a math p
 image: couple-reviewing-financial-documents.jpg
 image_alt: "Couple reviewing financial documents and insurance policies together at a kitchen table"
 tags: ["insurance planning", "risk management", "financial advisory", "business insurance"]
-meta_title: "How Much Insurance Coverage Do You Need? CPA Guide"
-meta_description: "Learn how to size insurance coverage to your real net worth and cash flow, not a generic checklist. CPA-led risk analysis for individuals and business owners."
+meta_title: "How Much Insurance Coverage Do You Need? | Abramson & Company LLC, Westport CT"
+meta_description: "Learn how to size insurance coverage to your real net worth and cash flow, not a generic checklist. CPA-led risk analysis for individuals and business owners in Westport, CT and Fairfield County from Abramson & Company LLC."
 target_keyword: "how much insurance coverage do you need"
 secondary_keywords: ["types of insurance for financial protection", "business insurance coverage checklist", "insurance needs analysis", "personal risk management planning"]
 canonical_url: https://www.abramsonco.com/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl

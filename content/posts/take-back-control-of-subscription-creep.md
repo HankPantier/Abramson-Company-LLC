@@ -7,7 +7,7 @@ excerpt: "Subscription creep quietly drains $2,000 to $7,000 a year from househo
 image: reviewing-monthly-bills-at-desk.jpg
 image_alt: "Person reviewing monthly credit card statements and subscription charges at a desk with a laptop"
 tags: ["budgeting", "small business finance", "personal finance", "cash flow"]
-meta_title: "Subscription Creep: How to Audit & Cut Recurring Costs"
+meta_title: "Subscription Creep: How to Audit & Cut Recurring Costs | Abramson & Company, Westport CT"
 meta_description: "Subscription creep can cost you thousands a year. Learn how to audit recurring charges and manage them like a real budget line item, with CPA guidance."
 target_keyword: "subscription creep"
 secondary_keywords: ["managing subscription costs", "recurring expenses budget", "subscription audit tips", "cutting monthly expenses"]

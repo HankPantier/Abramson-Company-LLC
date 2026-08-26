@@ -43,16 +43,6 @@ icon: FileCheck
 
 Ongoing tax planning built into your monthly service, not a once-a-year scramble in March.
 
-### Payroll
-icon: Users
-
-Payroll processed accurately and on time, with compliance handled for you. [Learn more](/services/payroll)
-
-### Tax
-icon: Receipt
-
-Personal and business tax preparation built around a strategy, not just a form. [Learn more](/services/tax)
-
 ### Business Foundation Services
 icon: Building2
 

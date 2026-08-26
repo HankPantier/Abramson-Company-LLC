@@ -57,16 +57,12 @@ If a health event also touches insurance decisions or long-term planning, it's w
 
 ## Common Questions
 
-**What's the single most effective step to reduce the cost of an unexpected medical bill?**
-Maxing out an HSA if you're on a high-deductible health plan is usually the highest-leverage move, since it reduces taxable income immediately and the funds withdraw tax-free for qualified expenses. Pairing that with careful tracking of deductible medical costs under IRS Publication 502 covers the two biggest levers most households never use.
+**What's the single most effective step to reduce the cost of an unexpected medical bill**?Maxing out an HSA if you're on a high-deductible health plan is usually the highest-leverage move, since it reduces taxable income immediately and the funds withdraw tax-free for qualified expenses. Pairing that with careful tracking of deductible medical costs under IRS Publication 502 covers the two biggest levers most households never use.
 
-**How much can I contribute to an HSA?**
-For 2024, the limits are $4,150 for self-only coverage and $8,300 for family coverage, plus a $1,000 catch-up contribution if you're 55 or older. You need to be enrolled in a qualifying high-deductible health plan to contribute.
+**How much can I contribute to an HSA**?For 2024, the limits are $4,150 for self-only coverage and $8,300 for family coverage, plus a $1,000 catch-up contribution if you're 55 or older. You need to be enrolled in a qualifying high-deductible health plan to contribute.
 
-**Are health insurance premiums tax deductible?**
-If you're self-employed, premiums may be deductible above the line in many cases. If you're an employee itemizing deductions, premiums paid with after-tax dollars can count toward the medical expense deduction once total unreimbursed costs exceed 7.5% of adjusted gross income, per IRS Publication 502.
+**Are health insurance premiums tax deductible**?If you're self-employed, premiums may be deductible above the line in many cases. If you're an employee itemizing deductions, premiums paid with after-tax dollars can count toward the medical expense deduction once total unreimbursed costs exceed 7.5% of adjusted gross income, per IRS Publication 502.
 
-**Can I deduct medical expenses I put on a credit card but haven't paid off yet?**
-Yes. IRS Publication 502 treats the expense as paid on the date it's charged, not the date the card balance is paid off, so a bill charged in December counts toward that tax year even if it takes months to pay down.
+**Can I deduct medical expenses I put on a credit card but haven't paid off yet**?Yes. IRS Publication 502 treats the expense as paid on the date it's charged, not the date the card balance is paid off, so a bill charged in December counts toward that tax year even if it takes months to pay down.
 
 A medical crisis is stressful enough without discovering after the fact that a deduction or contribution window has already closed. If you want a plan that accounts for your actual health coverage, income, and filing situation before the next bill arrives, [contact our team](/contact) and we'll walk through it together.

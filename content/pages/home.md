@@ -33,11 +33,6 @@ Clients across Fairfield County and the tri-state area of Connecticut, New York,
 
 Maintaining a bookkeeper, a payroll service, and a separate tax preparer gets expensive and confusing fast. Abramson & Company bundles the services small businesses actually need into one fixed monthly fee, so you always know what you're paying and who to call. No surprise invoices at tax time, and no re-explaining your business to a new provider every January.
 
-### Bookkeeping
-icon: Calculator
-
-Accurate, up-to-date books so you always know where your business stands financially. [Learn more](/services/bookkeeping)
-
 ### Outsourced Accounting
 icon: FileText
 

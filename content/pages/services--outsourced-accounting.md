@@ -63,22 +63,22 @@ Abramson & Company has served Westport and Fairfield County since 2005, with cli
 ### Real Estate
 icon: Home
 
-Property managers and investors need cash flow reporting that keeps pace with closings, draws, and multiple entities, not a once-a-year summary. See our dedicated [real estate accounting services](/industries/real-estate) for specifics.
+Property managers and investors need cash flow reporting that keeps pace with closings, draws, and multiple entities — not a once-a-year summary. We track income and expenses at the entity level, so you always know which properties are performing and which need attention. See our dedicated [real estate accounting services](/industries/real-estate) for specifics.
 
 ### Professional Service Providers
 icon: Briefcase
 
-Law firms, consultants, and agencies bill by project or retainer, and need financials that match how the business actually earns money. Learn more about our [work with professional service providers](/industries/professional-service-providers).
+Law firms, consultants, and agencies bill by project or retainer, and need financials that reflect how the business actually earns money. We align your books with your billing cycles so you can see realized revenue, outstanding receivables, and true project margins in real time. Learn more about our [work with professional service providers](/industries/professional-service-providers).
 
 ### Video Production Companies
 icon: Film
 
-Managing complex income streams and multi-state tax questions that traditional advisors often overlook. Learn more about our [work with video production companies](/industries/video-production).
+Production companies juggle irregular income, multi-state tax exposure, and project-based expenses that most generalist bookkeepers mishandle. Our team understands how production billing works and keeps your books clean between projects so tax season never catches you off guard. Learn more about our [work with video production companies](/industries/video-production).
 
 ### Retail
 icon: Building2
 
-Inventory tracking, point-of-sale reconciliation, and seasonal cash flow swings need a bookkeeping rhythm built around [retail businesses](/industries/retail), not a generic monthly close.
+Inventory tracking, point-of-sale reconciliation, and seasonal cash flow swings demand a bookkeeping rhythm built around how [retail businesses](/industries/retail) actually operate — not a generic monthly close that ignores your busy season or your shrinkage.
 
 <!-- block: content-split | variant: image-left | image: accounting-team-meeting.jpg | alt: "Two accounting team members discussing a client file together" | query: "colleagues discussing client file office" -->
 ## A team that knows your business, not just your books

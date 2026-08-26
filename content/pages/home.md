@@ -97,7 +97,7 @@ You don't need to be a CPA to understand what's happening with your money when y
 <!-- block: checklist-section | variant: with-image | image: connecticut-map-region-clients.jpg | alt: "Map view representing Connecticut, New York, and New Jersey client service areas" | query: "business district map location coastal town" -->
 ## Serving Westport, Fairfield County, and the tri-state area, plus the Bay Area
 
-Abramson & Company works with clients in person around Westport and Fairfield County, and remotely with clients across the tri-state area and California. The same team, the same platform, and the same fixed-fee service apply no matter which coast you're calling from.
+Abramson & Company works with clients in person around Westport and Fairfield County, and remotely with clients across the tri-state area and the Bay Area in California. The same team, the same platform, and the same fixed-fee service apply no matter which coast you're calling from.
 
 - Westport, CT and Fairfield County, CT: in-person meetings whenever you want one
 - The tri-state area of CT, NY, and NJ: full-service support without a local office visit

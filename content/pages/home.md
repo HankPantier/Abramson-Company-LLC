@@ -41,7 +41,7 @@ A full accounting department without the overhead that offers bookkeeping, payro
 ### Tax Plus
 icon: FileCheck
 
-Personalized tax preparation and ongoing planning for individuals.
+Personalized tax preparation and ongoing planning for individuals. [Learn more](/services/tax-plus)
 
 ### Business Foundation Services
 icon: Building2

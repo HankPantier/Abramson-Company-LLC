@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "outsourced-accounting-westport-ct.jpg"
 hero_image_alt: "CPA and small business owner reviewing financial statements at a conference table"
-hero_subhead: "A full accounting department for real estate professionals, service providers, video production companies, and retailers — CPA-led and billed at one predictable monthly rate"
+hero_subhead: "A full accounting department for real estate professionals, service providers, video production companies, and retailers, CPA-led and billed at one predictable monthly rate"
 hero_headline: "Your accounting department without the overhead"
 answer_block: "Outsourced accounting from Abramson & Company gives Westport and Fairfield County businesses a full accounting department, covering bookkeeping, reconciliations, financial statements, and CPA-level review, for one fixed monthly fee. Clients track their numbers in real time through a secure online platform instead of waiting on emailed spreadsheets."
 eeat_signals: ["Firm founded in 2005 by Ray, operating in its current form since","Every outsourced accounting account receives CPA-level review, not just bookkeeper data entry","Team-oriented staffing model ensures multiple staff members know each client account well enough to cover for one another","Serves Westport, Fairfield County, the tri-state area of CT/NY/NJ, and clients in California's Bay Area"]

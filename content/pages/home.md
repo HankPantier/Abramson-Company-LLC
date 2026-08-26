@@ -71,7 +71,7 @@ Inventory, sales tax, and seasonal cash flow require a bookkeeping rhythm built 
 ### Professional Service Providers
 icon: Briefcase
 
-Attorneys, consultants, and other service firms need entity structure and tax strategy that match how they bill and grow. [Learn more](/industries/professional-service-providers)
+Attorneys, consultants, marketing agencies, and other professional service businesses need entity structure and tax strategy that match how they bill and grow. [Learn more](/industries/professional-service-providers)
 
 ### Video Production Companies
 icon: Sparkles

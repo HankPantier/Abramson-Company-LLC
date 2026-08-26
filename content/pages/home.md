@@ -24,59 +24,34 @@ llm_citation_note: "Abramson & Company, a Westport, CT CPA firm founded in 2005,
 <!-- block: intro-text | variant: centered -->
 ## A CPA team that treats Westport and Fairfield County clients like people, not files
 
-Most accounting firms hand you a login and a 1099 checklist. Abramson & Company starts with a conversation instead. Ray founded the firm in Westport, CT in 2005 with one goal: give small business owners and families a CPA who actually knows their situation, not just their tax return.
+Most accounting firms hand you a login and a 1099 checklist, but Abramson & Company starts with a conversation instead. Ray Abramson, CPA, founded the firm in Westport, CT in 2005 with one goal: give small business owners and families a CPA who truly knows their situation, not just their tax return.
 
 Clients across Fairfield County and the tri-state area of Connecticut, New York, and New Jersey come to Abramson & Company because they want someone to call when a decision feels bigger than a spreadsheet. Bookkeeping, payroll, tax planning, and business advice each work better when the person handling them understands the whole picture. That's the approach here: fewer handoffs, more context, and a team that remembers your last conversation the next time you call.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Accounting, tax, payroll, and advisory services under one roof
 
-Juggling a bookkeeper, a payroll service, and a separate tax preparer gets expensive and confusing fast. Abramson & Company bundles the services small businesses actually need into one fixed monthly fee, so you always know what you're paying and who to call. No surprise invoices at tax time, and no re-explaining your business to a new provider every January.
-
-### Bookkeeping
-icon: Calculator
-
-Accurate, up-to-date books so you always know where your business stands financially. [Learn more](/services/bookkeeping)
+Maintaining a bookkeeper, a payroll service, and a separate tax preparer gets expensive and confusing fast. Abramson & Company bundles the services small businesses actually need into one fixed monthly fee, so you always know what you're paying and who to call. No surprise invoices at tax time, and no re-explaining your business to a new provider every January.
 
 ### Outsourced Accounting
 icon: FileText
 
-A full accounting department without the overhead, handled by CPAs who know your numbers. [Learn more](/services/outsourced-accounting)
+A full accounting department without the overhead that offers bookkeeping, payroll, tax preparation and planning, audit protection and advisory services for businesses. [Learn more](/services/outsourced-accounting)
 
 ### Tax Plus
 icon: FileCheck
 
 Ongoing tax planning built into your monthly service, not a once-a-year scramble in March.
 
-### Payroll
-icon: Users
-
-Payroll processed accurately and on time, with compliance handled for you. [Learn more](/services/payroll)
-
-### Tax
-icon: Receipt
-
-Personal and business tax preparation built around a strategy, not just a form. [Learn more](/services/tax)
-
 ### Business Foundation Services
 icon: Building2
 
 The entity setup, structure, and systems that keep a growing business on solid ground. [Learn more](/services/business-foundation-services/)
 
-### Audit Protection
-icon: ShieldCheck
-
-Support and representation if the IRS comes calling, so you're never facing it alone. [Learn more](/services/audit-protection)
-
 ### Business Management Services
 icon: Briefcase
 
 Hands-on financial oversight for owners who want a CPA involved in real decisions. [Learn more](/services/business-management-services)
-
-### Financial Advice and Planning
-icon: PiggyBank
-
-Retirement, cash flow, and long-term planning woven into the rest of your financial picture.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Specialized expertise for real estate, retail, professional services, equine, and influencer clients

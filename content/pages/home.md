@@ -58,7 +58,7 @@ Hands-on financial oversight for owners who want a CPA's supportive guidance in 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Specialized expertise for real estate, professional services, video production, and retail
 
-Generic advice doesn't hold up when your business has its own tax rules, cash flow patterns, and blind spots. A real estate agent and a retail shop owner face completely different financial challenges — and both deserve a CPA who already understands the landscape. Abramson & Company works closely enough with these niches to know where the real risks and opportunities usually sit.
+Generic advice doesn't hold up when your business has its own tax rules, cash flow patterns, and blind spots. A real estate agent and a retail shop owner face completely different financial challenges, and both deserve a CPA who already understands the landscape. Abramson & Company works closely enough with these niches to know where the real risks and opportunities usually sit.
 
 ### Real Estate
 icon: Home

@@ -53,11 +53,6 @@ icon: Briefcase
 
 Hands-on financial oversight for owners who want a CPA involved in real decisions. [Learn more](/services/business-management-services)
 
-### Financial Advice and Planning
-icon: PiggyBank
-
-Retirement, cash flow, and long-term planning woven into the rest of your financial picture.
-
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Specialized expertise for real estate, retail, professional services, equine, and influencer clients
 

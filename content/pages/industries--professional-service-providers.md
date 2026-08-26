@@ -32,7 +32,7 @@ Abramson & Company is a CPA firm in Westport, CT that works with small doctor's 
 
 Most physicians, attorneys, and agency owners didn't start their practice to spend evenings reconciling bank feeds. Our [bookkeeping](/services/bookkeeping) and [outsourced accounting](/services/outsourced-accounting) services combine into a single bundled package for one fixed monthly fee, so there's no surprise invoice when your books get more complicated.
 
-The needs vary by practice type, and we account for that. Medical offices deal with insurance reimbursement timing that can make cash flow feel unpredictable even in a busy month. Law firms need trust account reconciliation handled correctly to stay in bar compliance. Marketing agencies managing multiple client retainers and project budgets need clean books that reflect where each engagement actually stands. You get access to a secure online platform where you and our team see the same numbers in real time — no waiting for a monthly PDF or a callback to find out where things stand.
+The needs vary by practice type, and we account for that. Medical offices deal with insurance reimbursement timing that can make cash flow feel unpredictable even in a busy month. Law firms need trust account reconciliation handled correctly to stay in bar compliance. Marketing agencies managing multiple client retainers and project budgets need clean books that reflect where each engagement actually stands. You get access to a secure online platform where you and our team see the same numbers in real time, with no waiting for a monthly PDF or a callback to find out where things stand.
 
 This is the kind of support a growing practice actually uses, not a service that sits unopened in an inbox once a quarter.
 

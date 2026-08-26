@@ -37,11 +37,6 @@ icon: Briefcase
 
 A full accounting department without the overhead — bookkeeping, payroll, tax preparation and planning, audit protection, and advisory services built around property income, rent rolls, commission structures, and multi-entity portfolios. [Learn more](/services/outsourced-accounting)
 
-### Tax Plus
-icon: FileCheck
-
-Personalized tax preparation and ongoing planning for individuals. [Learn more](/services/tax-plus)
-
 ### Business Foundation Services
 icon: Building2
 

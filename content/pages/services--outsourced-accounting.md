@@ -32,10 +32,10 @@ Most firms selling "outsourced accounting" are really renting out a bookkeeper. 
 
 An outsourced accounting engagement with our firm covers the full cycle of financial work a growing business needs, not a slice of it. See how it compares to standard [bookkeeping](/services/bookkeeping) if you're deciding how much support your business actually needs.
 
-- Day-to-day transaction management, so every bill, deposit, and expense is coded correctly and on time
+- Day-to-day transaction management, so every bill, deposit, and expense is coded correctly and on time — whether that's a property draw, a client retainer, a production invoice, or a point-of-sale batch
 - Bank and credit card reconciliations, completed monthly so nothing slips through unnoticed
-- Financial statement preparation, including profit and loss, balance sheet, and statement of cash flows
-- Cash flow reporting, so you can see what's coming before it becomes a problem
+- Financial statement preparation, including profit and loss, balance sheet, and statement of cash flows — structured for how real estate investors, service firms, video production companies, and retailers actually read their numbers
+- Cash flow reporting, so you can see what's coming before it becomes a problem — critical when you're managing multiple entities, project pipelines, production timelines, or seasonal inventory
 - Month-end close, run against a defined checklist and timeline you can count on
 - Ongoing account review by a CPA, not just a bookkeeper entering data
 

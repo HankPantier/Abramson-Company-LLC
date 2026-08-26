@@ -55,7 +55,7 @@ You shouldn't have to email a spreadsheet and wait three days for an answer. Eve
 
 Log in and see your current cash position, message your account team directly, and pull a financial statement without waiting for month-end to ask for one. It's the same transparency you'd expect from an in-house controller, minus the payroll cost of employing one. For owners who've felt in the dark about their own numbers, that visibility changes how decisions get made.
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Built for Westport and Fairfield County businesses
 
 Abramson & Company has served Westport and Fairfield County since 2005, with clients across the tri-state area of Connecticut, New York, and New Jersey, plus a growing group of clients in California's Bay Area. Outsourced accounting works especially well for a few types of businesses we see most often.
@@ -65,15 +65,20 @@ icon: Home
 
 Property managers and investors need cash flow reporting that keeps pace with closings, draws, and multiple entities, not a once-a-year summary. See our dedicated [real estate accounting services](/industries/real-estate) for specifics.
 
-### Retail
-icon: Building2
-
-Inventory tracking, point-of-sale reconciliation, and seasonal cash flow swings need a bookkeeping rhythm built around [retail businesses](/industries/retail), not a generic monthly close.
-
 ### Professional Service Providers
 icon: Briefcase
 
 Law firms, consultants, and agencies bill by project or retainer, and need financials that match how the business actually earns money. Learn more about our [work with professional service providers](/industries/professional-service-providers).
+
+### Video Production Companies
+icon: Film
+
+Managing complex income streams and multi-state tax questions that traditional advisors often overlook. Learn more about our [work with video production companies](/industries/video-production).
+
+### Retail
+icon: Building2
+
+Inventory tracking, point-of-sale reconciliation, and seasonal cash flow swings need a bookkeeping rhythm built around [retail businesses](/industries/retail), not a generic monthly close.
 
 <!-- block: content-split | variant: image-left | image: accounting-team-meeting.jpg | alt: "Two accounting team members discussing a client file together" | query: "colleagues discussing client file office" -->
 ## A team that knows your business, not just your books

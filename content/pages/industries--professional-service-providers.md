@@ -48,16 +48,16 @@ The goal is a strategy you understand and revisit with us year-round, not a form
 <!-- block: checklist-section | variant: with-image | image: payroll-team-professional-services.jpg | alt: "Small professional services team reviewing payroll and staffing documents" | query: "small business team payroll paperwork" -->
 ## Payroll and business foundation support as you grow
 
-Adding your first employee, or your fifth, changes the administrative load on a professional service firm fast. Our [payroll](/services/payroll) service handles the filings, deposits, and compliance work so you're not learning state withholding rules between client calls. For firms bringing on 1099 contractors, subcontracted specialists, or part-time staff, we set up the systems correctly the first time.
+Adding staff changes the administrative load on a professional service firm fast, and the complexity differs by practice type. A small doctor's office adding a nurse practitioner or front-desk coordinator has different payroll and compliance requirements than a law firm bringing on an associate or a marketing agency adding a full-time creative. Our [payroll](/services/payroll) service handles the filings, deposits, and compliance work so you're not learning state withholding rules between patient appointments or client calls.
 
-[Business Foundation Services](/services/business-foundation-services/) cover the groundwork many growing firms skip: entity setup, accounting system structure, and the internal controls that keep books clean as headcount rises.
+[Business Foundation Services](/services/business-foundation-services/) cover the groundwork many growing practices skip: entity setup, accounting system structure, and the internal controls that keep books clean as headcount rises. For physician groups forming a new entity or attorneys transitioning from a sole practice to a partnership, getting that foundation right from the start prevents expensive corrections later.
 
-- Payroll processing, tax filings, and new-hire compliance
-- Contractor payments and 1099 tracking
-- Entity structure and accounting system setup for scaling firms
-- Ongoing support as staffing needs shift
+- Payroll processing, tax filings, and new-hire compliance for medical, legal, and agency staff
+- Contractor payments and 1099 tracking for freelancers and subcontracted specialists
+- Entity structure and accounting system setup for growing practices
+- Ongoing support as staffing needs shift with your caseload, patient volume, or client roster
 
-This is the administrative work that quietly eats a founder's week. We take it off your plate so client work stays the priority.
+This is the administrative work that quietly eats a founder's week. We take it off your plate so the work that actually earns revenue stays the priority.
 
 <!-- block: content-split | variant: image-right | image: cpa-advisory-meeting-westport.jpg | alt: "CPA advisor and business owner reviewing financial plan together" | query: "financial advisor client consultation office" -->
 ## Audit protection and financial advice when it matters

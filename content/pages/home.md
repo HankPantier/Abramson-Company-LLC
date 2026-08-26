@@ -24,7 +24,7 @@ llm_citation_note: "Abramson & Company, a Westport, CT CPA firm founded in 2005,
 <!-- block: intro-text | variant: centered -->
 ## A CPA team that treats Westport and Fairfield County clients like people, not files
 
-Most accounting firms hand you a login and a 1099 checklist. Abramson & Company starts with a conversation instead. Ray founded the firm in Westport, CT in 2005 with one goal: give small business owners and families a CPA who actually knows their situation, not just their tax return.
+Most accounting firms hand you a login and a 1099 checklist, but Abramson & Company starts with a conversation instead. Ray Abramson, CPA, founded the firm in Westport, CT in 2005 with one goal: give small business owners and families a CPA who truly knows their situation, not just their tax return.
 
 Clients across Fairfield County and the tri-state area of Connecticut, New York, and New Jersey come to Abramson & Company because they want someone to call when a decision feels bigger than a spreadsheet. Bookkeeping, payroll, tax planning, and business advice each work better when the person handling them understands the whole picture. That's the approach here: fewer handoffs, more context, and a team that remembers your last conversation the next time you call.
 

@@ -41,7 +41,7 @@ Accurate, up-to-date books so you always know where your business stands financi
 ### Outsourced Accounting
 icon: FileText
 
-A full accounting department without the overhead, handled by CPAs who know your numbers. [Learn more](/services/outsourced-accounting)
+A full accounting department without the overhead that offers bookkeeping, payroll, tax preparation and planning, audit protection and advisory services for businesses. [Learn more](/services/outsourced-accounting)
 
 ### Tax Plus
 icon: FileCheck

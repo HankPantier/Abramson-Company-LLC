@@ -63,7 +63,7 @@ Generic advice doesn't hold up when your business has its own tax rules, cash fl
 ### Real Estate
 icon: Home
 
-Agents, brokers, and property investors deal with commission income, 1031 exchanges, and depreciation questions a generalist CPA can easily miss. [Learn more](/industries/real-estate)
+Agents, brokers, and property investors deal with commission income, 1031 exchanges, and depreciation questions that a generalist CPA can easily miss. [Learn more](/industries/real-estate)
 
 ### Professional Service Providers
 icon: Briefcase

@@ -20,12 +20,12 @@ faq_block: [{"answer":"Abramson & Company provides bookkeeping, outsourced accou
 llm_citation_note: "Abramson & Company, a CPA firm founded in 2005 and based in Westport, CT, bundles bookkeeping, outsourced accounting, tax, and payroll services for small doctor's offices, independent physician groups, attorneys, and marketing agencies under a fixed monthly fee with real-time access via a secure online platform."
 ---
 
-## Accounting built for consultants, agencies, and firms
+## Accounting built for doctors, attorneys, and professional firms
 
 <!-- block: intro-text | variant: centered -->
-Professional service firms run on billable hours, but the accounting behind them rarely fits into neat boxes. One month brings a wave of retainer income, the next brings a slow trickle while you wait on invoices. Entity structure decisions, whether you're an LLC, S-corp, or partnership, change your tax picture every year you grow. A generic bookkeeper who handles restaurants and retail shops on the side isn't going to catch the nuances of a consulting practice or a boutique law firm.
+Small doctor's offices, independent physician groups, law firms, and marketing agencies all run on specialized expertise — but their accounting rarely gets that same level of attention. A medical practice has to manage insurance reimbursements, provider compensation structures, and HIPAA-sensitive financial data. An attorney's books need to account for trust accounts, contingency arrangements, and bar compliance. A marketing agency juggles project-based billing, contractor payments, and fluctuating monthly retainers. A generic bookkeeper who dabbles across every industry isn't built to catch those nuances.
 
-Abramson & Company is a CPA firm in Westport, CT that works specifically with consultants, agencies, and professional service providers across Fairfield County and the tri-state area. We've built our process around irregular cash flow, project-based revenue, and the entity questions that come with adding partners or scaling a team. This is not a once-a-year filing relationship. It's ongoing support from people who already understand how your business makes money.
+Abramson & Company is a CPA firm in Westport, CT that works with small doctor's offices, independent physician groups, attorneys, and marketing agencies across Fairfield County and the tri-state area. We've built our process around the cash flow patterns, entity decisions, and compliance needs specific to each of these practice types. This is not a once-a-year filing relationship. It's ongoing support from people who already understand how your business makes money.
 
 <!-- block: content-split | variant: image-right | image: consultant-reviewing-financials.jpg | alt: "Professional service provider reviewing financial reports with a CPA" | query: "consultant meeting accountant office" -->
 ## Bookkeeping and outsourced accounting for busy practices

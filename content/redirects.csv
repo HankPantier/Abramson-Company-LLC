@@ -20,3 +20,4 @@ old_url,new_url,status_code,reason
 /services/personal-income-tax,/services/tax-plus,301,Relocated via AI
 /services/bookkeeping,/services/outsourced-accounting/bookkeeping,301,Relocated via AI
 /services/payroll,/services/outsourced-accounting/payroll,301,Relocated via AI
+/services/tax,/services/outsourced-accounting/tax,301,Relocated via AI

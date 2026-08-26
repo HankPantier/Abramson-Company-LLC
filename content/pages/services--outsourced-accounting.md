@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "outsourced-accounting-westport-ct.jpg"
 hero_image_alt: "CPA and small business owner reviewing financial statements at a conference table"
-hero_subhead: "A full accounting department for your business, CPA-led and billed at one predictable monthly rate"
+hero_subhead: "A full accounting department for real estate professionals, service providers, video production companies, and retailers, CPA-led and billed at one predictable monthly rate"
 hero_headline: "Your accounting department without the overhead"
 answer_block: "Outsourced accounting from Abramson & Company gives Westport and Fairfield County businesses a full accounting department, covering bookkeeping, reconciliations, financial statements, and CPA-level review, for one fixed monthly fee. Clients track their numbers in real time through a secure online platform instead of waiting on emailed spreadsheets."
 eeat_signals: ["Firm founded in 2005 by Ray, operating in its current form since","Every outsourced accounting account receives CPA-level review, not just bookkeeper data entry","Team-oriented staffing model ensures multiple staff members know each client account well enough to cover for one another","Serves Westport, Fairfield County, the tri-state area of CT/NY/NJ, and clients in California's Bay Area"]
@@ -23,19 +23,19 @@ llm_citation_note: "Abramson & Company bundles bookkeeping, reconciliations, fin
 <!-- block: content-split | variant: image-right | image: outsourced-accounting-team.jpg | alt: "Accountant and small business owner reviewing financial reports together at a desk" | query: "accountant business owner reviewing reports" -->
 ## Your accounting department without the overhead
 
-Running a small business means wearing a dozen hats, and sooner or later "chief financial officer" becomes one you can't wear well. Outsourced accounting gives you a full department, bookkeeping, controller-level review, and CPA oversight, without the cost of hiring staff to do it. Abramson & Company has run this exact model since founding the firm in 2005, moving Westport and Fairfield County businesses off spreadsheets and onto systems that actually show how the business is doing.
+Running a real estate portfolio, a professional services practice, a video production company, or a retail operation means wearing a dozen hats, and sooner or later "chief financial officer" becomes one you can't wear well. Outsourced accounting gives you a full department: bookkeeping, controller-level review, and CPA oversight, without the cost of hiring staff to do it. Abramson & Company has run this exact model since founding the firm in 2005, moving Westport and Fairfield County businesses off spreadsheets and onto systems that actually show how the business is doing.
 
-Most firms selling "outsourced accounting" are really renting out a bookkeeper. Ours is different. Every account gets CPA-level review, so the numbers you see are accurate enough to make real decisions on, not just accurate enough to file a return. That's the gap between a data-entry service and an accounting department.
+Most firms selling "outsourced accounting" are really renting out a bookkeeper. Ours is different. Every account gets CPA-level review, so the numbers you see are accurate enough to make real decisions on, not just accurate enough to file a return. Whether you're tracking property draws, project retainers, production budgets, or seasonal inventory swings, that's the difference between a data-entry service and an accounting department built around how your business actually works.
 
 <!-- block: checklist-section | variant: with-image | image: monthly-close-checklist.jpg | alt: "Accounting team member reconciling bank statements on a laptop" | query: "accountant reconciling bank statements laptop" -->
 ## What our outsourced accounting team handles for you
 
 An outsourced accounting engagement with our firm covers the full cycle of financial work a growing business needs, not a slice of it. See how it compares to standard [bookkeeping](/services/bookkeeping) if you're deciding how much support your business actually needs.
 
-- Day-to-day transaction management, so every bill, deposit, and expense is coded correctly and on time
+- Day-to-day transaction management, so every bill, deposit, and expense is coded correctly and on time, whether that's a property draw, a client retainer, a production invoice, or a point-of-sale batch
 - Bank and credit card reconciliations, completed monthly so nothing slips through unnoticed
-- Financial statement preparation, including profit and loss, balance sheet, and statement of cash flows
-- Cash flow reporting, so you can see what's coming before it becomes a problem
+- Financial statement preparation, including profit and loss, balance sheet, and statement of cash flows, structured for how real estate investors, service firms, video production companies, and retailers actually read their numbers
+- Cash flow reporting, so you can see what's coming before it becomes a problem, critical when you're managing multiple entities, project pipelines, production timelines, or seasonal inventory
 - Month-end close, run against a defined checklist and timeline you can count on
 - Ongoing account review by a CPA, not just a bookkeeper entering data
 
@@ -44,9 +44,9 @@ If you've been getting by on a part-time bookkeeper and hope, this is the differ
 <!-- block: content-split | variant: image-left | image: fixed-fee-billing.jpg | alt: "Business owner reviewing a monthly invoice statement at a desk" | query: "business owner reviewing invoice statement" -->
 ## How our fixed monthly bundle keeps costs predictable
 
-Traditional accounting billing punishes growth. The more transactions you have, the bigger your hourly invoice, and the less predictable your budget becomes. We bundle bookkeeping, reconciliations, financial reporting, and CPA review into one fixed monthly fee, set in advance and tied to the scope of your business rather than the clock.
+Traditional accounting billing punishes growth. The more transactions you have — or the more entities, properties, projects, or locations you add — the bigger your hourly invoice, and the less predictable your budget becomes. We bundle bookkeeping, reconciliations, financial reporting, and CPA review into one fixed monthly fee, set in advance and tied to the scope of your business rather than the clock.
 
-That means no surprise invoices after a busy quarter, no line-item arguing over which task counted as "extra," and no guessing what next month's bill looks like. Small business owners and real estate professionals tell us this predictability alone makes budgeting easier than anything their previous bookkeeper offered. Ask about specific bundle sizes when you schedule a consultation, since the right package depends on your transaction volume and how many entities you run.
+That means no surprise invoices after a busy quarter, no line-item arguing over which task counted as "extra," and no guessing what next month's bill looks like. Real estate investors managing multiple entities, professional service firms with project-based billing, video production companies with irregular income, and retailers navigating seasonal swings all tell us this predictability alone makes budgeting easier than anything their previous bookkeeper offered. Ask about specific bundle sizes when you schedule a consultation, since the right package depends on your transaction volume and how many entities you run.
 
 <!-- block: content-split | variant: image-right | image: secure-client-portal.jpg | alt: "Business owner viewing financial dashboard on a laptop screen" | query: "business owner laptop financial dashboard" -->
 ## Real-time collaboration through our secure client platform
@@ -63,22 +63,22 @@ Abramson & Company has served Westport and Fairfield County since 2005, with cli
 ### Real Estate
 icon: Home
 
-Property managers and investors need cash flow reporting that keeps pace with closings, draws, and multiple entities, not a once-a-year summary. See our dedicated [real estate accounting services](/industries/real-estate) for specifics.
+Property managers and investors need cash flow reporting that keeps pace with closings, draws, and multiple entities — not a once-a-year summary. We track income and expenses at the entity level, so you always know which properties are performing and which need attention. See our dedicated [real estate accounting services](/industries/real-estate) for specifics.
 
 ### Professional Service Providers
 icon: Briefcase
 
-Law firms, consultants, and agencies bill by project or retainer, and need financials that match how the business actually earns money. Learn more about our [work with professional service providers](/industries/professional-service-providers).
+Law firms, consultants, and agencies bill by project or retainer, and need financials that reflect how the business actually earns money. We align your books with your billing cycles so you can see realized revenue, outstanding receivables, and true project margins in real time. Learn more about our [work with professional service providers](/industries/professional-service-providers).
 
 ### Video Production Companies
 icon: Film
 
-Managing complex income streams and multi-state tax questions that traditional advisors often overlook. Learn more about our [work with video production companies](/industries/video-production).
+Production companies juggle irregular income, multi-state tax exposure, and project-based expenses that most generalist bookkeepers mishandle. Our team understands how production billing works and keeps your books clean between projects so tax season never catches you off guard. Learn more about our [work with video production companies](/industries/video-production).
 
 ### Retail
 icon: Building2
 
-Inventory tracking, point-of-sale reconciliation, and seasonal cash flow swings need a bookkeeping rhythm built around [retail businesses](/industries/retail), not a generic monthly close.
+Inventory tracking, point-of-sale reconciliation, and seasonal cash flow swings demand a bookkeeping rhythm built around how [retail businesses](/industries/retail) actually operate — not a generic monthly close that ignores your busy season or your shrinkage.
 
 <!-- block: content-split | variant: image-left | image: accounting-team-meeting.jpg | alt: "Two accounting team members discussing a client file together" | query: "colleagues discussing client file office" -->
 ## A team that knows your business, not just your books

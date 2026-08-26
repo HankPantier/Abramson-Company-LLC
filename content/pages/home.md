@@ -22,11 +22,13 @@ llm_citation_note: "Abramson & Company, a Westport, CT CPA firm founded in 2005,
 ---
 
 <!-- block: intro-text | variant: centered -->
-## A CPA team that treats Westport and Fairfield County clients like people, not files
+## A CPA team built for the way real estate pros, professional service businesses, video production companies, and retailers actually operate
 
-Most accounting firms hand you a login and a 1099 checklist, but Abramson & Company starts with a conversation instead. Ray Abramson, CPA, founded the firm in Westport, CT in 2005 with one goal: give small business owners and families a CPA who truly knows their situation, not just their tax return.
+Most accounting firms hand you a login and a generic checklist. Abramson & Company starts with a conversation about how your business actually works — because commission income, client billing cycles, production budgets, and retail cash flow each have their own rhythms and tax implications.
 
-Clients across Fairfield County and the tri-state area of Connecticut, New York, and New Jersey come to Abramson & Company because they want someone to call when a decision feels bigger than a spreadsheet. Bookkeeping, payroll, tax planning, and business advice each work better when the person handling them understands the whole picture. That's the approach here: fewer handoffs, more context, and a team that remembers your last conversation the next time you call.
+Ray Abramson, CPA, founded the firm in Westport, CT in 2005 with one goal: give business owners a CPA who truly knows their situation, not just their tax return. Real estate professionals need someone who understands 1031 exchanges and depreciation. Professional service businesses need entity structure and tax strategy that match how they bill and grow. Video production companies need a CPA who can navigate complex income streams and multi-state tax questions. Retailers need a bookkeeping rhythm built around inventory, sales tax, and seasonal cash flow.
+
+Clients across Fairfield County and the tri-state area of Connecticut, New York, and New Jersey come to Abramson & Company because they want someone to call when a decision feels bigger than a spreadsheet. Fewer handoffs, more context, and a team that remembers your last conversation the next time you call.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Accounting, tax, payroll, and advisory services under one roof

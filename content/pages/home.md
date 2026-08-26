@@ -41,7 +41,7 @@ A full accounting department without the overhead that offers bookkeeping, payro
 ### Tax Plus
 icon: FileCheck
 
-Ongoing tax planning built into your monthly service, not a once-a-year scramble in March.
+Personalized tax preparation and ongoing planning for individuals.
 
 ### Business Foundation Services
 icon: Building2

@@ -73,11 +73,6 @@ icon: Briefcase
 
 Attorneys, consultants, and other service firms need entity structure and tax strategy that match how they bill and grow. [Learn more](/industries/professional-service-providers)
 
-### Equine
-icon: Award
-
-Boarding, breeding, and competition businesses carry depreciation rules and tax elections most CPAs never touch.
-
 ### Video Production Companies
 icon: Sparkles
 

@@ -37,13 +37,13 @@ The needs vary by practice type, and we account for that. Medical offices deal w
 This is the kind of support a growing practice actually uses, not a service that sits unopened in an inbox once a quarter.
 
 <!-- block: content-split | variant: image-left | image: tax-planning-professional-firm.jpg | alt: "CPA discussing tax strategy documents with a professional services client" | query: "tax planning meeting office documents" -->
-## Tax planning and preparation for service-based businesses
+## Tax planning and preparation for medical practices, law firms, and agencies
 
-Service-based businesses tend to get hit hardest by once-a-year tax prep, because so much of what determines your bill (entity structure, retirement contributions, quarterly estimates, how you pay yourself) has to be decided before December 31, not after. Our [Tax](/services/tax) and Tax Plus services are built around planning throughout the year, not just filing in April.
+Professional service owners tend to get hit hardest by once-a-year tax prep, because so much of what determines the bill — entity structure, retirement contributions, quarterly estimates, how you pay yourself — has to be decided before December 31, not after. Our [Tax](/services/tax) and Tax Plus services are built around planning throughout the year, not just filing in April.
 
-For consultants and professional firms, that often means reviewing your entity election as revenue grows, timing income and expenses around project cycles, and coordinating owner compensation with retirement contributions. We also handle [personal income tax](/services/personal-income-tax) alongside your business return, since for most owners the two are inseparable.
+The right strategy looks different depending on your practice type. A physician group organized as a partnership or S-corp has provider compensation structures and retirement plan options that can significantly reduce taxable income when planned correctly. An attorney with a growing contingency practice needs to think about how fee timing affects quarterly estimates. A marketing agency owner adding employees has to reconsider how owner draws and payroll interact as the business scales. We also handle [personal income tax](/services/personal-income-tax) alongside your business return, since for most practice owners the two are completely inseparable.
 
-The goal is a strategy you understand and revisit with us, not a form that shows up once a year with a number attached.
+The goal is a strategy you understand and revisit with us year-round, not a form that shows up once a year with a number attached.
 
 <!-- block: checklist-section | variant: with-image | image: payroll-team-professional-services.jpg | alt: "Small professional services team reviewing payroll and staffing documents" | query: "small business team payroll paperwork" -->
 ## Payroll and business foundation support as you grow

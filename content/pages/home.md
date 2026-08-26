@@ -100,7 +100,7 @@ Abramson & Company works with clients in person around Westport and Fairfield Co
 - Westport, CT and Fairfield County, CT: in-person meetings whenever you want one
 - The tri-state area of CT, NY, and NJ: full-service support without a local office visit
 - California, especially the Bay Area: the same CPA-led service, three time zones away
-- Small businesses, real estate professionals, and not-for-profits: every client gets a team, not one point of contact
+- Small businesses and real estate professionals: every client gets a team, not one point of contact
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Home

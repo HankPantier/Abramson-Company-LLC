@@ -14,11 +14,11 @@
         },
         {
           "label": "Payroll",
-          "url": "/services/payroll"
+          "url": "/services/outsourced-accounting/payroll"
         },
         {
           "label": "Tax",
-          "url": "/services/tax"
+          "url": "/services/outsourced-accounting/tax"
         },
         {
           "label": "Personal income tax",

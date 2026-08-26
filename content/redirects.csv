@@ -19,3 +19,5 @@ old_url,new_url,status_code,reason
 /resources/e-books/the-new-KPIs-of-business,/resources/the-new-KPIs-of-business,301,Relocated via editor
 /services/personal-income-tax,/services/tax-plus,301,Relocated via AI
 /services/bookkeeping,/services/outsourced-accounting/bookkeeping,301,Relocated via AI
+/services/payroll,/services/outsourced-accounting/payroll,301,Relocated via AI
+/services/tax,/services/outsourced-accounting/tax,301,Relocated via AI

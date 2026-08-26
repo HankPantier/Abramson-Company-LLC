@@ -35,7 +35,7 @@ Property income rarely fits into one bucket. Rental cash flow, commission checks
 ### Outsourced Accounting
 icon: Briefcase
 
-A full accounting department without the overhead that offers bookkeeping, payroll, tax preparation and planning, audit protection and advisory services for businesses. [Learn more](/services/outsourced-accounting)
+A full accounting department without the overhead — bookkeeping, payroll, tax preparation and planning, audit protection, and advisory services built around property income, rent rolls, commission structures, and multi-entity portfolios. [Learn more](/services/outsourced-accounting)
 
 ### Tax Plus
 icon: FileCheck
@@ -45,12 +45,12 @@ Personalized tax preparation and ongoing planning for individuals. [Learn more](
 ### Business Foundation Services
 icon: Building2
 
-The entity setup, structure, and systems that keep a growing business on solid ground. [Learn more](/services/business-foundation-services)
+Entity setup and structure for new acquisitions, reorganizations, and growing property portfolios — so the way you hold each property fits your tax picture and long-term goals. [Learn more](/services/business-foundation-services)
 
 ### Business Management Services
 icon: Users
 
-Hands-on financial oversight for owners who want a CPA's supportive guidance in business decisions. [Learn more](/services/business-management-services)
+Hands-on financial oversight for investors and brokers who want a CPA's guidance when making portfolio decisions, evaluating deals, or managing the financial side of a growing real estate business. [Learn more](/services/business-management-services)
 
 <!-- block: content-split | variant: image-right | image: real-estate-tax-planning.jpg | alt: "Accountant and real estate investor reviewing property tax documents together" | query: "real estate investor meeting accountant" -->
 ## Tax strategies for investors, agents, and property owners

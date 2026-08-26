@@ -120,9 +120,9 @@ A: Depending on your needs, the fixed fee can bundle bookkeeping, payroll, tax p
 A: Schedule a consultation through the contact page. A CPA will walk through your current situation, whether that's a small business, a real estate practice, or personal tax planning, and recommend which services actually fit your needs.
 
 <!-- block: cta-banner | variant: image-bg | image: westport-office-handshake-consultation.jpg | alt: "Accountant shaking hands with a client after a consultation meeting" | query: "business handshake consultation office meeting" -->
-## A conversation about your business or family finances starts here
+## A conversation about your real estate, professional service, video production, or retail business starts here
 
-You don't need a finished spreadsheet or a list of questions to reach out. Tell us what's going on with your business, your taxes, or your family's finances, and we'll tell you plainly what Abramson & Company can do about it. No sales pitch, no jargon, just a CPA who's ready to listen.
+You don't need a finished spreadsheet or a list of questions to reach out. Whether you're a real estate professional navigating 1031 exchanges, a professional service firm sorting out entity structure, a video production company managing multi-state tax questions, or a retailer dealing with inventory and seasonal cash flow — tell us what's going on and we'll tell you plainly what Abramson & Company can do about it. No sales pitch, no jargon, just a CPA who's ready to listen.
 
 Schedule a consultation and find out what personalized, CPA-led support actually feels like.
 

@@ -7,7 +7,7 @@ excerpt: "Exhaustion isn't dedication, it's a financial risk. See why self-care 
 image: business-owner-taking-break.jpg
 image_alt: "A small business owner pausing at a cluttered desk with paperwork and a cup of coffee"
 tags: ["burnout", "business owners", "work-life balance", "financial planning"]
-meta_title: "Self-Care for Business Owners: A CPA's Take on Burnout"
+meta_title: "Self-Care for Business Owners: A CPA's Take on Burnout | Abramson & Company"
 meta_description: "Business owner burnout costs more than energy, it costs decisions. See why Abramson & Company treats self-care as a financial safeguard, not a luxury."
 target_keyword: "self-care for business owners"
 secondary_keywords: ["business owner burnout", "entrepreneur mental health", "work-life balance for small business owners", "sustainable business growth habits"]

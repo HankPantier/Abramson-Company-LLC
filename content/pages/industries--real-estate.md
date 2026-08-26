@@ -32,35 +32,20 @@ What real estate professionals in Fairfield County actually need is someone who 
 
 Property income rarely fits into one bucket. Rental cash flow, commission checks, 1031 proceeds, and construction draws each carry different tax treatment and different bookkeeping needs. Here's how our services line up against the real estate specifics that actually matter.
 
-### Bookkeeping
-icon: Calculator
-
-We track rent rolls, security deposits, commission splits, and property-level expenses so every unit or listing has its own clean set of books, not one blended ledger that hides what's actually profitable.
-
 ### Outsourced Accounting
 icon: Briefcase
 
-For investors and developers managing multiple entities, we handle the full accounting function, month-end close, financial statements, and reconciliations across each LLC, so you get one clear picture instead of five disconnected spreadsheets.
-
-### Tax Plus
-icon: FileCheck
-
-Ongoing tax support built around real estate timing: 1031 exchange deadlines, cost segregation studies, and depreciation schedules reviewed before decisions get made, not after the return is filed.
-
-### Payroll
-icon: Users
-
-Property management teams and brokerages with support staff get payroll that handles commission-based pay structures and multi-state employees without the filing headaches.
-
-### Tax
-icon: Coins
-
-Personal and business returns prepared with attention to passive activity rules, rental loss limitations, and the entity structure behind each property you hold.
+A full accounting department without the overhead — bookkeeping, payroll, tax preparation and planning, audit protection, and advisory services built around property income, rent rolls, commission structures, and multi-entity portfolios. [Learn more](/services/outsourced-accounting)
 
 ### Business Foundation Services
 icon: Building2
 
-Setting up a new LLC for an acquisition or restructuring how you hold multiple properties? We help you choose an entity structure that fits your tax picture and your exit plan.
+Entity setup and structure for new acquisitions, reorganizations, and growing property portfolios — so the way you hold each property fits your tax picture and long-term goals. [Learn more](/services/business-foundation-services)
+
+### Business Management Services
+icon: Users
+
+Hands-on financial oversight for investors and brokers who want a CPA's guidance when making portfolio decisions, evaluating deals, or managing the financial side of a growing real estate business. [Learn more](/services/business-management-services)
 
 <!-- block: content-split | variant: image-right | image: real-estate-tax-planning.jpg | alt: "Accountant and real estate investor reviewing property tax documents together" | query: "real estate investor meeting accountant" -->
 ## Tax strategies for investors, agents, and property owners

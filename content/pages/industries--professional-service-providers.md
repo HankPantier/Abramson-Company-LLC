@@ -1,10 +1,10 @@
 ---
-title: "Professional service provider accounting | Abramson & Company LLC"
+title: "CPA for Doctors, Attorneys & Professional Service Firms | Abramson & Company LLC"
 url: "/industries/professional-service-providers"
-meta_title: "CPA for Professional Service Providers Westport CT"
-meta_description: "CPA firm in Westport, CT helping consultants and professional service providers with bookkeeping, tax planning, payroll, and audit protection support."
+meta_title: "CPA for Doctors, Attorneys & Marketing Agencies Westport CT"
+meta_description: "CPA firm in Westport, CT serving small doctor's offices, independent physician groups, attorneys, and marketing agencies with bookkeeping, tax planning, payroll, and audit protection."
 target_keyword: "CPA for professional service providers Westport CT"
-secondary_keywords: ["professional services accounting Westport Connecticut","bookkeeping for consultants Westport CT","tax preparation professional service providers CT","outsourced accounting Westport","CPA payroll services Westport CT","business tax planning professional services CT","audit protection Westport CT","business foundation services Westport"]
+secondary_keywords: ["CPA for doctors offices Westport CT","accounting for attorneys Westport Connecticut","CPA for marketing agencies CT","independent physician group accounting CT","bookkeeping for law firms Westport CT","tax planning for medical practices CT","outsourced accounting Westport","CPA payroll services Westport CT","business tax planning professional services CT","audit protection Westport CT","business foundation services Westport"]
 canonical_url: "https://www.abramsonco.com/industries/professional-service-providers"
 schema_markup: "Service"
 hero: "hero-split"

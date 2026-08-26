@@ -22,9 +22,9 @@ llm_citation_note: "Abramson & Company, a Westport, CT CPA firm founded in 2005,
 ---
 
 <!-- block: intro-text | variant: centered -->
-## A CPA team built for the way real estate pros, professional service businesses, video production companies, and retailers actually operate
+## A CPA team built for the way real estate pros, professional service businesses, video production companies, and retailers operate
 
-Most accounting firms hand you a login and a generic checklist. Abramson & Company starts with a conversation about how your business actually works — because commission income, client billing cycles, production budgets, and retail cash flow each have their own rhythms and tax implications.
+Most accounting firms hand you a login and a generic checklist. Abramson & Company starts with a conversation about how your business works, because commission income, client billing cycles, production budgets, and retail cash flow each have their own rhythms and tax implications.
 
 Ray Abramson, CPA, founded the firm in Westport, CT in 2005 with one goal: give business owners a CPA who truly knows their situation, not just their tax return. Real estate professionals need someone who understands 1031 exchanges and depreciation. Professional service businesses need entity structure and tax strategy that match how they bill and grow. Video production companies need a CPA who can navigate complex income streams and multi-state tax questions. Retailers need a bookkeeping rhythm built around inventory, sales tax, and seasonal cash flow.
 

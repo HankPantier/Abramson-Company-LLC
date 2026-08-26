@@ -78,10 +78,10 @@ icon: Award
 
 Boarding, breeding, and competition businesses carry depreciation rules and tax elections most CPAs never touch.
 
-### Influencers
+### Video Production Companies
 icon: Sparkles
 
-Content creators face 1099 income, brand-deal contracts, and multi-state tax questions that traditional advisors often overlook. [Learn more](/industries/video-production)
+Managing complex income streams and multi-state tax questions that traditional advisors often overlook. [Learn more](/industries/video-production)
 
 <!-- block: content-split | variant: image-right | image: firm-founder-team-meeting.jpg | alt: "CPA founder reviewing documents with staff around a conference table" | query: "accounting team office meeting discussion" -->
 ## Since 2005, a team-oriented firm built on trust

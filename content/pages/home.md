@@ -63,11 +63,6 @@ icon: Home
 
 Agents, brokers, and property investors deal with commission income, 1031 exchanges, and depreciation questions a generalist CPA can easily miss. [Learn more](/industries/real-estate)
 
-### Retail
-icon: Building
-
-Inventory, sales tax, and seasonal cash flow require a bookkeeping rhythm built around how retail actually operates. [Learn more](/industries/retail)
-
 ### Professional Service Providers
 icon: Briefcase
 
@@ -77,6 +72,11 @@ Attorneys, consultants, marketing agencies, and other professional service busin
 icon: Sparkles
 
 Managing complex income streams and multi-state tax questions that traditional advisors often overlook. [Learn more](/industries/video-production)
+
+### Retail
+icon: Building
+
+Inventory, sales tax, and seasonal cash flow require a bookkeeping rhythm built around how retail actually operates. [Learn more](/industries/retail)
 
 <!-- block: content-split | variant: image-right | image: firm-founder-team-meeting.jpg | alt: "CPA founder reviewing documents with staff around a conference table" | query: "accounting team office meeting discussion" -->
 ## Since 2005, a team-oriented firm built on trust

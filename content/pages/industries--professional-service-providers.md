@@ -62,9 +62,9 @@ This is the administrative work that quietly eats a founder's week. We take it o
 <!-- block: content-split | variant: image-right | image: cpa-advisory-meeting-westport.jpg | alt: "CPA advisor and business owner reviewing financial plan together" | query: "financial advisor client consultation office" -->
 ## Audit protection and financial advice when it matters
 
-An IRS notice or a client audit request can stall a professional service firm for weeks if you're not prepared. Our [Audit Protection](/services/audit-protection) service gives you a direct line to someone who already knows your books, so you're not starting from scratch explaining your business to a stranger under deadline pressure.
+An IRS notice can stall any practice, but the stakes feel especially high when you're a physician managing a small office, an attorney with trust account obligations, or an agency owner with client contracts in flight. Our [Audit Protection](/services/audit-protection) service gives you a direct line to someone who already knows your books, so you're not starting from scratch explaining your business to a stranger under deadline pressure. For medical practices, that also means having someone prepared if a billing audit surfaces. For attorneys, it means your financial records are organized well enough to withstand bar-related scrutiny.
 
-Beyond compliance, growth decisions (bringing on a partner, opening a second office, evaluating a retirement plan) deserve more than a guess. We work alongside clients on [business management](/services/business-management-services) and [retirement plan analysis](/services/retirement-plan-analysis) questions as they come up, not just at tax time.
+Beyond compliance, growth decisions deserve more than a guess. Physician groups evaluating buy-in arrangements, law firms considering a lateral partner hire, and agencies thinking about bringing contractors in-house all face financial decisions that look simple on the surface and get complicated fast. We work alongside clients on [business management](/services/business-management-services) and [retirement plan analysis](/services/retirement-plan-analysis) questions as they come up, not just at tax time.
 
 Having someone to call before you make a decision, not just after, is the difference between reacting to problems and planning around them.
 

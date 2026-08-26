@@ -7,7 +7,7 @@ excerpt: "An emergency fund only buys time. See how HSAs, itemized medical deduc
 image: family-reviewing-medical-bills-documents.jpg
 image_alt: "A family sitting at a kitchen table reviewing medical bills and financial paperwork together"
 tags: ["tax planning", "HSA", "medical expenses", "financial planning"]
-meta_title: "How to Plan for Unexpected Medical Expenses | CT CPA"
+meta_title: "How to Plan for Unexpected Medical Expenses | Abramson & Company"
 meta_description: "Learn how to plan for unexpected medical expenses using HSA tax benefits, medical expense deductions, and FSA timing, explained by a Westport, CT CPA firm."
 target_keyword: "how to plan for unexpected medical expenses"
 secondary_keywords: ["HSA tax benefits", "medical expense tax deduction", "emergency fund for medical bills", "avoiding medical debt"]

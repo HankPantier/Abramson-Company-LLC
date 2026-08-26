@@ -48,11 +48,6 @@ icon: Building2
 
 The entity setup, structure, and systems that keep a growing business on solid ground. [Learn more](/services/business-foundation-services/)
 
-### Audit Protection
-icon: ShieldCheck
-
-Support and representation if the IRS comes calling, so you're never facing it alone. [Learn more](/services/audit-protection)
-
 ### Business Management Services
 icon: Briefcase
 

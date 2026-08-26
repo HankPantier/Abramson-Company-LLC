@@ -51,7 +51,7 @@ The entity setup, structure, and systems that keep a growing business on solid g
 ### Business Management Services
 icon: Briefcase
 
-Hands-on financial oversight for owners who want a CPA involved in real decisions. [Learn more](/services/business-management-services)
+Hands-on financial oversight for owners who want a CPA's supportive guidance in business decisions. [Learn more](/services/business-management-services)
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Specialized expertise for real estate, retail, professional services, equine, and influencer clients

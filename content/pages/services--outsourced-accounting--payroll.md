@@ -50,31 +50,26 @@ Every client also gets access to a secure online platform where you can review p
 
 Payroll doesn't look the same across industries, and treating it like a one-size template is where most providers get it wrong.
 
-### Real Estate Teams
+### Real Estate Professionals
 icon: Home
 
-Agents often mix W-2 staff with 1099 contractors and commission-based pay. We structure payroll so commission splits, referral fees, and staff wages are classified correctly from the start, not corrected after an IRS notice.
+Agents often mix W-2 staff with 1099 contractors and commission-based pay. We structure payroll so commission splits, referral fees, and staff wages are classified correctly from the start, not corrected after an IRS notice. [Learn more](/industries/real-estate)
 
 ### Professional Service Providers
 icon: Briefcase
 
-Law firms, consultancies, and agencies often carry bonus structures and partner draws alongside salaried staff. We keep those distinctions clean on every pay run and every tax filing.
+Law firms, consultants, and agencies often carry bonus structures and partner draws alongside salaried staff. We keep those distinctions clean on every pay run and every tax filing. [Learn more](/industries/professional-service-providers)
+
+### Video Productions Companies
+icon: Zap
+
+Managing complex income streams and multi-state tax questions that traditional advisors often overlook. [Learn more](/industries/video-production)
+
 
 ### Retail Businesses
 icon: Clock
 
-Hourly staff, seasonal hiring, and shifting schedules make retail payroll a moving target. Time tracking integration and fast turnaround keep pay runs accurate even when your headcount changes month to month.
-
-### Equine Operations
-icon: Users
-
-Barn staff, trainers, and seasonal help often span multiple pay structures and, sometimes, multiple states. We handle the classification and filing details so you can stay focused on the horses.
-
-### Influencer Businesses
-icon: Zap
-
-Income that arrives in bursts, from brand deals to platform payouts, still needs consistent payroll and tax handling if you employ assistants or production help. We keep the paperwork steady even when the income isn't.
-
+Hourly staff, seasonal hiring, and shifting schedules make retail payroll a moving target. Time tracking integration and fast turnaround keep pay runs accurate even when your headcount changes month to month. [Learn more](/industries/retail)
 <!-- block: content-split | variant: image-left | image: cpa-team-client-meeting.jpg | alt: "Two accountants and a client reviewing payroll reports together" | query: "accountants client meeting discussing documents" -->
 ## A team that knows your business, not just your numbers
 

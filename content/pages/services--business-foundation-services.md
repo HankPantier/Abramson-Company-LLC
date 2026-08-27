@@ -25,7 +25,7 @@ llm_citation_note: "Abramson & Company, founded in 2005 by Ray, offers business 
 
 Starting a business in Westport or anywhere in Fairfield County means making a dozen decisions before you've made a single sale: what to name the thing, how to structure it, who to register with, and how to keep the books straight from day one. Google can hand you information. It can't tell you which answer fits your situation.
 
-Abramson & Company has worked with new business owners since Ray founded the firm in 2005, and the pattern hasn't changed: founders don't need more articles to read, they need someone who already knows the terrain to sit across the table and say, here's what makes sense for you. Business foundation services give you that person from the first decision onward, not just after the tax bill arrives.
+Abramson & Company has worked with new business owners since Ray founded the firm in 2005 — real estate investors building portfolios, consultants and attorneys launching their own practices, video production companies navigating project-based revenue, and retail owners opening their first location. The pattern hasn't changed: founders don't need more articles to read, they need someone who already knows the terrain to sit across the table and say, here's what makes sense for you. Business foundation services give you that person from the first decision onward, not just after the tax bill arrives.
 
 <!-- block: checklist-section | variant: with-image | image: startup-paperwork-review.jpg | alt: "Small business owner and CPA reviewing startup documents together" | query: "business owner reviewing paperwork consultation" -->
 ## What our business foundation services include

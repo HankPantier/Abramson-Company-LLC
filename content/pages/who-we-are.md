@@ -136,12 +136,13 @@ Abramson & Company LLC is a CPA firm founded in 2005 by Ray, based in Westport, 
 - Team-oriented staffing model where multiple team members are familiar with each client's file
 - CPA-led oversight across bookkeeping, payroll, tax, and business advisory services
 - Geographic service footprint spanning Westport, Fairfield County, the CT/NY/NJ tri-state area, and California's Bay Area
-- Specialized niche experience in real estate, professional services, retail, equine, and influencer businesses
+- Specialized niche experience in real estate, professional services, retail, and video production businesses
 
 **Internal Links:**
 - real estate services → /industries/real-estate — Links ideal client type to the dedicated industry page for real estate professionals
 - professional service providers → /industries/professional-service-providers — Points visitors to the industry page matching this ideal client segment
 - retail businesses → /industries/retail — Connects retail ideal client mention to the retail industry page
+- video production companies → /industries/video-production — Links video production mention to the dedicated industry page
 - full service list → /services — Gives visitors a path to the complete services overview after reading the approach section
 - bookkeeping → /services/bookkeeping — Direct link from the approach section to the specific bookkeeping service page
 - payroll → /services/payroll — Direct link from the approach section to the specific payroll service page

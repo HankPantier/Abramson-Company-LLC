@@ -97,7 +97,7 @@ Abramson & Company serves real estate professionals, professional service provid
 **E-E-A-T Signals:**
 - Firm founded in 2005 and operating in its current form since
 - CPA-led team serving Westport, CT, Fairfield County, and the tri-state area of CT, NY, and NJ
-- Niche specialization in equine industry accounting, a specialty rarely listed by CPA firms
+- Niche specialization in video production accounting, a specialty rarely listed by CPA firms
 - Team-oriented culture where multiple staff members know each client file well enough to step in
 
 **Internal Links:**

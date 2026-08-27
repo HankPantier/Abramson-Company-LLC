@@ -53,40 +53,30 @@ Our home base is Westport, CT, and most of our client relationships start close 
 
 Geography rarely limits what a CPA relationship can accomplish once secure, real-time collaboration tools are in place, which is exactly how we work with clients outside Fairfield County.
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Who we serve best
 
-We work with individuals and businesses across Fairfield County and beyond, but certain client types tend to get the most value from how we operate.
-
-### Small Business Owners
-icon: Briefcase
-
-From startups to established operations, small business owners come to us for bookkeeping, payroll, and tax planning that doesn't require them to become accountants themselves.
+We work with businesses across Fairfield County and beyond, but four client types get the most value from how we operate.
 
 ### Real Estate Professionals
 icon: Home
 
-Agents, brokers, and investors face entity structuring and cash flow questions that generic tax prep misses. See our [real estate services](/industries/real-estate) for specifics.
+Agents, brokers, and investors face entity structuring, depreciation schedules, and cash flow timing that generic tax prep misses entirely. See our [real estate services](/industries/real-estate) for specifics.
 
 ### Professional Service Providers
 icon: Scale
 
-Attorneys, consultants, and other [professional service providers](/industries/professional-service-providers) need accounting that keeps pace with billable hours and client trust accounts.
+Attorneys, consultants, and other [professional service providers](/industries/professional-service-providers) need accounting that keeps pace with billable hours, client trust accounts, and practice growth.
+
+### Video Production Companies
+icon: Film
+
+Project-based income, equipment depreciation, and multi-state production expenses make accounting for [video production companies](/industries/video-production) more complex than most CPAs expect. We know the terrain.
 
 ### Retail Businesses
 icon: Building2
 
-Inventory, seasonal cash flow, and point-of-sale reconciliation are daily realities for the [retail businesses](/industries/retail) we support.
-
-### Not-for-Profit Organizations
-icon: Users
-
-Boards and directors need financial reporting that satisfies funders and regulators without pulling staff away from the mission.
-
-### Equine and Influencer Businesses
-icon: Sparkles
-
-Two niches with unusual income patterns and expense structures: equine operations and content creators both get specialized attention here.
+Inventory management, seasonal cash flow, and point-of-sale reconciliation are daily realities for the [retail businesses](/industries/retail) we support.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Our approach to accounting, tax, and advisory

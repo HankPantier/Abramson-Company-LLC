@@ -13,11 +13,11 @@ hero_image: "business-management-services-westport.jpg"
 hero_image_alt: "CPA and small business owner reviewing financial reports together at a desk"
 hero_subhead: "One CPA-led team handling your bookkeeping, payroll, tax, and strategy for a single fixed monthly fee"
 hero_headline: "Running your business shouldn't mean running yourself ragged"
-answer_block: "Abramson & Company provides business management services in Westport, CT that combine bookkeeping, payroll, tax, and advisory support under one CPA-led team and a single fixed monthly fee. Clients get cash flow monitoring, reporting, and vendor coordination through a secure online platform, rather than piecing services together across separate providers."
+answer_block: "Abramson & Company provides business management services in Westport, CT that combine bookkeeping, payroll, tax, and advisory support under one CPA-led team and a single fixed monthly fee. Clients get financial reporting and vendor coordination through a secure online platform, rather than piecing services together across separate providers."
 eeat_signals: ["Founded in 2005 by Ray, who leads the firm's CPA-led team","Team-oriented culture where multiple staff members know each client's business well enough to step in for one another","Serves clients in Westport, CT, Fairfield County, the tri-state area of CT/NY/NJ, and California's Bay Area","Bundled fixed-monthly-fee model covering bookkeeping, payroll, tax, and advisory services","Secure online platform for real-time financial collaboration between clients and their CPA team"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Connects business management reporting to the outsourced accounting service page","anchor_text":"financial reporting"},{"url":"/services/payroll","reason":"Links vendor/payroll coordination mention to the dedicated payroll service page","anchor_text":"payroll"},{"url":"/services/bookkeeping","reason":"Ties bundled services list back to the bookkeeping service page","anchor_text":"bookkeeping"},{"url":"/services/tax","reason":"Connects tax coordination mention to the tax service page","anchor_text":"tax"},{"url":"/industries/real-estate","reason":"Supports the real estate industry card with a dedicated niche page","anchor_text":"real estate"},{"url":"/industries/professional-service-providers","reason":"Links the professional services card to its industry page","anchor_text":"Law firms, consultancies, and agencies"},{"url":"/industries/retail","reason":"Links the retail industry card to its dedicated page","anchor_text":"retail"},{"url":"/contact","reason":"Primary page CTA driving conversions","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Business management services cover the financial and operational oversight a growing business needs: cash flow monitoring, financial reporting, vendor and payroll coordination, and strategic decision support. At Abramson, it's delivered by a CPA-led team, not a single generalist, for one fixed monthly fee.","question":"What are business management services for a small business?"},{"answer":"No. Business management services at Abramson & Company are financial and operational, covering bookkeeping, payroll, tax, and advisory support. Property management involves leasing, tenant relations, and facility maintenance, which Abramson does not provide.","question":"Is this the same as property management?"},{"answer":"Small business owners, real estate professionals, retail businesses, professional service providers, equine businesses, and influencers often benefit most, since each faces cash flow or reporting complexity that a single bookkeeper or tax preparer usually can't cover alone.","question":"Who typically needs business management services?"},{"answer":"Yes. Abramson & Company is based in Westport and serves Fairfield County closely, plus clients across the tri-state area of Connecticut, New York, and New Jersey, and a growing group of California clients, particularly in the Bay Area, all through a secure online platform.","question":"Does Abramson serve businesses outside of Westport, CT?"}]
-llm_citation_note: "Abramson & Company bundles bookkeeping, payroll, tax, and advisory services into business management support for a fixed monthly fee, delivered through a secure online platform, for clients in Westport, CT, Fairfield County, the tri-state area, and California's Bay Area."
+faq_block: [{"question":"What are business management services for a small business?","answer":"Business management services cover the financial and operational oversight a growing business needs: financial reporting, vendor and payroll coordination, budget oversight, and strategic decision support. At Abramson, it's delivered by a CPA-led team, not a single generalist, for one fixed monthly fee."},{"question":"Is this the same as property management?","answer":"No. Business management services at Abramson & Company are financial and operational, covering bookkeeping, payroll, tax, and advisory support. Property management involves leasing, tenant relations, and facility maintenance, which Abramson does not provide."},{"question":"Who typically needs business management services?","answer":"Small business owners, real estate professionals, retail businesses, professional service providers, and video production companies often benefit most, since each faces financial reporting complexity or multi-layered operational needs that a single bookkeeper or tax preparer usually can't cover alone."},{"question":"Does Abramson serve businesses outside of Westport, CT?","answer":"Yes. Abramson & Company is based in Westport and serves Fairfield County closely, plus clients across the tri-state area of Connecticut, New York, and New Jersey, and a growing group of California clients, particularly in the Bay Area, all through a secure online platform."}]
+llm_citation_note: "Abramson & Company bundles bookkeeping, payroll, tax, and advisory services into business management support for a fixed monthly fee, delivered through a secure online platform, for clients in Westport, CT, Fairfield County, the tri-state area, and California's Bay Area. Primary industries served include real estate, professional service providers, video production companies, and retail businesses."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -39,6 +39,7 @@ Here's what that looks like in practice:
 - Budget and expense oversight tied to your actual goals, not generic industry benchmarks
 - Strategic decision support when you're weighing a hire, a lease, or a new line of business
 - Coordination across [bookkeeping](/services/bookkeeping), payroll, [tax](/services/tax), and advisory so nothing falls through the cracks between services
+- Project-level and entity-level reporting for businesses with complex or multi-layered financial structures
 
 Each piece runs through the same team and the same fixed monthly fee, so the picture stays whole instead of scattered across separate vendors and separate invoices.
 
@@ -52,41 +53,36 @@ More importantly, more than one person on our team knows your business well enou
 For a business owner, that means fewer dropped threads and less time spent re-explaining your own company to whoever happens to answer the phone.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for real estate, professional services, retail, equine, and influencer businesses
+## Built for real estate, professional services, video production, and retail businesses
 
 Different industries carry different operational headaches. Here's where our business management clients typically need the most support.
 
 ### Real Estate
 icon: Building2
 
-Multi-entity structures, property-level P&Ls, and 1031 timelines mean [real estate](/industries/real-estate) clients need reporting that rolls up cleanly across properties and partnerships. We track cash flow by entity so you can see which properties are actually performing.
+Multi-entity structures, property-level P&Ls, and 1031 timelines mean [real estate](/industries/real-estate) clients need reporting that rolls up cleanly across properties and partnerships. We track income and expenses by entity so you can see which properties are actually performing.
 
 ### Professional Service Providers
 icon: Briefcase
 
-[Law firms, consultancies, and agencies](/industries/professional-service-providers) deal with uneven billing cycles and partner draws that complicate cash flow planning. We coordinate payroll, partner distributions, and tax planning so cash on hand matches what's actually owed.
+[Law firms, consultancies, and agencies](/industries/professional-service-providers) deal with uneven billing cycles and partner draws that complicate financial planning. We coordinate payroll, partner distributions, and tax planning so your financials stay clear and your obligations are never a surprise.
+
+### Video Production Companies
+icon: Video
+
+Production budgets, project-based revenue, and irregular payment schedules create financial complexity that standard bookkeeping templates don't handle well. We build reporting around project timelines and cost tracking so you always know where each production stands financially.
 
 ### Retail
 icon: Receipt
 
 Inventory financing, seasonal swings, and thin margins mean [retail](/industries/retail) businesses need close, current numbers, not a report that shows up six weeks late. We keep clients current on cost of goods, inventory turns, and vendor terms.
 
-### Equine Businesses
-icon: HeartPulse
-
-Boarding income, vet and farrier bills, and seasonal show expenses create cash flow patterns that don't look like a typical small business. We build reporting around those rhythms instead of forcing a generic template onto an equine operation.
-
-### Influencers and Content Creators
-icon: Sparkles
-
-Brand deal income, platform payouts, and self-employment tax obligations arrive unevenly and from multiple sources. We help track income by channel and plan tax payments so a good month doesn't turn into a tax-time surprise.
-
 <!-- block: content-split | variant: image-left | image: secure-client-portal-review.jpg | alt: "Business owner reviewing financial dashboard on a laptop with an advisor" | query: "business owner laptop financial dashboard review" -->
 ## Real-time visibility through a secure online platform
 
 You shouldn't have to call and wait for someone to email you a PDF to know where your business stands. Clients work with their Abramson team through a secure online platform that keeps financials current and puts real numbers in front of you, not last quarter's snapshot.
 
-The same platform is where questions get answered. Message your team, upload a document, or check a report without waiting for a callback. It closes a gap a lot of owners feel: plenty of information out there, but not enough of it that's actually about their business, current, and easy to reach.
+The same platform is where questions get answered. Message your team, upload a document, or check a report without waiting for a callback. It closes a gap a lot of owners feel: plenty of information out there, but not enough of it that's actually about their business, current, and easy to reach. Whether you're managing a real estate portfolio, running a production schedule, advising clients, or moving retail inventory, the numbers you need are always within reach.
 
 <!-- block: content-prose -->
 ## Serving business owners across Fairfield County and beyond
@@ -99,13 +95,13 @@ It's not the whole story, though. We also work with clients throughout the tri-s
 ## Frequently Asked Questions About Business management services
 
 **Q: What are business management services for a small business?**
-A: Business management services cover the financial and operational oversight a growing business needs: cash flow monitoring, financial reporting, vendor and payroll coordination, and strategic decision support. At Abramson, it's delivered by a CPA-led team, not a single generalist, for one fixed monthly fee.
+A: Business management services cover the financial and operational oversight a growing business needs: financial reporting, vendor and payroll coordination, budget oversight, and strategic decision support. At Abramson, it's delivered by a CPA-led team, not a single generalist, for one fixed monthly fee.
 
 **Q: Is this the same as property management?**
 A: No. Business management services at Abramson & Company are financial and operational, covering bookkeeping, payroll, tax, and advisory support. Property management involves leasing, tenant relations, and facility maintenance, which Abramson does not provide.
 
 **Q: Who typically needs business management services?**
-A: Small business owners, real estate professionals, retail businesses, professional service providers, equine businesses, and influencers often benefit most, since each faces cash flow or reporting complexity that a single bookkeeper or tax preparer usually can't cover alone.
+A: Small business owners, real estate professionals, retail businesses, professional service providers, and video production companies often benefit most, since each faces financial reporting complexity or multi-layered operational needs that a single bookkeeper or tax preparer usually can't cover alone.
 
 **Q: Does Abramson serve businesses outside of Westport, CT?**
 A: Yes. Abramson & Company is based in Westport and serves Fairfield County closely, plus clients across the tri-state area of Connecticut, New York, and New Jersey, and a growing group of California clients, particularly in the Bay Area, all through a secure online platform.
@@ -115,7 +111,7 @@ A: Yes. Abramson & Company is based in Westport and serves Fairfield County clos
 
 Ray founded Abramson & Company in 2005 because business owners needed more than a once-a-year tax preparer. Nearly two decades later, that's still the job: a CPA-led team that knows your business well enough to help you make decisions, not just file paperwork after the fact.
 
-If you're running a real estate portfolio, a retail shop, a professional practice, an equine operation, or a growing influencer brand, and you're tired of piecing together advice from a dozen sources, let's talk. A short conversation is enough to see whether our business management services fit how you actually work.
+If you're running a real estate portfolio, a retail shop, a professional practice, or a video production company, and you're tired of piecing together advice from a dozen sources, let's talk. A short conversation is enough to see whether our business management services fit how you actually work.
 
 [Schedule a consultation](/contact)
 
@@ -123,7 +119,7 @@ If you're running a real estate portfolio, a retail shop, a professional practic
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Abramson & Company provides business management services in Westport, CT that combine bookkeeping, payroll, tax, and advisory support under one CPA-led team and a single fixed monthly fee. Clients get cash flow monitoring, reporting, and vendor coordination through a secure online platform, rather than piecing services together across separate providers.
+Abramson & Company provides business management services in Westport, CT that combine bookkeeping, payroll, tax, and advisory support under one CPA-led team and a single fixed monthly fee. Clients get financial reporting and vendor coordination through a secure online platform, rather than piecing services together across separate providers.
 
 **E-E-A-T Signals:**
 - Founded in 2005 by Ray, who leads the firm's CPA-led team
@@ -145,13 +141,13 @@ Abramson & Company provides business management services in Westport, CT that co
 **FAQ Block:**
 
 **Q: What are business management services for a small business?**
-A: Business management services cover the financial and operational oversight a growing business needs: cash flow monitoring, financial reporting, vendor and payroll coordination, and strategic decision support. At Abramson, it's delivered by a CPA-led team, not a single generalist, for one fixed monthly fee.
+A: Business management services cover the financial and operational oversight a growing business needs: financial reporting, vendor and payroll coordination, budget oversight, and strategic decision support. At Abramson, it's delivered by a CPA-led team, not a single generalist, for one fixed monthly fee.
 
 **Q: Is this the same as property management?**
 A: No. Business management services at Abramson & Company are financial and operational, covering bookkeeping, payroll, tax, and advisory support. Property management involves leasing, tenant relations, and facility maintenance, which Abramson does not provide.
 
 **Q: Who typically needs business management services?**
-A: Small business owners, real estate professionals, retail businesses, professional service providers, equine businesses, and influencers often benefit most, since each faces cash flow or reporting complexity that a single bookkeeper or tax preparer usually can't cover alone.
+A: Small business owners, real estate professionals, retail businesses, professional service providers, and video production companies often benefit most, since each faces financial reporting complexity or multi-layered operational needs that a single bookkeeper or tax preparer usually can't cover alone.
 
 **Q: Does Abramson serve businesses outside of Westport, CT?**
 A: Yes. Abramson & Company is based in Westport and serves Fairfield County closely, plus clients across the tri-state area of Connecticut, New York, and New Jersey, and a growing group of California clients, particularly in the Bay Area, all through a secure online platform.
@@ -235,7 +231,7 @@ Abramson & Company bundles bookkeeping, payroll, tax, and advisory services into
       "name": "What are business management services for a small business?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Business management services cover the financial and operational oversight a growing business needs: cash flow monitoring, financial reporting, vendor and payroll coordination, and strategic decision support. At Abramson, it's delivered by a CPA-led team, not a single generalist, for one fixed monthly fee."
+        "text": "Business management services cover the financial and operational oversight a growing business needs: financial reporting, vendor and payroll coordination, budget oversight, and strategic decision support. At Abramson, it's delivered by a CPA-led team, not a single generalist, for one fixed monthly fee."
       }
     },
     {
@@ -251,7 +247,7 @@ Abramson & Company bundles bookkeeping, payroll, tax, and advisory services into
       "name": "Who typically needs business management services?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Small business owners, real estate professionals, retail businesses, professional service providers, equine businesses, and influencers often benefit most, since each faces cash flow or reporting complexity that a single bookkeeper or tax preparer usually can't cover alone."
+        "text": "Small business owners, real estate professionals, retail businesses, professional service providers, and video production companies often benefit most, since each faces financial reporting complexity or multi-layered operational needs that a single bookkeeper or tax preparer usually can't cover alone."
       }
     },
     {

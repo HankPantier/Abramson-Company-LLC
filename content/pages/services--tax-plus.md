@@ -57,9 +57,9 @@ At Abramson & Company, more than one team member knows your file. If your regula
 <!-- block: content-split | variant: image-right | image: secure-online-tax-portal.jpg | alt: "Client uploading tax documents on a laptop through a secure portal" | query: "person using laptop online portal home" -->
 ## Collaborate securely from anywhere
 
-Uploading tax documents shouldn't mean emailing PDFs back and forth or dropping off a folder in person, especially if you're managing your return from Connecticut while your CPA works from Westport, or the reverse if you're a Bay Area client three time zones away.
+Uploading personal tax documents shouldn't mean emailing PDFs back and forth or dropping off a folder in person — especially if you're managing your return from Connecticut while your CPA works from Westport, you're a Bay Area client three time zones away, or you're living abroad and working with us remotely.
 
-Our secure online platform lets you upload W-2s, 1099s, and prior returns, message your preparer, and check the status of your return in real time. You can review a draft, sign documents electronically, and see exactly where things stand without a phone call. It's the same platform we use for bookkeeping and payroll clients, so if you also run a business with us, everything lives in one place.
+Our secure online platform lets you upload W-2s, 1099s, foreign income statements, and prior returns, message your preparer, and check the status of your return in real time. You can review a draft, sign documents electronically, and see exactly where things stand without a phone call. It's the same platform we use for bookkeeping and payroll clients, so if you also run a business with us, everything lives in one place.
 
 <!-- block: stats-bar | variant: 3-up -->
 ## Why Westport individuals and business owners choose Abramson & Company

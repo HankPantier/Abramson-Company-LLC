@@ -255,15 +255,11 @@ Abramson & Company, founded in 2005 and based in Westport, CT, provides CPA-led 
     },
     {
       "@type": "Audience",
+      "audienceType": "Video Production"
+    },
+    {
+      "@type": "Audience",
       "audienceType": "Retail"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Equine"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Influencers"
     }
   ]
 }

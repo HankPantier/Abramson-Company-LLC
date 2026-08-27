@@ -38,15 +38,15 @@
         },
         {
           "label": "Entity type analysis",
-          "url": "/services/entity-type-analysis"
+          "url": "/services/business-foundation-services/entity-type-analysis"
         },
         {
           "label": "Accounting system setup",
-          "url": "/services/accounting-system-setup"
+          "url": "/services/business-foundation-services/accounting-system-setup"
         },
         {
           "label": "Retirement plan analysis",
-          "url": "/services/retirement-plan-analysis"
+          "url": "/services/business-foundation-services/retirement-plan-analysis"
         },
         {
           "label": "Business management services",

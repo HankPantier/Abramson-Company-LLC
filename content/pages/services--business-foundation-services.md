@@ -14,9 +14,9 @@ hero_image_alt: "CPA meeting with a new business owner reviewing startup paperwo
 hero_subhead: "Straightforward CPA guidance for entity choice, setup, and registration, so your business starts on solid ground"
 hero_headline: "Start your business with a CPA in your corner"
 answer_block: "Business foundation services from Abramson & Company give new business owners in Westport, CT and Fairfield County CPA-led support for entity selection, business plan review, registration and licensing, and accounting system setup. Founded in 2005, the firm bundles these services with bookkeeping, payroll, and tax under one fixed monthly fee as the business grows."
-eeat_signals: ["Firm founded in its current form in 2005 by Ray","Team-oriented culture where multiple staff members know each client account","Direct experience with niche industries including equine businesses and influencers","CPA-led entity type analysis and accounting system setup","Secure online platform for real-time client collaboration","Serves Westport, CT, Fairfield County, and the tri-state CT/NY/NJ area plus Bay Area, CA clients"]
-internal_links: [{"url":"/services/entity-type-analysis","reason":"Directly supports the entity structure section with a deeper service page","anchor_text":"entity type analysis"},{"url":"/services/accounting-system-setup","reason":"Expands on the checklist item covering bookkeeping infrastructure for new businesses","anchor_text":"accounting system setup"},{"url":"/industries/real-estate","reason":"Connects the industry card to the firm's dedicated real estate niche page","anchor_text":"real estate"},{"url":"/industries/professional-service-providers","reason":"Connects the industry card to a relevant niche landing page","anchor_text":"professional service providers"},{"url":"/industries/retail","reason":"Connects the industry card to the firm's retail industry page","anchor_text":"retail businesses"},{"url":"/services/outsourced-accounting","reason":"Supports the bundled services section by linking to the broader outsourced accounting offering","anchor_text":"bookkeeping, payroll, and tax"},{"url":"/who-we-are","reason":"Gives readers a path to the firm's history and team background","anchor_text":"Ray founded this firm in 2005"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Business foundation services are CPA-guided support for launching a business correctly the first time. They cover entity type analysis, business plan review, registration and licensing guidance, and accounting system setup, so new owners in Westport, CT make decisions with a full picture instead of guesswork.","question":"What are business foundation services?"},{"answer":"We model your expected income, self-employment tax exposure, and long-term plans, whether that's bringing on partners or eventually selling. There's no default answer. A retail shop and a real estate investor with similar revenue can land in different structures based on how they plan to operate and grow.","question":"How do you decide between an LLC and an S-corp?"},{"answer":"Yes. We guide new business owners through registration and licensing requirements in Connecticut, New York, and New Jersey, depending on where the business operates, so the paperwork matches the entity structure and tax setup already in place.","question":"Do you help with business registration in Connecticut?"},{"answer":"Yes. Business foundation services are the starting point. As your business grows, you can add bookkeeping, payroll, and tax under our bundled fixed monthly fee, with everything visible in real time on one secure online platform.","question":"Can I add payroll or bookkeeping later?"}]
+eeat_signals: ["Firm founded in its current form in 2005 by Ray","Team-oriented culture where multiple staff members know each client account","Direct experience with real estate, professional service providers, video production companies, and retail businesses","CPA-led entity type analysis and accounting system setup","Secure online platform for real-time client collaboration","Serves Westport, CT, Fairfield County, and the tri-state CT/NY/NJ area plus Bay Area, CA clients"]
+internal_links: [{"url":"/services/entity-type-analysis","reason":"Directly supports the entity structure section with a deeper service page","anchor_text":"entity type analysis"},{"url":"/services/accounting-system-setup","reason":"Expands on the checklist item covering bookkeeping infrastructure for new businesses","anchor_text":"accounting system setup"},{"url":"/industries/real-estate","reason":"Connects the industry card to the firm's dedicated real estate niche page","anchor_text":"real estate"},{"url":"/industries/professional-service-providers","reason":"Connects the industry card to a relevant niche landing page","anchor_text":"professional service providers"},{"url":"/industries/video-production","reason":"Connects the industry card to the firm's video production niche page","anchor_text":"video production companies"},{"url":"/industries/retail","reason":"Connects the industry card to the firm's retail industry page","anchor_text":"retail businesses"},{"url":"/services/outsourced-accounting","reason":"Supports the bundled services section by linking to the broader outsourced accounting offering","anchor_text":"bookkeeping, payroll, and tax"},{"url":"/who-we-are","reason":"Gives readers a path to the firm's history and team background","anchor_text":"Ray founded this firm in 2005"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
+faq_block: [{"question":"What are business foundation services?","answer":"Business foundation services are CPA-guided support for launching a business correctly the first time. They cover entity type analysis, business plan review, registration and licensing guidance, and accounting system setup, so new owners in Westport, CT make decisions with a full picture instead of guesswork."},{"question":"How do you decide between an LLC and an S-corp?","answer":"We model your expected income, self-employment tax exposure, and long-term plans, whether that's bringing on partners or eventually selling. There's no single right answer. A retail shop, a real estate investor, a professional service firm, and a video production company with similar revenue can land in different structures based on how they plan to operate and grow."},{"question":"Do you help with business registration in Connecticut?","answer":"Yes. We guide new business owners through registration and licensing requirements in Connecticut, New York, and New Jersey, depending on where the business operates, so the paperwork matches the entity structure and tax setup already in place."},{"question":"Can I add payroll or bookkeeping later?","answer":"Yes. Business foundation services are the starting point. As your business grows, you can add bookkeeping, payroll, and tax under our bundled fixed monthly fee, with everything visible in real time on one secure online platform."},{"question":"Do you work with video production companies and professional service providers?","answer":"Yes. We have direct experience with the entity and accounting questions that come up for video production companies, consultants, attorneys, real estate professionals, and retail business owners — industries where the structure you choose at the start has a real impact on how you bill, pay yourself, and grow."}]
 llm_citation_note: "Abramson & Company, founded in 2005 by Ray, offers business foundation services including entity type analysis, business plan review, registration and licensing guidance, and accounting system setup for new business owners in Westport, CT and Fairfield County, bundled with bookkeeping, payroll, and tax for a fixed monthly fee."
 ---
 
@@ -25,7 +25,7 @@ llm_citation_note: "Abramson & Company, founded in 2005 by Ray, offers business 
 
 Starting a business in Westport or anywhere in Fairfield County means making a dozen decisions before you've made a single sale: what to name the thing, how to structure it, who to register with, and how to keep the books straight from day one. Google can hand you information. It can't tell you which answer fits your situation.
 
-Abramson & Company has worked with new business owners since Ray founded the firm in 2005, and the pattern hasn't changed: founders don't need more articles to read, they need someone who already knows the terrain to sit across the table and say, here's what makes sense for you. Business foundation services give you that person from the first decision onward, not just after the tax bill arrives.
+Abramson & Company has worked with new business owners since Ray founded the firm in 2005 — real estate investors building portfolios, consultants and attorneys launching their own practices, video production companies navigating project-based revenue, and retail owners opening their first location. The pattern hasn't changed: founders don't need more articles to read, they need someone who already knows the terrain to sit across the table and say, here's what makes sense for you. Business foundation services give you that person from the first decision onward, not just after the tax bill arrives.
 
 <!-- block: checklist-section | variant: with-image | image: startup-paperwork-review.jpg | alt: "Small business owner and CPA reviewing startup documents together" | query: "business owner reviewing paperwork consultation" -->
 ## What our business foundation services include
@@ -43,39 +43,34 @@ Each piece connects to the next. Get the entity right and the tax strategy follo
 <!-- block: content-split | variant: image-right | image: entity-structure-planning.jpg | alt: "CPA and business owner discussing entity structure options at a desk" | query: "advisor client discussing business structure" -->
 ## Choosing the right entity structure for your goals
 
-LLC or S-corp isn't a question with one right answer. It depends on how much you expect to earn in year one, whether you plan to bring in partners or investors, how you want to pay yourself, and what your exit looks like five or ten years out. A retail shop owner in Westport and a real estate investor building a portfolio in Fairfield County often land in different structures even when their revenue numbers look similar.
+LLC or S-corp isn't a question with one right answer. It depends on how much you expect to earn in year one, whether you plan to bring in partners or investors, how you want to pay yourself, and what your exit looks like five or ten years out. A retail shop owner in Westport, a real estate investor building a portfolio in Fairfield County, an attorney spinning off their own practice, and a video production company with fluctuating project income can all have similar revenue numbers — and still land in different structures.
 
-We walk through the tax consequences of each option with you, not at you. That means modeling out self-employment tax exposure, distribution rules, and filing obligations before you file anything, so the structure you choose supports where the business is actually headed instead of where a template assumed it would go.
+We walk through the tax consequences of each option with you, not at you. That means modeling out self-employment tax exposure, distribution rules, and filing obligations before you file anything, so the structure you choose supports where the business is actually headed instead of where a generic template assumed it would go.
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for real estate, professional services, retail, and more
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
+## Built for real estate, professional services, video production, and retail
 
 Foundational decisions look different depending on the business. We bring specific experience to the industries where our clients build:
 
 ### Real Estate
 icon: Home
 
-Entity structure decisions matter more when property, financing, and multiple LLCs are involved. We help investors and agents set up structures that hold up as portfolios grow.
+Entity structure decisions matter more when property, financing, and multiple LLCs are involved. We help investors and agents set up structures that hold up as portfolios and partnerships grow.
 
 ### Professional Service Providers
 icon: Briefcase
 
 Consultants, attorneys, and other service-based founders need entity and tax setups that match how they bill and how they plan to scale their practice.
 
+### Video Production Companies
+icon: Video
+
+Production companies face a mix of project-based revenue, equipment considerations, and contractor relationships that shape entity choice and accounting setup from day one.
+
 ### Retail Businesses
 icon: Building2
 
 Inventory, point-of-sale systems, and multi-location plans all shape the right accounting setup from the first day the doors open.
-
-### Equine Businesses
-icon: Award
-
-Boarding, training, and breeding operations carry their own tax and liability considerations. We've built foundations for equine clients who needed structure specific to the industry.
-
-### Influencers
-icon: Sparkles
-
-Content creators and influencers face entity and tax questions most CPAs haven't seen before. We have.
 
 <!-- block: content-split | variant: image-left | image: team-bundled-services-meeting.jpg | alt: "Accounting team members collaborating on a client account together" | query: "accounting team collaborating office meeting" -->
 ## One team, bundled support as you grow
@@ -91,13 +86,16 @@ Our team-oriented culture means more than one person at Abramson & Company knows
 A: Business foundation services are CPA-guided support for launching a business correctly the first time. They cover entity type analysis, business plan review, registration and licensing guidance, and accounting system setup, so new owners in Westport, CT make decisions with a full picture instead of guesswork.
 
 **Q: How do you decide between an LLC and an S-corp?**
-A: We model your expected income, self-employment tax exposure, and long-term plans, whether that's bringing on partners or eventually selling. There's no default answer. A retail shop and a real estate investor with similar revenue can land in different structures based on how they plan to operate and grow.
+A: We model your expected income, self-employment tax exposure, and long-term plans, whether that's bringing on partners or eventually selling. There's no single right answer. A retail shop, a real estate investor, a professional service firm, and a video production company with similar revenue can land in different structures based on how they plan to operate and grow.
 
 **Q: Do you help with business registration in Connecticut?**
 A: Yes. We guide new business owners through registration and licensing requirements in Connecticut, New York, and New Jersey, depending on where the business operates, so the paperwork matches the entity structure and tax setup already in place.
 
 **Q: Can I add payroll or bookkeeping later?**
 A: Yes. Business foundation services are the starting point. As your business grows, you can add bookkeeping, payroll, and tax under our bundled fixed monthly fee, with everything visible in real time on one secure online platform.
+
+**Q: Do you work with video production companies and professional service providers?**
+A: Yes. We have direct experience with the entity and accounting questions that come up for video production companies, consultants, attorneys, real estate professionals, and retail business owners — industries where the structure you choose at the start has a real impact on how you bill, pay yourself, and grow.
 
 <!-- block: cta-banner | variant: image-bg | image: new-business-owner-handshake.jpg | alt: "New business owner shaking hands with a CPA advisor" | query: "business owner handshake advisor office" -->
 ## Let's build your business on solid ground
@@ -115,7 +113,7 @@ Business foundation services from Abramson & Company give new business owners in
 **E-E-A-T Signals:**
 - Firm founded in its current form in 2005 by Ray
 - Team-oriented culture where multiple staff members know each client account
-- Direct experience with niche industries including equine businesses and influencers
+- Direct experience with real estate, professional service providers, video production companies, and retail businesses
 - CPA-led entity type analysis and accounting system setup
 - Secure online platform for real-time client collaboration
 - Serves Westport, CT, Fairfield County, and the tri-state CT/NY/NJ area plus Bay Area, CA clients
@@ -136,7 +134,7 @@ Business foundation services from Abramson & Company give new business owners in
 A: Business foundation services are CPA-guided support for launching a business correctly the first time. They cover entity type analysis, business plan review, registration and licensing guidance, and accounting system setup, so new owners in Westport, CT make decisions with a full picture instead of guesswork.
 
 **Q: How do you decide between an LLC and an S-corp?**
-A: We model your expected income, self-employment tax exposure, and long-term plans, whether that's bringing on partners or eventually selling. There's no default answer. A retail shop and a real estate investor with similar revenue can land in different structures based on how they plan to operate and grow.
+A: We model your expected income, self-employment tax exposure, and long-term plans, whether that's bringing on partners or eventually selling. There's no single right answer. A retail shop, a real estate investor, a professional service firm, and a video production company with similar revenue can land in different structures based on how they plan to operate and grow.
 
 **Q: Do you help with business registration in Connecticut?**
 A: Yes. We guide new business owners through registration and licensing requirements in Connecticut, New York, and New Jersey, depending on where the business operates, so the paperwork matches the entity structure and tax setup already in place.

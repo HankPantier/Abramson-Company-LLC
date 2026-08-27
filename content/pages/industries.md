@@ -47,6 +47,13 @@ Retail owners run on cash flow, and cash flow runs on timing: payroll due Friday
 
 That real-time visibility means a shop owner in Westport or elsewhere in Fairfield County can check margins after a big sale weekend instead of waiting for a month-end report that's already out of date.
 
+<!-- block: content-split | variant: image-left | image: video-production-company-review.jpg | alt: "Video production company owner reviewing project budgets with an accountant" | query: "video production owner reviewing budget documents" -->
+## Video production companies
+
+Production budgets, project-based income, equipment depreciation, and crew payroll create an accounting mix that most general firms aren't built for. Abramson & Company works with video production companies on exactly this: tracking income and expenses by project, handling depreciation on cameras and gear, and keeping payroll organized across a crew that may change from job to job.
+
+Bookkeeping runs through a secure online platform, so production owners can see where a project stands financially without waiting for a month-end report that arrives after the edit is already done.
+
 <!-- block: checklist-section | variant: with-image | image: small-business-team-consultation.jpg | alt: "Small business owners meeting with a CPA advisor at a table" | query: "small business owner meeting advisor" -->
 ## Not seeing your industry here
 

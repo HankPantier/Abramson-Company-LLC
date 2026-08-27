@@ -32,7 +32,8 @@ Abramson & Company has worked with new business owners since Ray founded the fir
 
 A strong start has fewer moving parts than most founders expect once someone lays them out in order. Our business foundation services cover the decisions that shape everything else:
 
-- Entity type analysis, weighing LLC, S-corp, and other structures against your tax picture and long-term plans
+- Entity type analysis, weighing LLC, S-corp, C-corp, and other structures against your tax picture, how you plan to pay yourself, and your long-term goals
+- Retirement plan analysis, identifying the plan type — SEP-IRA, Solo 401(k), SIMPLE IRA, or others — that fits your business structure and income from the start
 - Business plan review, so your numbers hold up under real scrutiny before you present them to a lender or partner
 - Registration and licensing guidance for Connecticut, New York, or New Jersey, depending on where you're setting up
 - Accounting system setup, giving you a bookkeeping structure that fits your business instead of a generic template

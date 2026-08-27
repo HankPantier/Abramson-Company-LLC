@@ -2,7 +2,7 @@
 title: "Tax | Abramson & Company LLC"
 url: "/services/tax"
 meta_title: "Tax Services in Westport, CT | Abramson & Company"
-meta_description: "CPA-led business tax planning and preparation in Westport, CT for real estate, professional services, video production, and retail. Personalized strategies and a secure client portal."
+meta_description: "CPA-led business tax planning and preparation in Westport, CT for real estate, professional services, video production, and retail. Customized strategies and a secure client portal."
 target_keyword: "tax Westport CT"
 secondary_keywords: ["Westport CT tax preparation","Fairfield County CPA tax services","tax planning Fairfield County CT","CPA tax services Connecticut","small business tax Westport"]
 canonical_url: "https://www.abramsonco.com/services/tax"

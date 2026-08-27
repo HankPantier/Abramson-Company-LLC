@@ -47,7 +47,7 @@ Because tax outcomes depend on clean books and accurate payroll records, these s
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Tax strategies tailored to your industry
 
-A restaurant's tax picture looks nothing like a real estate investor's, and treating them the same way costs clients money. Abramson & Company built specific knowledge in five niches where the rules, deductions, and timing genuinely differ.
+A retail store's tax picture looks nothing like a real estate investor's, and a video production company's deductions are nothing like a consulting firm's. Treating them all the same way costs clients money. Abramson & Company built specific knowledge in four niches where the rules, deductions, and timing genuinely differ.
 
 ### Real Estate Professionals
 icon: Home

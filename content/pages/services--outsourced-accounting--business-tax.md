@@ -74,7 +74,7 @@ Most firms bill by the form, the hour, or the phone call, which makes tax costs 
 
 - One flat monthly fee bundles tax planning, preparation, bookkeeping, payroll, and advisory support, so there's no surprise invoice for asking a question in October.
 - A secure online platform lets you upload documents, message your CPA, and review your return in real time, from a phone, a laptop, or a client sitting in California at 9 a.m. Pacific.
-- Personalized tax strategies get built around your actual return, not a generic checklist, because planning happens throughout the year instead of during a two-week rush in April.
+- Customized tax strategies get built around your actual return, not a generic checklist, because planning happens throughout the year instead of during a two-week rush in April.
 
 This model exists because clients told Abramson & Company the same thing for years: they wanted to know what tax help would cost before they called, not after. For a deeper look at proactive planning, [see the firm's guide to tax refund strategy](/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning).
 

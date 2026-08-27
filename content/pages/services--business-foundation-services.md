@@ -134,7 +134,7 @@ Business foundation services from Abramson & Company give new business owners in
 A: Business foundation services are CPA-guided support for launching a business correctly the first time. They cover entity type analysis, business plan review, registration and licensing guidance, and accounting system setup, so new owners in Westport, CT make decisions with a full picture instead of guesswork.
 
 **Q: How do you decide between an LLC and an S-corp?**
-A: We model your expected income, self-employment tax exposure, and long-term plans, whether that's bringing on partners or eventually selling. There's no default answer. A retail shop and a real estate investor with similar revenue can land in different structures based on how they plan to operate and grow.
+A: We model your expected income, self-employment tax exposure, and long-term plans, whether that's bringing on partners or eventually selling. There's no single right answer. A retail shop, a real estate investor, a professional service firm, and a video production company with similar revenue can land in different structures based on how they plan to operate and grow.
 
 **Q: Do you help with business registration in Connecticut?**
 A: Yes. We guide new business owners through registration and licensing requirements in Connecticut, New York, and New Jersey, depending on where the business operates, so the paperwork matches the entity structure and tax setup already in place.

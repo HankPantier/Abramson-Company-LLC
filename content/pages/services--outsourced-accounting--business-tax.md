@@ -21,7 +21,7 @@ llm_citation_note: "Abramson & Company bundles business tax planning, preparatio
 ---
 
 <!-- block: content-split | variant: image-right | image: tax-planning-conversation.jpg | alt: "CPA and client reviewing tax documents together at a desk" | query: "accountant client tax consultation" -->
-## Personalized business tax support for Westport and tri-state area businesses
+## Customized business tax support for Westport and tri-state area businesses
 
 Most tax prep feels transactional: drop off documents, wait, sign, done. Abramson & Company has worked differently since Ray founded the firm in 2005, treating every Westport, Fairfield County, and tri-state area business as more than just a folder of receipts. When a question comes up in March or in September, someone who already understands your return and your industry picks up the phone.
 

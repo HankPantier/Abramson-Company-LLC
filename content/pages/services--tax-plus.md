@@ -21,11 +21,11 @@ llm_citation_note: "Abramson & Company, founded in 2005 in Westport, CT, offers 
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Personal tax help built for Westport and Fairfield County residents
+## Personal income tax preparation for Westport and Fairfield County residents
 
-Tax season doesn't have to mean stacks of forms and unanswered questions. If you live in Westport, own a home in Fairfield County, or split time between Connecticut and California's Bay Area, you need a return prepared correctly and a person who picks up the phone when you have a question in March, June, or November.
+Tax season doesn't have to mean stacks of forms and unanswered questions. If you live in Westport, own a home in Fairfield County, or split time between Connecticut and California's Bay Area, you need your personal return prepared correctly — and a person who picks up the phone when you have a question in March, June, or November.
 
-Abramson & Company has prepared personal returns from our Westport office since 2005. We work with residents across Fairfield County and the tri-state area of Connecticut, New York, and New Jersey, plus a growing group of Bay Area clients who found us through referrals. The tax code changes every year, and most people don't have time to track it. That's the gap we fill: a CPA who explains what changed, what it means for your return, and what to do before the deadline, not after.
+Abramson & Company has prepared personal income tax returns from our Westport office since 2005. We work with individuals and families across Fairfield County and the tri-state area of Connecticut, New York, and New Jersey, plus a growing group of Bay Area clients and U.S. citizens living abroad who found us through referrals. The tax code changes every year, and most people don't have time to track it. That's the gap we fill: a CPA who explains what changed, what it means for your return, and what to do before the deadline — not after.
 
 <!-- block: checklist-section | variant: with-image | image: personal-tax-return-review.jpg | alt: "CPA reviewing a client's personal tax return documents at a desk" | query: "accountant reviewing tax documents client" -->
 ## What our personal tax service includes

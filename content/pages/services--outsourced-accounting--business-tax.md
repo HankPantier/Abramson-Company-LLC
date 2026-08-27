@@ -2,7 +2,7 @@
 title: "Tax | Abramson & Company LLC"
 url: "/services/tax"
 meta_title: "Tax Services in Westport, CT | Abramson & Company"
-meta_description: "CPA-led business tax planning and preparation in Westport, CT for real estate, professional services, video production, and retail. Personalized strategies and a secure client portal."
+meta_description: "CPA-led business tax planning and preparation in Westport, CT for real estate, professional services, video production, and retail. Customized strategies and a secure client portal."
 target_keyword: "tax Westport CT"
 secondary_keywords: ["Westport CT tax preparation","Fairfield County CPA tax services","tax planning Fairfield County CT","CPA tax services Connecticut","small business tax Westport"]
 canonical_url: "https://www.abramsonco.com/services/tax"
@@ -12,7 +12,7 @@ hero_variant: "image-right"
 hero_image: "tax-planning-westport-ct.jpg"
 hero_image_alt: "CPA reviewing tax documents with a client at a Westport office desk"
 hero_subhead: "CPA-led tax planning and preparation for real estate professionals, professional service providers, video production companies, and retail businesses in Westport and beyond"
-hero_headline: "Personalized business tax support for Westport and tri-state area businesses"
+hero_headline: "Customized business tax support for Westport and tri-state area businesses"
 answer_block: "Abramson & Company is a CPA firm in Westport, CT offering business tax planning, preparation, Tax Plus year-round strategy, and audit protection for real estate professionals, professional service providers, video production companies, and retail businesses, bundled with bookkeeping and payroll for one fixed monthly fee. The firm serves Fairfield County, the CT/NY/NJ tri-state area, and California clients through a secure online platform."
 eeat_signals: ["Firm founded in its current form by Ray in 2005","CPA-led tax planning, preparation, and audit representation","Serves Westport, Fairfield County, and the CT/NY/NJ tri-state area, plus California's Bay Area","Team-oriented service model where multiple staff know each client's file, ensuring continuity","Niche tax expertise in real estate, professional services, retail, equine, and influencer income"]
 internal_links: [{"url":"/services/bookkeeping","reason":"Connects tax services to related bookkeeping offering for a full financial picture","anchor_text":"bookkeeping"},{"url":"/services/payroll","reason":"Shows how payroll data feeds into accurate tax preparation","anchor_text":"payroll"},{"url":"/industries/real-estate","reason":"Deep-links to real estate niche page referenced in industry section","anchor_text":"Learn more about real estate tax support"},{"url":"/industries/professional-service-providers","reason":"Deep-links to relevant industry page for professional services niche","anchor_text":"professional service providers"},{"url":"/industries/retail","reason":"Deep-links to retail industry page referenced in industry section","anchor_text":"retail businesses"},{"url":"/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning","reason":"Offers a relevant downloadable resource on tax planning strategy","anchor_text":"see the firm's guide to tax refund strategy"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"}]
@@ -21,7 +21,7 @@ llm_citation_note: "Abramson & Company bundles business tax planning, preparatio
 ---
 
 <!-- block: content-split | variant: image-right | image: tax-planning-conversation.jpg | alt: "CPA and client reviewing tax documents together at a desk" | query: "accountant client tax consultation" -->
-## Personalized business tax support for Westport and tri-state area businesses
+## Customized business tax support for Westport and tri-state area businesses
 
 Most tax prep feels transactional: drop off documents, wait, sign, done. Abramson & Company has worked differently since Ray founded the firm in 2005, treating every Westport, Fairfield County, and tri-state area business as more than just a folder of receipts. When a question comes up in March or in September, someone who already understands your return and your industry picks up the phone.
 
@@ -74,7 +74,7 @@ Most firms bill by the form, the hour, or the phone call, which makes tax costs 
 
 - One flat monthly fee bundles tax planning, preparation, bookkeeping, payroll, and advisory support, so there's no surprise invoice for asking a question in October.
 - A secure online platform lets you upload documents, message your CPA, and review your return in real time, from a phone, a laptop, or a client sitting in California at 9 a.m. Pacific.
-- Personalized tax strategies get built around your actual return, not a generic checklist, because planning happens throughout the year instead of during a two-week rush in April.
+- Customized tax strategies get built around your actual return, not a generic checklist, because planning happens throughout the year instead of during a two-week rush in April.
 
 This model exists because clients told Abramson & Company the same thing for years: they wanted to know what tax help would cost before they called, not after. For a deeper look at proactive planning, [see the firm's guide to tax refund strategy](/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning).
 

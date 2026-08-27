@@ -47,20 +47,6 @@ Retail owners run on cash flow, and cash flow runs on timing: payroll due Friday
 
 That real-time visibility means a shop owner in Westport or elsewhere in Fairfield County can check margins after a big sale weekend instead of waiting for a month-end report that's already out of date.
 
-<!-- block: content-split | variant: image-left | image: equine-farm-boarding-business.jpg | alt: "Horse barn owner reviewing boarding contracts and financial paperwork" | query: "horse farm owner paperwork barn" -->
-## Equine industry specialists
-
-Boarding fees, breeding income, training contracts, and horse sales each carry their own tax treatment, and most general CPA firms have never had to sort through them. Abramson & Company has worked with equine businesses on exactly this: separating hobby-loss risk from legitimate business deductions, tracking depreciation on barns and equipment, and handling the seasonal cash flow of a boarding or breeding operation.
-
-It's a niche few firms mention on their website, let alone understand in practice. Clients in this space get a CPA who already knows the difference between a training fee and a stud fee on a return.
-
-<!-- block: content-split | variant: image-right | image: content-creator-brand-deals.jpg | alt: "Content creator reviewing brand deal contracts on a laptop" | query: "content creator laptop brand deal" -->
-## Influencers and content creators
-
-Brand deals, affiliate income, sponsored posts, and platform payouts rarely arrive on a predictable schedule, and self-employment tax catches a lot of creators off guard in year two. Abramson & Company builds tax strategies around that irregular income instead of treating it like a salary, with quarterly estimate planning that adjusts as brand deals come in.
-
-Bookkeeping runs through the same secure online platform used by every other client, so a creator can see what's set aside for taxes without digging through a spreadsheet built for a nine-to-five paycheck.
-
 <!-- block: checklist-section | variant: with-image | image: small-business-team-consultation.jpg | alt: "Small business owners meeting with a CPA advisor at a table" | query: "small business owner meeting advisor" -->
 ## Not seeing your industry here
 

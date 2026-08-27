@@ -4,7 +4,7 @@ url: "/services/audit-protection"
 meta_title: "Audit Protection Services Westport CT | Abramson & Co"
 meta_description: "CPA-led audit protection in Westport, CT and Fairfield County. Abramson & Company handles IRS and state notices directly, so you never face an audit alone."
 target_keyword: "audit protection services Westport CT"
-secondary_keywords: ["CPA audit defense Westport Connecticut","audit representation Westport","IRS audit help Westport CT","audit support services Connecticut","real estate audit protection Westport","small business audit defense CT","audit preparation Westport CPA","professional service provider audit protection","equine business audit services Westport","influencer tax audit help CT","retail business audit defense Westport","audit protection accountant near me","affordable audit defense Westport"]
+secondary_keywords: ["CPA audit defense Westport Connecticut","audit representation Westport","IRS audit help Westport CT","audit support services Connecticut","real estate audit protection Westport","small business audit defense CT","audit preparation Westport CPA","professional service provider audit protection","video production company audit defense CT","retail business audit defense Westport","audit protection accountant near me","affordable audit defense Westport"]
 canonical_url: "https://www.abramsonco.com/services/audit-protection"
 schema_markup: "Service"
 hero: "hero-split"

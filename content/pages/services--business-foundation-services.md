@@ -47,35 +47,30 @@ LLC or S-corp isn't a question with one right answer. It depends on how much you
 
 We walk through the tax consequences of each option with you, not at you. That means modeling out self-employment tax exposure, distribution rules, and filing obligations before you file anything, so the structure you choose supports where the business is actually headed instead of where a template assumed it would go.
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for real estate, professional services, retail, and more
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
+## Built for real estate, professional services, video production, and retail
 
 Foundational decisions look different depending on the business. We bring specific experience to the industries where our clients build:
 
 ### Real Estate
 icon: Home
 
-Entity structure decisions matter more when property, financing, and multiple LLCs are involved. We help investors and agents set up structures that hold up as portfolios grow.
+Entity structure decisions matter more when property, financing, and multiple LLCs are involved. We help investors and agents set up structures that hold up as portfolios and partnerships grow.
 
 ### Professional Service Providers
 icon: Briefcase
 
 Consultants, attorneys, and other service-based founders need entity and tax setups that match how they bill and how they plan to scale their practice.
 
+### Video Production Companies
+icon: Video
+
+Production companies face a mix of project-based revenue, equipment considerations, and contractor relationships that shape entity choice and accounting setup from day one.
+
 ### Retail Businesses
 icon: Building2
 
 Inventory, point-of-sale systems, and multi-location plans all shape the right accounting setup from the first day the doors open.
-
-### Equine Businesses
-icon: Award
-
-Boarding, training, and breeding operations carry their own tax and liability considerations. We've built foundations for equine clients who needed structure specific to the industry.
-
-### Influencers
-icon: Sparkles
-
-Content creators and influencers face entity and tax questions most CPAs haven't seen before. We have.
 
 <!-- block: content-split | variant: image-left | image: team-bundled-services-meeting.jpg | alt: "Accounting team members collaborating on a client account together" | query: "accounting team collaborating office meeting" -->
 ## One team, bundled support as you grow

@@ -27,22 +27,12 @@ Scattered 401(k) balances from old jobs. A SEP IRA you opened years ago and have
 
 A CPA-led review pulls every account into one picture: what you have, what it's costing you in taxes, and whether it lines up with the retirement you actually want. Abramson & Company has guided Fairfield County clients through this process since founding the firm in 2005, using the same plain-spoken approach behind our [tax and business advisory work](/services/tax). No jargon, no sales pitch, just a clear read on where you stand.
 
-<!-- block: service-cards | variant: 3-col -->
+<!-- block: service-cards | variant: 2-col -->
 ## Who benefits from a retirement plan review
 
 Retirement planning looks different depending on how you earn your income. Here's who tends to gain the most from a formal review.
 
-### Small Business Owners
-icon: Building2
-
-Running payroll, covering overhead, and reinvesting in growth often push retirement contributions to the back burner. A review shows how much you can defer tax-free without straining cash flow, and whether a SEP IRA or Solo 401(k) fits your staffing situation better.
-
-### Self-Employed Professionals
-icon: Briefcase
-
-Freelancers and solo practitioners have some of the widest contribution limits available, and some of the least guidance on how to use them. We map out contribution ceilings against your actual income so you're not guessing at deadlines or leaving deductions on the table.
-
-### Real Estate Investors
+### Real Estate Professionals
 icon: Home
 
 Rental income, depreciation, and 1031 exchanges complicate what a "normal" retirement contribution looks like. A review accounts for your full income picture, not just W-2 wages. Many of our [real estate clients](/industries/real-estate) combine this analysis with broader tax planning.
@@ -51,6 +41,16 @@ Rental income, depreciation, and 1031 exchanges complicate what a "normal" retir
 icon: Scale
 
 Attorneys, consultants, and other practice owners often have retirement accounts opened at different life stages with no coordination between them. We flag where fees, redundancy, or missed contribution room are quietly costing you. [Professional service providers](/industries/professional-service-providers) we work with often pair this with ongoing tax strategy.
+
+### Video Production Companies
+icon: Video
+
+Production businesses deal with project-based income that swings from year to year, making consistent retirement contributions a challenge. A CPA-led review maps contribution options against your actual cash flow, so you're building toward retirement even in leaner production cycles.
+
+### Retail Businesses
+icon: ShoppingBag
+
+Retail owners juggle seasonal revenue, payroll for hourly staff, and ongoing inventory costs, which often means retirement planning gets deferred. A review identifies how much you can set aside tax-free within your current structure and whether your plan accommodates your employees' needs.
 
 <!-- block: checklist-section | variant: with-image | image: retirement-plan-review-checklist.jpg | alt: "Advisor and client reviewing retirement account statements together at a desk" | query: "advisor client reviewing financial documents desk" -->
 ## What our retirement plan analysis covers

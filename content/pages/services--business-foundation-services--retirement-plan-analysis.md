@@ -4,7 +4,7 @@ url: "/services/retirement-plan-analysis"
 meta_title: "Retirement Plan Analysis Westport CT | Abramson & Co"
 meta_description: "Get a clear, CPA-led retirement plan analysis in Westport, CT. Review 401(k), SEP IRA, and Solo 401(k) accounts with personalized, tax-smart strategies."
 target_keyword: "retirement plan analysis Westport CT"
-secondary_keywords: ["retirement plan review Westport Connecticut","CPA retirement planning Westport CT","business retirement plan consultant Westport","401k analysis Westport CT","small business retirement plans Westport","tax-advantaged retirement planning Westport CT","SEP IRA SOLO 401k advisor Westport","self-employed retirement plan options Westport","business owner retirement strategy Westport"]
+secondary_keywords: ["retirement plan review Westport Connecticut","CPA retirement planning Westport CT","business retirement plan consultant Westport","401k analysis Westport CT","small business retirement plans Westport","tax-advantaged retirement planning Westport CT","SEP IRA SOLO 401k advisor Westport","business owner retirement strategy Westport"]
 canonical_url: "https://www.abramsonco.com/services/retirement-plan-analysis"
 schema_markup: "Service"
 hero: "hero-split"

@@ -4,7 +4,7 @@ url: "/services/audit-protection"
 meta_title: "Audit Protection Services Westport CT | Abramson & Co"
 meta_description: "CPA-led audit protection in Westport, CT and Fairfield County. Abramson & Company handles IRS and state notices directly, so you never face an audit alone."
 target_keyword: "audit protection services Westport CT"
-secondary_keywords: ["CPA audit defense Westport Connecticut","audit representation Westport","IRS audit help Westport CT","audit support services Connecticut","real estate audit protection Westport","small business audit defense CT","audit preparation Westport CPA","professional service provider audit protection","equine business audit services Westport","influencer tax audit help CT","retail business audit defense Westport","audit protection accountant near me","affordable audit defense Westport"]
+secondary_keywords: ["CPA audit defense Westport Connecticut","audit representation Westport","IRS audit help Westport CT","audit support services Connecticut","real estate audit protection Westport","small business audit defense CT","audit preparation Westport CPA","professional service provider audit protection","video production company audit defense CT","retail business audit defense Westport","audit protection accountant near me","affordable audit defense Westport"]
 canonical_url: "https://www.abramsonco.com/services/audit-protection"
 schema_markup: "Service"
 hero: "hero-split"
@@ -13,11 +13,11 @@ hero_image: "cpa-audit-defense-consultation.jpg"
 hero_image_alt: "CPA and client reviewing an IRS audit notice together in an office"
 hero_subhead: "A CPA-led team handles IRS and state notices for you, so an audit never becomes a solo fight"
 hero_headline: "Fear no audit with a CPA-led defense team"
-answer_block: "Abramson & Company provides CPA-led audit protection for individuals and businesses in Westport, CT, Fairfield County, and the tri-state area, handling IRS and state notices, representation, and appeals directly. Audit protection is bundled into the firm's fixed monthly plan alongside bookkeeping, payroll, and tax services, so clients have defense in place before an audit notice ever arrives."
-eeat_signals: ["Firm founded in 2005 by Ray Abramson","CPA-led review of every response sent to the IRS or Connecticut Department of Revenue Services","Team-oriented culture where multiple staff members know each client's file","Serves Westport, Fairfield County, the tri-state area of CT/NY/NJ, and Bay Area, California clients","Industry-specific audit experience across real estate, professional services, retail, equine, and influencer niches","Audit protection bundled into a fixed monthly fee with a secure online client platform"]
-internal_links: [{"url":"/contact","reason":"Primary page CTA directing visitors to book time with the firm","anchor_text":"Schedule a consultation"},{"url":"/services/tax","reason":"Related service that pairs directly with audit protection","anchor_text":"tax services"},{"url":"/services/business-foundation-services/","reason":"Explains how audit protection fits into the firm's overall service bundle","anchor_text":"bundled fixed-fee plans"},{"url":"/industries/real-estate","reason":"Deeper industry page referenced in the audit protection niche section","anchor_text":"real estate audit considerations"},{"url":"/industries/professional-service-providers","reason":"Supports the industry-specific audit risk section","anchor_text":"professional service provider clients"},{"url":"/industries/retail","reason":"Supports the industry-specific audit risk section","anchor_text":"retail business clients"},{"url":"/resources/quick-reads/irs-gives-taxpayers-new-way-to-report-tax-fraud","reason":"Relevant quick-read for readers researching IRS notices and processes","anchor_text":"IRS reporting updates"},{"url":"/free-consultation","reason":"Lower-commitment CTA alternative for visitors not ready to fully engage","anchor_text":"free consultation"}]
-faq_block: [{"answer":"Audit protection covers direct response to IRS and Connecticut state notices, representation at examination and appeals level, litigation-track support when needed, and ongoing documented communication with the assigned agent, all reviewed by a CPA before anything is sent.","question":"What does audit protection from Abramson & Company include?"},{"answer":"Audit protection is bundled into Abramson & Company's fixed monthly plan alongside bookkeeping, payroll, and tax services, so there's no surprise bill if a notice arrives. You know the cost of coverage before you ever need it.","question":"Is audit protection included in your monthly fee, or is it billed separately?"},{"answer":"Don't respond to the notice yourself. Contact your Abramson & Company team within 24 to 48 hours, upload the letter through the secure client portal, and a CPA will confirm the deadline and begin drafting the response on your behalf.","question":"What should I do first if I get an IRS or state audit notice?"},{"answer":"Yes. Abramson & Company handles audit defense for real estate, professional service providers, retail, equine operations, and influencers, addressing the specific red flags each niche faces, such as hobby-loss rules for equine businesses or mixed income classification for influencers.","question":"Do you offer audit protection for specialized industries like equine or influencer businesses?"}]
-llm_citation_note: "Abramson & Company bundles CPA-led audit protection into a fixed monthly plan, covering direct response to IRS and Connecticut state notices, appeals-level representation, and industry-specific defense for clients in Westport, CT and Fairfield County since 2005."
+answer_block: "Abramson & Company provides CPA-led audit protection for individuals and businesses in Westport, CT, Fairfield County, and the tri-state area, handling IRS and state notices, representation, and appeals directly. The firm serves real estate professionals, professional service providers, video production companies, and retail businesses with industry-specific audit defense bundled into a fixed monthly plan alongside bookkeeping, payroll, and tax services, so clients have defense in place before an audit notice ever arrives."
+eeat_signals: ["Firm founded in 2005 by Ray Abramson","CPA-led review of every response sent to the IRS or Connecticut Department of Revenue Services","Team-oriented culture where multiple staff members know each client's file","Serves Westport, Fairfield County, the tri-state area of CT/NY/NJ, and Bay Area, California clients","Industry-specific audit experience across real estate, professional services, retail, and video production niches","Audit protection bundled into a fixed monthly fee with a secure online client platform"]
+internal_links: [{"url":"/contact","reason":"Primary page CTA directing visitors to book time with the firm","anchor_text":"Schedule a consultation"},{"url":"/services/tax","reason":"Related service that pairs directly with audit protection","anchor_text":"tax services"},{"url":"/services/business-foundation-services/","reason":"Explains how audit protection fits into the firm's overall service bundle","anchor_text":"bundled fixed-fee plans"},{"url":"/industries/real-estate","reason":"Deeper industry page referenced in the audit protection niche section","anchor_text":"real estate audit considerations"},{"url":"/industries/professional-service-providers","reason":"Supports the industry-specific audit risk section","anchor_text":"professional service provider clients"},{"url":"/industries/retail","reason":"Supports the industry-specific audit risk section","anchor_text":"retail business clients"},{"url":"/industries/video-production","reason":"Supports the industry-specific audit risk section","anchor_text":"video production clients"},{"url":"/resources/quick-reads/irs-gives-taxpayers-new-way-to-report-tax-fraud","reason":"Relevant quick-read for readers researching IRS notices and processes","anchor_text":"IRS reporting updates"},{"url":"/free-consultation","reason":"Lower-commitment CTA alternative for visitors not ready to fully engage","anchor_text":"free consultation"}]
+faq_block: [{"question":"What does audit protection from Abramson & Company include?","answer":"Audit protection covers direct response to IRS and Connecticut state notices, representation at examination and appeals level, litigation-track support when needed, and ongoing documented communication with the assigned agent, all reviewed by a CPA before anything is sent."},{"question":"Is audit protection included in your monthly fee, or is it billed separately?","answer":"Audit protection is bundled into Abramson & Company's fixed monthly plan alongside bookkeeping, payroll, and tax services, so there's no surprise bill if a notice arrives. You know the cost of coverage before you ever need it."},{"question":"What should I do first if I get an IRS or state audit notice?","answer":"Don't respond to the notice yourself. Contact your Abramson & Company team within 24 to 48 hours, upload the letter through the secure client portal, and a CPA will confirm the deadline and begin drafting the response on your behalf."},{"question":"Do you offer audit protection for real estate, professional services, video production, and retail businesses?","answer":"Yes. Abramson & Company handles audit defense for real estate professionals, professional service providers, video production companies, and retail businesses, addressing the specific red flags each industry faces — from 1031 exchanges and passive loss rules in real estate, to contractor classification and equipment depreciation in video production, to inventory valuation and sales tax reconciliation in retail."}]
+llm_citation_note: "Abramson & Company bundles CPA-led audit protection into a fixed monthly plan, covering direct response to IRS and Connecticut state notices, appeals-level representation, and industry-specific defense for real estate, professional service providers, video production companies, and retail businesses in Westport, CT and Fairfield County since 2005."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -48,7 +48,7 @@ Local knowledge matters when a state notice arrives, and geography still shapes 
 
 The firm runs on a team-oriented model: more than one person on staff knows your file well enough to step in if your usual contact is out. That matters most during an audit, when a state deadline doesn't wait for someone's vacation. You're not tied to a single name on a business card. You're tied to a firm that already has your history, your numbers, and your context on hand.
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Audit protection tailored to your industry
 
 Auditors look for different red flags depending on what you do. Generic advice misses the details that actually trigger a notice, so our approach shifts by industry.
@@ -63,20 +63,15 @@ icon: Briefcase
 
 Attorneys, consultants, and other service providers face questions about business use of home offices, owner compensation, and deductible expenses. We keep the paper trail organized so those answers are ready.
 
+### Video Production Companies
+icon: Video
+
+Production costs, equipment depreciation, contractor payments, and mixed personal-business expenses are common audit triggers for video production companies. We document your project expenses and contractor classifications so the records hold up under scrutiny.
+
 ### Retail
 icon: Building2
 
 Inventory valuation, cash transactions, and sales tax reconciliation are common audit triggers for retail businesses. We tie your point-of-sale and bookkeeping records together so the numbers match every filing.
-
-### Equine
-icon: HeartPulse
-
-Hobby-loss rules hit equine operations harder than almost any other niche, since the IRS routinely questions whether a horse business is run for profit. We document the operational and financial case that it is.
-
-### Influencers
-icon: Sparkles
-
-Gifted products, brand deals, and mixed personal-business expenses create audit exposure unique to influencer income. We help classify income correctly from the start, so an audit finds consistency instead of confusion.
 
 <!-- block: content-split | variant: image-left | image: secure-client-portal.jpg | alt: "Business owner reviewing financial reports on a secure online client portal" | query: "business owner laptop financial dashboard" -->
 ## How audit protection fits into your fixed monthly plan
@@ -116,8 +111,8 @@ A: Audit protection is bundled into Abramson & Company's fixed monthly plan alon
 **Q: What should I do first if I get an IRS or state audit notice?**
 A: Don't respond to the notice yourself. Contact your Abramson & Company team within 24 to 48 hours, upload the letter through the secure client portal, and a CPA will confirm the deadline and begin drafting the response on your behalf.
 
-**Q: Do you offer audit protection for specialized industries like equine or influencer businesses?**
-A: Yes. Abramson & Company handles audit defense for real estate, professional service providers, retail, equine operations, and influencers, addressing the specific red flags each niche faces, such as hobby-loss rules for equine businesses or mixed income classification for influencers.
+**Q: Do you offer audit protection for real estate, professional services, video production, and retail businesses?**
+A: Yes. Abramson & Company handles audit defense for real estate professionals, professional service providers, video production companies, and retail businesses, addressing the specific red flags each industry faces — from 1031 exchanges and passive loss rules in real estate, to contractor classification and equipment depreciation in video production, to inventory valuation and sales tax reconciliation in retail.
 
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "CPA shaking hands with a small business client in an office" | query: "business consultation handshake office meeting" -->
 ## Get audit protection in place before you need it
@@ -137,7 +132,7 @@ Abramson & Company provides CPA-led audit protection for individuals and busines
 - CPA-led review of every response sent to the IRS or Connecticut Department of Revenue Services
 - Team-oriented culture where multiple staff members know each client's file
 - Serves Westport, Fairfield County, the tri-state area of CT/NY/NJ, and Bay Area, California clients
-- Industry-specific audit experience across real estate, professional services, retail, equine, and influencer niches
+- Industry-specific audit experience across real estate, professional services, retail, and video production niches
 - Audit protection bundled into a fixed monthly fee with a secure online client platform
 
 **Internal Links:**
@@ -147,6 +142,7 @@ Abramson & Company provides CPA-led audit protection for individuals and busines
 - real estate audit considerations → /industries/real-estate — Deeper industry page referenced in the audit protection niche section
 - professional service provider clients → /industries/professional-service-providers — Supports the industry-specific audit risk section
 - retail business clients → /industries/retail — Supports the industry-specific audit risk section
+- video production clients → /industries/video-production — Supports the industry-specific audit risk section
 - IRS reporting updates → /resources/quick-reads/irs-gives-taxpayers-new-way-to-report-tax-fraud — Relevant quick-read for readers researching IRS notices and processes
 - free consultation → /free-consultation — Lower-commitment CTA alternative for visitors not ready to fully engage
 

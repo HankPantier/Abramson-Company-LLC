@@ -33,7 +33,7 @@ Abramson & Company has been setting up accounting systems since 2005, when Ray f
 Setup work goes fine until it's rushed. Here's exactly what happens when Abramson & Company builds your accounting system from scratch:
 
 - A chart of accounts built for your industry, not copied from a generic template
-- Software selection and setup, typically [QuickBooks](/services/bookkeeping) Online, configured for how your business actually runs
+- QuickBooks Online setup and configuration for how your business actually runs
 - Bank and credit card feeds connected and mapped so transactions flow in correctly
 - Historical data migration if you're moving from another system or from spreadsheets
 - Initial categorization rules set up so your reports are accurate from month one

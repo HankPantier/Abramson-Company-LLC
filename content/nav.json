@@ -18,7 +18,7 @@
         },
         {
           "label": "Business Tax",
-          "url": "/services/outsourced-accounting/tax"
+          "url": "/services/outsourced-accounting/business-tax"
         },
         {
           "label": "Personal income tax",
@@ -34,7 +34,7 @@
         },
         {
           "label": "Audit protection",
-          "url": "/services/outsourced-accounting/tax/audit-protection"
+          "url": "/services/outsourced-accounting/business-tax/audit-protection"
         },
         {
           "label": "Entity type analysis",

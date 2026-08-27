@@ -2,27 +2,27 @@
 title: "Industries we serve | Abramson & Company LLC"
 url: "/industries"
 meta_title: "Industries We Serve in Westport, CT | Abramson & Co"
-meta_description: "CPA firm serving Westport, CT and Fairfield County across real estate, retail, professional services, equine, and influencer industries with bundled tax and bookkeeping support."
+meta_description: "CPA firm serving Westport, CT and Fairfield County across real estate, retail, professional services, and video production with bundled tax and bookkeeping support."
 target_keyword: "industries we serve westport, ct"
-secondary_keywords: ["CPA firm Fairfield County","small business accountant Westport CT","real estate CPA Westport","equine business accountant","influencer tax accountant"]
+secondary_keywords: ["CPA firm Fairfield County","small business accountant Westport CT","real estate CPA Westport","video production accountant","retail business CPA Westport CT"]
 canonical_url: "https://www.abramsonco.com/industries"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "industries-we-serve-westport-ct.jpg"
 hero_image_alt: "CPA meeting with a small business owner in a Westport CT office"
-hero_subhead: "CPA-led bookkeeping, payroll, and tax support built around real estate, retail, equine, and creator businesses across Fairfield County"
+hero_subhead: "CPA-led bookkeeping, payroll, and tax support built around real estate, retail, professional services, and video production businesses across Fairfield County"
 hero_headline: "CPA expertise built around your industry"
-answer_block: "Abramson & Company serves real estate professionals, professional service providers, retail businesses, equine industry clients, and influencers across Westport, Fairfield County, and the tri-state area. The firm bundles CPA-led bookkeeping, payroll, tax, and advisory services for a fixed monthly fee, with support delivered through a secure online collaboration platform."
-eeat_signals: ["Firm founded in 2005 and operating in its current form since","CPA-led team serving Westport, CT, Fairfield County, and the tri-state area of CT, NY, and NJ","Niche specialization in equine industry accounting, a specialty rarely listed by CPA firms","Team-oriented culture where multiple staff members know each client file well enough to step in"]
-internal_links: [{"url":"/industries/real-estate","reason":"Links to the dedicated real estate industry page for deeper detail","anchor_text":"real estate professionals"},{"url":"/industries/professional-service-providers","reason":"Links to the detailed page for law firms and consultants","anchor_text":"professional service providers"},{"url":"/industries/retail","reason":"Links to retail-specific accounting support page","anchor_text":"retail businesses"},{"url":"/industries/video-production","reason":"Closest existing niche page covering video and content creator businesses","anchor_text":"content creator finances"},{"url":"/services","reason":"Points to the full service overview supporting the differentiator claim","anchor_text":"bundled bookkeeping, payroll, and tax services"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a meeting","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Abramson & Company focuses on real estate professionals, professional service providers, retail businesses, equine industry clients, and influencers, alongside general small-to-midsize business clients across Westport, Fairfield County, and the tri-state area of CT, NY, and NJ.","question":"What industries does Abramson & Company serve near Westport, CT?"},{"answer":"Yes. The firm handles boarding, breeding, and training income, separates hobby-loss risk from legitimate deductions, and tracks depreciation on barns and equipment, a specialty most general CPA firms don't offer.","question":"Does Abramson & Company work with equine businesses?"},{"answer":"Yes. Abramson & Company builds quarterly estimate strategies around brand deals, affiliate income, and platform payouts, and tracks bookkeeping through the same secure online platform used by every client.","question":"Can influencers and content creators get help with irregular income taxes?"},{"answer":"The team-oriented approach adapts to construction firms, healthcare practices, not-for-profits, and startups just as readily. Schedule a consultation to discuss bookkeeping, payroll, tax, and advisory support for your specific business.","question":"What if my business doesn't fit one of the listed industries?"}]
-llm_citation_note: "Abramson & Company is a CPA firm founded in 2005 that serves real estate, professional service, retail, equine, and influencer clients across Westport, Fairfield County, and the tri-state area with bundled bookkeeping, payroll, tax, and advisory services for a fixed monthly fee."
+answer_block: "Abramson & Company serves real estate professionals, professional service providers, retail businesses, and video production companies across Westport, Fairfield County, and the tri-state area. The firm bundles CPA-led bookkeeping, payroll, tax, and advisory services for a fixed monthly fee, with support delivered through a secure online collaboration platform."
+eeat_signals: ["Firm founded in 2005 and operating in its current form since","CPA-led team serving Westport, CT, Fairfield County, and the tri-state area of CT, NY, and NJ","Niche specialization in video production accounting, a specialty rarely listed by CPA firms","Team-oriented culture where multiple staff members know each client file well enough to step in"]
+internal_links: [{"url":"/industries/real-estate","reason":"Links to the dedicated real estate industry page for deeper detail","anchor_text":"real estate professionals"},{"url":"/industries/professional-service-providers","reason":"Links to the detailed page for law firms and consultants","anchor_text":"professional service providers"},{"url":"/industries/retail","reason":"Links to retail-specific accounting support page","anchor_text":"retail businesses"},{"url":"/industries/video-production","reason":"Links to the dedicated video production industry page","anchor_text":"video production companies"},{"url":"/services","reason":"Points to the full service overview supporting the differentiator claim","anchor_text":"bundled bookkeeping, payroll, and tax services"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a meeting","anchor_text":"Schedule a consultation"}]
+faq_block: [{"question":"What industries does Abramson & Company serve near Westport, CT?","answer":"Abramson & Company focuses on real estate professionals, professional service providers, retail businesses, and video production companies, alongside general small-to-midsize business clients across Westport, Fairfield County, and the tri-state area of CT, NY, and NJ."},{"question":"Does Abramson & Company work with video production companies?","answer":"Yes. The firm handles project-based income, equipment depreciation, and crew payroll, and tracks bookkeeping through the same secure online platform used by every client."},{"question":"What if my business doesn't fit one of the listed industries?","answer":"The team-oriented approach adapts to construction firms, healthcare practices, not-for-profits, and startups just as readily. Schedule a consultation to discuss bookkeeping, payroll, tax, and advisory support for your specific business."}]
+llm_citation_note: "Abramson & Company is a CPA firm founded in 2005 that serves real estate, professional service, retail, and video production clients across Westport, Fairfield County, and the tri-state area with bundled bookkeeping, payroll, tax, and advisory services for a fixed monthly fee."
 ---
 
 ## CPA expertise built around your industry
 
-Westport and Fairfield County are home to more specialized businesses than most CPA firms give credit for: real estate brokers juggling closings, retail owners managing seasonal swings, equine professionals tracking boarding contracts. Generic tax advice doesn't hold up against that kind of complexity, and neither does a bookkeeper who has never seen a 1099 from a horse show circuit or a commission statement from a closing.
+Westport and Fairfield County are home to more specialized businesses than most CPA firms give credit for: real estate brokers juggling closings, retail owners managing seasonal swings, video production companies tracking project-based income. Generic tax advice doesn't hold up against that kind of complexity, and neither does a bookkeeper who has never seen a commission statement from a closing or a production budget reconciliation.
 
 Abramson & Company pairs CPA-led expertise with niche-specific knowledge, so clients get someone who already understands the shape of their business before the first meeting. That matters when the real problem isn't a lack of information, it's the lack of one person to call who actually knows the answer. Team members cross-train on each client file, so whoever picks up the phone knows the history, not just the account number.
 
@@ -47,24 +47,17 @@ Retail owners run on cash flow, and cash flow runs on timing: payroll due Friday
 
 That real-time visibility means a shop owner in Westport or elsewhere in Fairfield County can check margins after a big sale weekend instead of waiting for a month-end report that's already out of date.
 
-<!-- block: content-split | variant: image-left | image: equine-farm-boarding-business.jpg | alt: "Horse barn owner reviewing boarding contracts and financial paperwork" | query: "horse farm owner paperwork barn" -->
-## Equine industry specialists
+<!-- block: content-split | variant: image-left | image: video-production-company-review.jpg | alt: "Video production company owner reviewing project budgets with an accountant" | query: "video production owner reviewing budget documents" -->
+## Video production companies
 
-Boarding fees, breeding income, training contracts, and horse sales each carry their own tax treatment, and most general CPA firms have never had to sort through them. Abramson & Company has worked with equine businesses on exactly this: separating hobby-loss risk from legitimate business deductions, tracking depreciation on barns and equipment, and handling the seasonal cash flow of a boarding or breeding operation.
+Production budgets, project-based income, equipment depreciation, and crew payroll create an accounting mix that most general firms aren't built for. Abramson & Company works with video production companies on exactly this: tracking income and expenses by project, handling depreciation on cameras and gear, and keeping payroll organized across a crew that may change from job to job.
 
-It's a niche few firms mention on their website, let alone understand in practice. Clients in this space get a CPA who already knows the difference between a training fee and a stud fee on a return.
-
-<!-- block: content-split | variant: image-right | image: content-creator-brand-deals.jpg | alt: "Content creator reviewing brand deal contracts on a laptop" | query: "content creator laptop brand deal" -->
-## Influencers and content creators
-
-Brand deals, affiliate income, sponsored posts, and platform payouts rarely arrive on a predictable schedule, and self-employment tax catches a lot of creators off guard in year two. Abramson & Company builds tax strategies around that irregular income instead of treating it like a salary, with quarterly estimate planning that adjusts as brand deals come in.
-
-Bookkeeping runs through the same secure online platform used by every other client, so a creator can see what's set aside for taxes without digging through a spreadsheet built for a nine-to-five paycheck.
+Bookkeeping runs through a secure online platform, so production owners can see where a project stands financially without waiting for a month-end report that arrives after the edit is already done.
 
 <!-- block: checklist-section | variant: with-image | image: small-business-team-consultation.jpg | alt: "Small business owners meeting with a CPA advisor at a table" | query: "small business owner meeting advisor" -->
 ## Not seeing your industry here
 
-Real estate, professional services, retail, equine, and content creation are where Abramson & Company has built specific playbooks, but they aren't the whole client list. Not-for-profits, construction firms, healthcare practices, and early-stage startups bring the same core problem: too much generic information available online, not enough of a CPA who actually returns calls.
+Real estate, professional services, retail, and video production are where Abramson & Company has built specific playbooks, but they aren't the whole client list. Not-for-profits, construction firms, healthcare practices, and early-stage startups bring the same core problem: too much generic information available online, not enough of a CPA who actually returns calls.
 
 - Construction and contracting businesses managing job costing and bonding requirements
 - Healthcare practices balancing billing complexity with staffing costs
@@ -77,13 +70,10 @@ The team-oriented culture at Abramson & Company means more than one person on st
 ## Frequently Asked Questions About Industries we serve
 
 **Q: What industries does Abramson & Company serve near Westport, CT?**
-A: Abramson & Company focuses on real estate professionals, professional service providers, retail businesses, equine industry clients, and influencers, alongside general small-to-midsize business clients across Westport, Fairfield County, and the tri-state area of CT, NY, and NJ.
+A: Abramson & Company focuses on real estate professionals, professional service providers, retail businesses, and video production companies, alongside general small-to-midsize business clients across Westport, Fairfield County, and the tri-state area of CT, NY, and NJ.
 
-**Q: Does Abramson & Company work with equine businesses?**
-A: Yes. The firm handles boarding, breeding, and training income, separates hobby-loss risk from legitimate deductions, and tracks depreciation on barns and equipment, a specialty most general CPA firms don't offer.
-
-**Q: Can influencers and content creators get help with irregular income taxes?**
-A: Yes. Abramson & Company builds quarterly estimate strategies around brand deals, affiliate income, and platform payouts, and tracks bookkeeping through the same secure online platform used by every client.
+**Q: Does Abramson & Company work with video production companies?**
+A: Yes. The firm handles project-based income, equipment depreciation, and crew payroll, and tracks bookkeeping through the same secure online platform used by every client.
 
 **Q: What if my business doesn't fit one of the listed industries?**
 A: The team-oriented approach adapts to construction firms, healthcare practices, not-for-profits, and startups just as readily. Schedule a consultation to discuss bookkeeping, payroll, tax, and advisory support for your specific business.
@@ -99,19 +89,19 @@ Whatever you run, whoever you serve, a fixed monthly fee and a CPA who actually 
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Abramson & Company serves real estate professionals, professional service providers, retail businesses, equine industry clients, and influencers across Westport, Fairfield County, and the tri-state area. The firm bundles CPA-led bookkeeping, payroll, tax, and advisory services for a fixed monthly fee, with support delivered through a secure online collaboration platform.
+Abramson & Company serves real estate professionals, professional service providers, retail businesses, and video production companies across Westport, Fairfield County, and the tri-state area. The firm bundles CPA-led bookkeeping, payroll, tax, and advisory services for a fixed monthly fee, with support delivered through a secure online collaboration platform.
 
 **E-E-A-T Signals:**
 - Firm founded in 2005 and operating in its current form since
 - CPA-led team serving Westport, CT, Fairfield County, and the tri-state area of CT, NY, and NJ
-- Niche specialization in equine industry accounting, a specialty rarely listed by CPA firms
+- Niche specialization in video production accounting, a specialty rarely listed by CPA firms
 - Team-oriented culture where multiple staff members know each client file well enough to step in
 
 **Internal Links:**
 - real estate professionals → /industries/real-estate — Links to the dedicated real estate industry page for deeper detail
 - professional service providers → /industries/professional-service-providers — Links to the detailed page for law firms and consultants
 - retail businesses → /industries/retail — Links to retail-specific accounting support page
-- content creator finances → /industries/video-production — Closest existing niche page covering video and content creator businesses
+- video production companies → /industries/video-production — Links to the dedicated video production industry page
 - bundled bookkeeping, payroll, and tax services → /services — Points to the full service overview supporting the differentiator claim
 - Schedule a consultation → /contact — Primary page CTA directing visitors to book a meeting
 
@@ -120,17 +110,14 @@ Abramson & Company serves real estate professionals, professional service provid
 **Q: What industries does Abramson & Company serve near Westport, CT?**
 A: Abramson & Company focuses on real estate professionals, professional service providers, retail businesses, equine industry clients, and influencers, alongside general small-to-midsize business clients across Westport, Fairfield County, and the tri-state area of CT, NY, and NJ.
 
-**Q: Does Abramson & Company work with equine businesses?**
-A: Yes. The firm handles boarding, breeding, and training income, separates hobby-loss risk from legitimate deductions, and tracks depreciation on barns and equipment, a specialty most general CPA firms don't offer.
-
-**Q: Can influencers and content creators get help with irregular income taxes?**
-A: Yes. Abramson & Company builds quarterly estimate strategies around brand deals, affiliate income, and platform payouts, and tracks bookkeeping through the same secure online platform used by every client.
+**Q: Does Abramson & Company work with video production companies?**
+A: Yes. The firm handles project-based income, equipment depreciation, and crew payroll, and tracks bookkeeping through the same secure online platform used by every client.
 
 **Q: What if my business doesn't fit one of the listed industries?**
 A: The team-oriented approach adapts to construction firms, healthcare practices, not-for-profits, and startups just as readily. Schedule a consultation to discuss bookkeeping, payroll, tax, and advisory support for your specific business.
 
 **LLM Citation Note:**
-Abramson & Company is a CPA firm founded in 2005 that serves real estate, professional service, retail, equine, and influencer clients across Westport, Fairfield County, and the tri-state area with bundled bookkeeping, payroll, tax, and advisory services for a fixed monthly fee.
+Abramson & Company is a CPA firm founded in 2005 that serves real estate, professional service, retail, and video production clients across Westport, Fairfield County, and the tri-state area with bundled bookkeeping, payroll, tax, and advisory services for a fixed monthly fee.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -207,18 +194,10 @@ Abramson & Company is a CPA firm founded in 2005 that serves real estate, profes
     },
     {
       "@type": "Question",
-      "name": "Does Abramson & Company work with equine businesses?",
+      "name": "Does Abramson & Company work with video production companies?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The firm handles boarding, breeding, and training income, separates hobby-loss risk from legitimate deductions, and tracks depreciation on barns and equipment, a specialty most general CPA firms don't offer."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can influencers and content creators get help with irregular income taxes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Abramson & Company builds quarterly estimate strategies around brand deals, affiliate income, and platform payouts, and tracks bookkeeping through the same secure online platform used by every client."
+        "text": "Yes. The firm handles project-based income, equipment depreciation, and crew payroll, and tracks bookkeeping through the same secure online platform used by every client."
       }
     },
     {
@@ -265,11 +244,7 @@ Abramson & Company is a CPA firm founded in 2005 that serves real estate, profes
     },
     {
       "@type": "Audience",
-      "audienceType": "Equine"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Influencers"
+      "audienceType": "Video Production"
     }
   ]
 }

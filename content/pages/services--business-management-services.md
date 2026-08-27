@@ -119,7 +119,7 @@ If you're running a real estate portfolio, a retail shop, a professional practic
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Abramson & Company provides business management services in Westport, CT that combine bookkeeping, payroll, tax, and advisory support under one CPA-led team and a single fixed monthly fee. Clients get cash flow monitoring, reporting, and vendor coordination through a secure online platform, rather than piecing services together across separate providers.
+Abramson & Company provides business management services in Westport, CT that combine bookkeeping, payroll, tax, and advisory support under one CPA-led team and a single fixed monthly fee. Clients get financial reporting and vendor coordination through a secure online platform, rather than piecing services together across separate providers.
 
 **E-E-A-T Signals:**
 - Founded in 2005 by Ray, who leads the firm's CPA-led team

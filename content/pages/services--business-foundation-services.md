@@ -80,6 +80,8 @@ Business foundation services are the starting point, not the whole relationship.
 
 Our team-oriented culture means more than one person at Abramson & Company knows your file well enough to pick up the phone when you call. You're never stuck waiting on a single point of contact, and everything you need runs through the same secure online platform, so your bookkeeper, payroll processor, and CPA are all looking at the same real-time numbers.
 
+Retirement planning is part of that bigger picture. Once your entity is set up and your compensation structure is in place, we help you evaluate which retirement plan — a SEP-IRA, Solo 401(k), SIMPLE IRA, or something else — makes the most sense given how your business is structured and what you're actually earning. Starting that conversation early means the plan you choose works with your tax strategy instead of around it.
+
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Business foundation services
 

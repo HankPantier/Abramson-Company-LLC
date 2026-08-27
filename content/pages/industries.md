@@ -197,18 +197,10 @@ Abramson & Company is a CPA firm founded in 2005 that serves real estate, profes
     },
     {
       "@type": "Question",
-      "name": "Does Abramson & Company work with equine businesses?",
+      "name": "Does Abramson & Company work with video production companies?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The firm handles boarding, breeding, and training income, separates hobby-loss risk from legitimate deductions, and tracks depreciation on barns and equipment, a specialty most general CPA firms don't offer."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can influencers and content creators get help with irregular income taxes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Abramson & Company builds quarterly estimate strategies around brand deals, affiliate income, and platform payouts, and tracks bookkeeping through the same secure online platform used by every client."
+        "text": "Yes. The firm handles project-based income, equipment depreciation, and crew payroll, and tracks bookkeeping through the same secure online platform used by every client."
       }
     },
     {

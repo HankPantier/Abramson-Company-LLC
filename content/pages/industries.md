@@ -92,7 +92,7 @@ Whatever you run, whoever you serve, a fixed monthly fee and a CPA who actually 
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Abramson & Company serves real estate professionals, professional service providers, retail businesses, equine industry clients, and influencers across Westport, Fairfield County, and the tri-state area. The firm bundles CPA-led bookkeeping, payroll, tax, and advisory services for a fixed monthly fee, with support delivered through a secure online collaboration platform.
+Abramson & Company serves real estate professionals, professional service providers, retail businesses, and video production companies across Westport, Fairfield County, and the tri-state area. The firm bundles CPA-led bookkeeping, payroll, tax, and advisory services for a fixed monthly fee, with support delivered through a secure online collaboration platform.
 
 **E-E-A-T Signals:**
 - Firm founded in 2005 and operating in its current form since

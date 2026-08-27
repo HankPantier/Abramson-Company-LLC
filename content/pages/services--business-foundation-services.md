@@ -43,9 +43,9 @@ Each piece connects to the next. Get the entity right and the tax strategy follo
 <!-- block: content-split | variant: image-right | image: entity-structure-planning.jpg | alt: "CPA and business owner discussing entity structure options at a desk" | query: "advisor client discussing business structure" -->
 ## Choosing the right entity structure for your goals
 
-LLC or S-corp isn't a question with one right answer. It depends on how much you expect to earn in year one, whether you plan to bring in partners or investors, how you want to pay yourself, and what your exit looks like five or ten years out. A retail shop owner in Westport and a real estate investor building a portfolio in Fairfield County often land in different structures even when their revenue numbers look similar.
+LLC or S-corp isn't a question with one right answer. It depends on how much you expect to earn in year one, whether you plan to bring in partners or investors, how you want to pay yourself, and what your exit looks like five or ten years out. A retail shop owner in Westport, a real estate investor building a portfolio in Fairfield County, an attorney spinning off their own practice, and a video production company with fluctuating project income can all have similar revenue numbers — and still land in different structures.
 
-We walk through the tax consequences of each option with you, not at you. That means modeling out self-employment tax exposure, distribution rules, and filing obligations before you file anything, so the structure you choose supports where the business is actually headed instead of where a template assumed it would go.
+We walk through the tax consequences of each option with you, not at you. That means modeling out self-employment tax exposure, distribution rules, and filing obligations before you file anything, so the structure you choose supports where the business is actually headed instead of where a generic template assumed it would go.
 
 <!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Built for real estate, professional services, video production, and retail

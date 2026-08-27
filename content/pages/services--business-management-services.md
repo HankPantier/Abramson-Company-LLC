@@ -34,7 +34,6 @@ Business management services at Abramson & Company cover the financial and opera
 
 Here's what that looks like in practice:
 
-- Cash flow monitoring and forecasting, so you know what's coming before it hits your account
 - Monthly and quarterly [financial reporting](/services/outsourced-accounting) built for decisions, not just compliance
 - Vendor and [payroll](/services/payroll) coordination handled by people who already know your business
 - Budget and expense oversight tied to your actual goals, not generic industry benchmarks

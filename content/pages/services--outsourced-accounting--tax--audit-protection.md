@@ -132,7 +132,7 @@ Abramson & Company provides CPA-led audit protection for individuals and busines
 - CPA-led review of every response sent to the IRS or Connecticut Department of Revenue Services
 - Team-oriented culture where multiple staff members know each client's file
 - Serves Westport, Fairfield County, the tri-state area of CT/NY/NJ, and Bay Area, California clients
-- Industry-specific audit experience across real estate, professional services, retail, equine, and influencer niches
+- Industry-specific audit experience across real estate, professional services, retail, and video production niches
 - Audit protection bundled into a fixed monthly fee with a secure online client platform
 
 **Internal Links:**

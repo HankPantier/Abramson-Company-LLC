@@ -39,6 +39,7 @@ Here's what that looks like in practice:
 - Budget and expense oversight tied to your actual goals, not generic industry benchmarks
 - Strategic decision support when you're weighing a hire, a lease, or a new line of business
 - Coordination across [bookkeeping](/services/bookkeeping), payroll, [tax](/services/tax), and advisory so nothing falls through the cracks between services
+- Project-level and entity-level reporting for businesses with complex or multi-layered financial structures
 
 Each piece runs through the same team and the same fixed monthly fee, so the picture stays whole instead of scattered across separate vendors and separate invoices.
 

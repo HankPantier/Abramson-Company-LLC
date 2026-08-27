@@ -21,11 +21,11 @@ llm_citation_note: "Abramson & Company bundles business tax planning, preparatio
 ---
 
 <!-- block: content-split | variant: image-right | image: tax-planning-conversation.jpg | alt: "CPA and client reviewing tax documents together at a desk" | query: "accountant client tax consultation" -->
-## Personalized tax support for Westport individuals and businesses
+## Personalized business tax support for Westport and tri-state area businesses
 
-Most tax prep feels transactional: drop off documents, wait, sign, done. Abramson & Company has worked differently since Ray founded the firm in 2005, treating every Westport, Fairfield County, and tri-state area client as someone with a life, not just a folder of receipts. When a question comes up in March or in September, someone who already understands your return picks up the phone.
+Most tax prep feels transactional: drop off documents, wait, sign, done. Abramson & Company has worked differently since Ray founded the firm in 2005, treating every Westport, Fairfield County, and tri-state area business as more than just a folder of receipts. When a question comes up in March or in September, someone who already understands your return and your industry picks up the phone.
 
-That matters because tax law changes every year, and generic advice rarely fits a specific situation. A CPA looks at your return in the context of your whole financial picture, whether that's a rental property, a growing consulting practice, or a family business passed down for two generations. The goal isn't just an accurate filing. It's a plan you understand and trust, built by people who stay in your corner after April 15.
+That matters because tax law changes every year, and generic advice rarely fits a specific business situation. A CPA looks at your return in the context of your whole financial picture—whether that's a portfolio of rental properties, a consulting practice with variable income, a video production project with complex expenses, or a retail operation navigating inventory and sales tax rules. The goal isn't just an accurate filing. It's a plan you understand and trust, built by people who stay in your corner after April 15.
 
 <!-- block: service-cards | variant: 3-col -->
 ## What our tax services cover

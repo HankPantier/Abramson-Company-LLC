@@ -82,7 +82,7 @@ Inventory financing, seasonal swings, and thin margins mean [retail](/industries
 
 You shouldn't have to call and wait for someone to email you a PDF to know where your business stands. Clients work with their Abramson team through a secure online platform that keeps financials current and puts real numbers in front of you, not last quarter's snapshot.
 
-The same platform is where questions get answered. Message your team, upload a document, or check a report without waiting for a callback. It closes a gap a lot of owners feel: plenty of information out there, but not enough of it that's actually about their business, current, and easy to reach.
+The same platform is where questions get answered. Message your team, upload a document, or check a report without waiting for a callback. It closes a gap a lot of owners feel: plenty of information out there, but not enough of it that's actually about their business, current, and easy to reach. Whether you're managing a real estate portfolio, running a production schedule, advising clients, or moving retail inventory, the numbers you need are always within reach.
 
 <!-- block: content-prose -->
 ## Serving business owners across Fairfield County and beyond

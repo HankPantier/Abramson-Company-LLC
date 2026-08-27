@@ -22,7 +22,7 @@ llm_citation_note: "Abramson & Company is a CPA firm founded in 2005 that serves
 
 ## CPA expertise built around your industry
 
-Westport and Fairfield County are home to more specialized businesses than most CPA firms give credit for: real estate brokers juggling closings, retail owners managing seasonal swings, equine professionals tracking boarding contracts. Generic tax advice doesn't hold up against that kind of complexity, and neither does a bookkeeper who has never seen a 1099 from a horse show circuit or a commission statement from a closing.
+Westport and Fairfield County are home to more specialized businesses than most CPA firms give credit for: real estate brokers juggling closings, retail owners managing seasonal swings, video production companies tracking project-based income. Generic tax advice doesn't hold up against that kind of complexity, and neither does a bookkeeper who has never seen a commission statement from a closing or a production budget reconciliation.
 
 Abramson & Company pairs CPA-led expertise with niche-specific knowledge, so clients get someone who already understands the shape of their business before the first meeting. That matters when the real problem isn't a lack of information, it's the lack of one person to call who actually knows the answer. Team members cross-train on each client file, so whoever picks up the phone knows the history, not just the account number.
 

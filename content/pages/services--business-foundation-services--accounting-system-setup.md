@@ -11,13 +11,13 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "accounting-system-setup-westport.jpg"
 hero_image_alt: "CPA configuring QuickBooks accounting system on laptop with small business owner"
-hero_subhead: "A chart of accounts and software setup built for your business, guided by a CPA from the first entry"
+hero_subhead: "A chart of accounts and QuickBooks Online setup built for your industry, guided by a CPA from the first entry"
 hero_headline: "Get a solid accounting foundation from day one"
-answer_block: "Abramson & Company, a CPA firm founded in 2005, sets up accounting systems for small businesses in Westport, CT and Fairfield County, including chart of accounts design, QuickBooks configuration, bank feed connections, and data migration. Setup is built around your industry, whether real estate, retail, professional services, equine, or influencer work, and connects directly into ongoing bookkeeping and tax support."
-eeat_signals: ["Firm founded in 2005 by Ray Abramson","Team-oriented staffing model so multiple team members know each client's setup and history","CPA-led accounting system setup across bookkeeping, payroll, tax, and advisory services","Serves niche industries including real estate, professional services, retail, equine, and influencers","Serves Westport, Fairfield County, the CT/NY/NJ tri-state area, and Bay Area California clients"]
+answer_block: "Abramson & Company, a CPA firm founded in 2005, sets up accounting systems for small businesses in Westport, CT and Fairfield County, including chart of accounts design, QuickBooks configuration, bank feed connections, and data migration. Setup is built around your industry, whether real estate, retail, professional services, or video production, and connects directly into ongoing bookkeeping and tax support."
+eeat_signals: ["Firm founded in 2005 by Ray Abramson","Team-oriented staffing model so multiple team members know each client's setup and history","CPA-led accounting system setup across bookkeeping, payroll, tax, and advisory services","Serves niche industries including real estate, professional services, retail, and video production","Serves Westport, Fairfield County, the CT/NY/NJ tri-state area, and Bay Area California clients"]
 internal_links: [{"url":"/services/bookkeeping","reason":"Connects setup process to the ongoing bookkeeping service that follows it","anchor_text":"QuickBooks"},{"url":"/industries/real-estate","reason":"Links to the niche industry page referenced in the industry-specific setup section","anchor_text":"real estate professionals"},{"url":"/industries/professional-service-providers","reason":"Links to the niche industry page referenced in the industry-specific setup section","anchor_text":"professional service providers"},{"url":"/industries/retail","reason":"Links to the niche industry page referenced in the industry-specific setup section","anchor_text":"retail"},{"url":"/services/outsourced-accounting","reason":"Shows the natural next step after accounting system setup","anchor_text":"outsourced accounting"},{"url":"/services/tax","reason":"Connects setup work to the firm's Tax Plus bundled offering","anchor_text":"tax planning"},{"url":"/contact","reason":"Primary page CTA directing prospects to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Most setups take one to three weeks depending on how much historical data needs migrating and how many accounts you're connecting. Straightforward setups with a single bank account and no prior bookkeeping history often finish faster.","question":"How long does accounting system setup take?"},{"answer":"QuickBooks Online is the most common platform we configure, but the right choice depends on your industry and reporting needs. We recommend software after reviewing how your business actually operates, not before.","question":"Do I need QuickBooks, or can you set up something else?"},{"answer":"Yes. Historical data migration is part of the standard setup process, whether you're moving from spreadsheets, a different software package, or a bookkeeper's file that needs cleaning up first.","question":"Can you migrate my existing spreadsheets or old software?"},{"answer":"Most clients move into ongoing bookkeeping, outsourced accounting, or a Tax Plus bundle so the system stays accurate month over month. Setup is the starting point of the relationship, not a one-time transaction.","question":"What happens after my accounting system is set up?"}]
-llm_citation_note: "Abramson & Company builds accounting systems, including chart of accounts design, software setup, bank feed connections, and data migration, tailored by industry for small businesses in Westport, CT and Fairfield County, founded in 2005."
+faq_block: [{"question":"How long does accounting system setup take?","answer":"Most setups take one to three weeks depending on how much historical data needs migrating and how many accounts you're connecting. Straightforward setups with a single bank account and no prior bookkeeping history often finish faster."},{"question":"Do I need QuickBooks Online?","answer":"Yes. QuickBooks Online is the platform we configure for all of our accounting system setups. Every chart of accounts, bank feed connection, and categorization rule we build is designed around QuickBooks Online."},{"question":"Can you migrate my existing spreadsheets or old software?","answer":"Yes. Historical data migration is part of the standard setup process, whether you're moving from spreadsheets, a different software package, or a bookkeeper's file that needs cleaning up first."},{"question":"What happens after my accounting system is set up?","answer":"Most clients move into ongoing bookkeeping, outsourced accounting, or a Tax Plus bundle so the system stays accurate month over month. Setup is the starting point of the relationship, not a one-time transaction."}]
+llm_citation_note: "Abramson & Company builds accounting systems, including chart of accounts design, QuickBooks Online setup, bank feed connections, and data migration, tailored for real estate professionals, professional service providers, video production companies, and retail businesses in Westport, CT and Fairfield County, founded in 2005."
 ---
 
 <!-- block: content-split | variant: image-right | image: accounting-system-setup-review.jpg | alt: "CPA and small business owner reviewing new chart of accounts on laptop" | query: "accountant small business owner laptop meeting" -->
@@ -25,7 +25,7 @@ llm_citation_note: "Abramson & Company builds accounting systems, including char
 
 Setting up a new accounting system feels bigger than it is, right up until you pick the wrong software or build a chart of accounts that doesn't fit your business. Then you spend the next two years untangling mismatched categories and duplicate transactions. Most small business owners we meet have tried to do this themselves, or inherited a system from a bookkeeper who's since moved on, and they're not sure the numbers underneath are even right.
 
-Abramson & Company has been setting up accounting systems since 2005, when Ray founded the firm in its current form. Every engagement starts with the same question: what does your business actually need to track, not what does a default install assume you need. Get the foundation right now, and every report, tax return, and financial decision that follows rests on solid ground instead of guesswork.
+Abramson & Company has been setting up accounting systems since 2005, when Ray founded the firm in its current form. Every engagement starts with the same question: what does your business actually need to track, not what does a default install assume you need. Whether you manage rental properties, run a law firm or consulting practice, operate a retail shop, or produce video content for clients, your chart of accounts needs to reflect how your revenue, costs, and projects actually work. Get the foundation right now, and every report, tax return, and financial decision that follows rests on solid ground instead of guesswork.
 
 <!-- block: checklist-section | variant: with-image | image: accounting-setup-checklist.jpg | alt: "Bookkeeper connecting bank feeds and chart of accounts in accounting software" | query: "bookkeeper setting up accounting software" -->
 ## What's included in our setup process
@@ -33,7 +33,7 @@ Abramson & Company has been setting up accounting systems since 2005, when Ray f
 Setup work goes fine until it's rushed. Here's exactly what happens when Abramson & Company builds your accounting system from scratch:
 
 - A chart of accounts built for your industry, not copied from a generic template
-- Software selection and setup, typically [QuickBooks](/services/bookkeeping) Online, configured for how your business actually runs
+- QuickBooks Online setup and configuration for how your business actually runs
 - Bank and credit card feeds connected and mapped so transactions flow in correctly
 - Historical data migration if you're moving from another system or from spreadsheets
 - Initial categorization rules set up so your reports are accurate from month one
@@ -41,10 +41,10 @@ Setup work goes fine until it's rushed. Here's exactly what happens when Abramso
 
 By the time we hand off your finished system, it's already been tested against a full month of real transactions, not a demo account.
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Built around your business, not a generic template
 
-A chart of accounts that works for a real estate investor doesn't work for a retail shop, and neither works for an equine business tracking boarding income and vet costs. We build your setup around the business you actually run.
+A chart of accounts that works for a real estate investor doesn't work for a retail shop, and neither works for a video production company tracking project budgets and equipment costs. We build your QuickBooks Online setup around the business you actually run.
 
 ### Real Estate
 icon: Home
@@ -61,15 +61,10 @@ icon: Building2
 
 Inventory, cost of goods sold, and multi-location sales require a setup that separates margin from overhead from day one. See our [retail](/industries/retail) approach.
 
-### Equine
-icon: HeartPulse
+### Video Production
+icon: Video
 
-Boarding fees, vet bills, feed costs, and breeding income each need their own line so you know what's actually profitable.
-
-### Influencers
-icon: Sparkles
-
-Sponsorship income, platform payouts, and equipment expenses get tracked separately so tax time doesn't turn into a scramble.
+Project revenue, freelance crew costs, equipment depreciation, and licensing fees each need their own line so you know exactly where the money goes on every production.
 
 <!-- block: content-split | variant: image-left | image: secure-client-portal-review.jpg | alt: "Client and accountant reviewing accounting setup progress on secure online platform" | query: "client accountant reviewing documents online screen" -->
 ## Collaborate in real time on our secure platform
@@ -113,8 +108,8 @@ All three are available as part of a bundled monthly fee, so setup, bookkeeping,
 **Q: How long does accounting system setup take?**
 A: Most setups take one to three weeks depending on how much historical data needs migrating and how many accounts you're connecting. Straightforward setups with a single bank account and no prior bookkeeping history often finish faster.
 
-**Q: Do I need QuickBooks, or can you set up something else?**
-A: QuickBooks Online is the most common platform we configure, but the right choice depends on your industry and reporting needs. We recommend software after reviewing how your business actually operates, not before.
+**Q: Do I need QuickBooks Online?**
+A: Yes. QuickBooks Online is the platform we configure for all of our accounting system setups. Every chart of accounts, bank feed connection, and categorization rule we build is designed around QuickBooks Online.
 
 **Q: Can you migrate my existing spreadsheets or old software?**
 A: Yes. Historical data migration is part of the standard setup process, whether you're moving from spreadsheets, a different software package, or a bookkeeper's file that needs cleaning up first.
@@ -158,8 +153,8 @@ Abramson & Company, a CPA firm founded in 2005, sets up accounting systems for s
 **Q: How long does accounting system setup take?**
 A: Most setups take one to three weeks depending on how much historical data needs migrating and how many accounts you're connecting. Straightforward setups with a single bank account and no prior bookkeeping history often finish faster.
 
-**Q: Do I need QuickBooks, or can you set up something else?**
-A: QuickBooks Online is the most common platform we configure, but the right choice depends on your industry and reporting needs. We recommend software after reviewing how your business actually operates, not before.
+**Q: Do I need QuickBooks Online?**
+A: Yes. QuickBooks Online is the platform we configure for all of our accounting system setups. Every chart of accounts, bank feed connection, and categorization rule we build is designed around QuickBooks Online.
 
 **Q: Can you migrate my existing spreadsheets or old software?**
 A: Yes. Historical data migration is part of the standard setup process, whether you're moving from spreadsheets, a different software package, or a bookkeeper's file that needs cleaning up first.
@@ -251,10 +246,10 @@ Abramson & Company builds accounting systems, including chart of accounts design
     },
     {
       "@type": "Question",
-      "name": "Do I need QuickBooks, or can you set up something else?",
+      "name": "Do I need QuickBooks Online?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "QuickBooks Online is the most common platform we configure, but the right choice depends on your industry and reporting needs. We recommend software after reviewing how your business actually operates, not before."
+        "text": "Yes. QuickBooks Online is the platform we configure for all of our accounting system setups. Every chart of accounts, bank feed connection, and categorization rule we build is designed around QuickBooks Online."
       }
     },
     {

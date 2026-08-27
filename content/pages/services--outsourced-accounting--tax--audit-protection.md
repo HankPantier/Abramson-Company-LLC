@@ -48,7 +48,7 @@ Local knowledge matters when a state notice arrives, and geography still shapes 
 
 The firm runs on a team-oriented model: more than one person on staff knows your file well enough to step in if your usual contact is out. That matters most during an audit, when a state deadline doesn't wait for someone's vacation. You're not tied to a single name on a business card. You're tied to a firm that already has your history, your numbers, and your context on hand.
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Audit protection tailored to your industry
 
 Auditors look for different red flags depending on what you do. Generic advice misses the details that actually trigger a notice, so our approach shifts by industry.
@@ -63,20 +63,15 @@ icon: Briefcase
 
 Attorneys, consultants, and other service providers face questions about business use of home offices, owner compensation, and deductible expenses. We keep the paper trail organized so those answers are ready.
 
+### Video Production Companies
+icon: Video
+
+Production costs, equipment depreciation, contractor payments, and mixed personal-business expenses are common audit triggers for video production companies. We document your project expenses and contractor classifications so the records hold up under scrutiny.
+
 ### Retail
 icon: Building2
 
 Inventory valuation, cash transactions, and sales tax reconciliation are common audit triggers for retail businesses. We tie your point-of-sale and bookkeeping records together so the numbers match every filing.
-
-### Equine
-icon: HeartPulse
-
-Hobby-loss rules hit equine operations harder than almost any other niche, since the IRS routinely questions whether a horse business is run for profit. We document the operational and financial case that it is.
-
-### Influencers
-icon: Sparkles
-
-Gifted products, brand deals, and mixed personal-business expenses create audit exposure unique to influencer income. We help classify income correctly from the start, so an audit finds consistency instead of confusion.
 
 <!-- block: content-split | variant: image-left | image: secure-client-portal.jpg | alt: "Business owner reviewing financial reports on a secure online client portal" | query: "business owner laptop financial dashboard" -->
 ## How audit protection fits into your fixed monthly plan

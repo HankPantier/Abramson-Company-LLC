@@ -86,9 +86,9 @@ A: Our audit protection service means you're not on your own if a notice arrives
 A: Many clients pay one fixed monthly fee that bundles tax preparation with bookkeeping, payroll, or advisory work, depending on what they need. If you only need a personal return, we quote a flat fee before we start, so there's no surprise invoice in April.
 
 <!-- block: cta-banner | variant: image-bg | image: westport-cpa-office-consultation.jpg | alt: "CPA shaking hands with a client after a tax consultation meeting" | query: "advisor client handshake office meeting" -->
-## Get started on your personal tax return
+## Get started on your personal income tax return
 
-Tax deadlines don't move, but the stress around them can shrink. Schedule a consultation with a CPA who will look at your full financial picture, not just this year's forms, and tell you what to expect before you owe anything or file a single page. Whether you live in Westport, work remotely from the Bay Area, or run a business alongside your personal return, we're ready to talk before the season gets loud.
+Tax deadlines don't move, but the stress around them can shrink. Schedule a consultation with a CPA who will look at your full individual financial picture — not just this year's forms — and tell you what to expect before you owe anything or file a single page. Whether you live in Westport, work remotely from the Bay Area, run a business alongside your personal return, or are a U.S. citizen navigating taxes from abroad, we're ready to talk before the season gets loud.
 
 [Schedule a consultation](/contact)
 

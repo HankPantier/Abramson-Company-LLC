@@ -54,8 +54,6 @@ Production budgets, project-based income, equipment depreciation, and crew payro
 
 Bookkeeping runs through a secure online platform, so production owners can see where a project stands financially without waiting for a month-end report that arrives after the edit is already done.
 
-<!-- block: checklist-section | variant: with-image | image: small-business-team-consultation.jpg | alt: "Small business owners meeting with a CPA advisor at a table" | query: "small business owner meeting advisor" -->
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Industries we serve
 

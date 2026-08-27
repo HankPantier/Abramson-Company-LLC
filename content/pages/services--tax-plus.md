@@ -28,15 +28,16 @@ Tax season doesn't have to mean stacks of forms and unanswered questions. If you
 Abramson & Company has prepared personal income tax returns from our Westport office since 2005. We work with individuals and families across Fairfield County and the tri-state area of Connecticut, New York, and New Jersey, plus a growing group of Bay Area clients and U.S. citizens living abroad who found us through referrals. The tax code changes every year, and most people don't have time to track it. That's the gap we fill: a CPA who explains what changed, what it means for your return, and what to do before the deadline — not after.
 
 <!-- block: checklist-section | variant: with-image | image: personal-tax-return-review.jpg | alt: "CPA reviewing a client's personal tax return documents at a desk" | query: "accountant reviewing tax documents client" -->
-## What our personal tax service includes
+## What our personal income tax service includes
 
-A bare-bones filing shop plugs numbers into software and mails you a bill. Our personal income tax service is built to catch what a fast-turnaround preparer misses, and to keep working after April 15.
+A bare-bones filing shop plugs numbers into software and mails you a bill. Our personal income tax service is built around your individual situation — catching what a fast-turnaround preparer misses and continuing to work for you well after April 15.
 
-- Federal and multi-state return preparation for Connecticut, New York, New Jersey, and California
-- Year-round tax planning, not a once-a-year appointment in April
+- Federal and multi-state personal return preparation for Connecticut, New York, New Jersey, and California
+- Year-round individual tax planning, not a once-a-year appointment in April
 - Audit protection, so you have support if the IRS or a state agency sends a letter
 - Coordination with your business return, payroll, and bookkeeping if you own a company
-- Review of withholding, estimated payments, and life changes like a home sale or a new dependent
+- Review of withholding, estimated payments, and life changes like a home sale, a new dependent, or a move abroad
+- Assistance with foreign income reporting and FBAR requirements for clients living or working overseas
 - A CPA who signs your return and stands behind it after it's filed
 
 <!-- block: content-split | variant: image-right | image: real-estate-professional-tax-planning.jpg | alt: "Real estate professional reviewing tax paperwork with a laptop" | query: "real estate agent reviewing paperwork office" -->

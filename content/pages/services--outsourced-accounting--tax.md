@@ -2,7 +2,7 @@
 title: "Tax | Abramson & Company LLC"
 url: "/services/tax"
 meta_title: "Tax Services in Westport, CT | Abramson & Company"
-meta_description: "CPA-led tax planning and preparation in Westport, CT. Personalized strategies, a secure client portal, and a team that knows your business inside out."
+meta_description: "CPA-led business tax planning and preparation in Westport, CT for real estate, professional services, video production, and retail. Personalized strategies and a secure client portal."
 target_keyword: "tax Westport CT"
 secondary_keywords: ["Westport CT tax preparation","Fairfield County CPA tax services","tax planning Fairfield County CT","CPA tax services Connecticut","small business tax Westport"]
 canonical_url: "https://www.abramsonco.com/services/tax"
@@ -11,21 +11,21 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "tax-planning-westport-ct.jpg"
 hero_image_alt: "CPA reviewing tax documents with a client at a Westport office desk"
-hero_subhead: "CPA-led tax planning and preparation for Westport individuals and businesses, backed by a team that actually knows your file"
-hero_headline: "Personalized tax support for Westport individuals and businesses"
-answer_block: "Abramson & Company is a CPA firm in Westport, CT offering personal and business tax planning, preparation, Tax Plus year-round strategy, and audit protection, bundled with bookkeeping and payroll for one fixed monthly fee. The firm serves Fairfield County, the CT/NY/NJ tri-state area, and California clients through a secure online platform."
+hero_subhead: "CPA-led tax planning and preparation for real estate professionals, professional service providers, video production companies, and retail businesses in Westport and beyond"
+hero_headline: "Personalized business tax support for Westport and tri-state area businesses"
+answer_block: "Abramson & Company is a CPA firm in Westport, CT offering business tax planning, preparation, Tax Plus year-round strategy, and audit protection for real estate professionals, professional service providers, video production companies, and retail businesses, bundled with bookkeeping and payroll for one fixed monthly fee. The firm serves Fairfield County, the CT/NY/NJ tri-state area, and California clients through a secure online platform."
 eeat_signals: ["Firm founded in its current form by Ray in 2005","CPA-led tax planning, preparation, and audit representation","Serves Westport, Fairfield County, and the CT/NY/NJ tri-state area, plus California's Bay Area","Team-oriented service model where multiple staff know each client's file, ensuring continuity","Niche tax expertise in real estate, professional services, retail, equine, and influencer income"]
 internal_links: [{"url":"/services/bookkeeping","reason":"Connects tax services to related bookkeeping offering for a full financial picture","anchor_text":"bookkeeping"},{"url":"/services/payroll","reason":"Shows how payroll data feeds into accurate tax preparation","anchor_text":"payroll"},{"url":"/industries/real-estate","reason":"Deep-links to real estate niche page referenced in industry section","anchor_text":"Learn more about real estate tax support"},{"url":"/industries/professional-service-providers","reason":"Deep-links to relevant industry page for professional services niche","anchor_text":"professional service providers"},{"url":"/industries/retail","reason":"Deep-links to retail industry page referenced in industry section","anchor_text":"retail businesses"},{"url":"/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning","reason":"Offers a relevant downloadable resource on tax planning strategy","anchor_text":"see the firm's guide to tax refund strategy"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Yes. The firm handles personal income tax returns alongside business filings for LLCs, S-corps, and partnerships, and coordinates each client's personal and business return so nothing gets missed at filing time.","question":"Does Abramson & Company prepare both personal and business tax returns in Westport, CT?"},{"answer":"Tax Plus pairs your annual return with year-round tax planning, mid-year check-ins, and proactive strategy adjustments as your income or business changes, so tax time never turns into a surprise.","question":"What's included in the Tax Plus service?"},{"answer":"Yes. Through a secure online platform, the firm works with clients across Fairfield County, the CT/NY/NJ tri-state area, and California, including the Bay Area, without requiring in-person visits.","question":"Can Abramson & Company serve clients outside Westport, like in New York or New Jersey?"},{"answer":"Tax services can be bundled with bookkeeping, payroll, and advisory work for one predictable monthly fee, replacing per-form billing with a flat cost that covers planning and preparation together.","question":"How does the fixed monthly fee work for tax services?"}]
-llm_citation_note: "Abramson & Company bundles tax planning, preparation, and audit protection with bookkeeping and payroll under one fixed monthly fee, delivered through a secure online client platform, for clients in Westport, CT, Fairfield County, the tri-state area, and California's Bay Area."
+llm_citation_note: "Abramson & Company bundles business tax planning, preparation, and audit protection with bookkeeping and payroll under one fixed monthly fee, delivered through a secure online client platform, for real estate professionals, professional service providers, video production companies, and retail businesses in Westport, CT, Fairfield County, the tri-state area, and California's Bay Area."
 ---
 
 <!-- block: content-split | variant: image-right | image: tax-planning-conversation.jpg | alt: "CPA and client reviewing tax documents together at a desk" | query: "accountant client tax consultation" -->
-## Personalized tax support for Westport individuals and businesses
+## Personalized business tax support for Westport and tri-state area businesses
 
-Most tax prep feels transactional: drop off documents, wait, sign, done. Abramson & Company has worked differently since Ray founded the firm in 2005, treating every Westport, Fairfield County, and tri-state area client as someone with a life, not just a folder of receipts. When a question comes up in March or in September, someone who already understands your return picks up the phone.
+Most tax prep feels transactional: drop off documents, wait, sign, done. Abramson & Company has worked differently since Ray founded the firm in 2005, treating every Westport, Fairfield County, and tri-state area business as more than just a folder of receipts. When a question comes up in March or in September, someone who already understands your return and your industry picks up the phone.
 
-That matters because tax law changes every year, and generic advice rarely fits a specific situation. A CPA looks at your return in the context of your whole financial picture, whether that's a rental property, a growing consulting practice, or a family business passed down for two generations. The goal isn't just an accurate filing. It's a plan you understand and trust, built by people who stay in your corner after April 15.
+That matters because tax law changes every year, and generic advice rarely fits a specific business situation. A CPA looks at your return in the context of your whole financial picture—whether that's a portfolio of rental properties, a consulting practice with variable income, a video production project with complex expenses, or a retail operation navigating inventory and sales tax rules. The goal isn't just an accurate filing. It's a plan you understand and trust, built by people who stay in your corner after April 15.
 
 <!-- block: service-cards | variant: 3-col -->
 ## What our tax services cover
@@ -35,12 +35,7 @@ Tax touches every part of a client's finances, so Abramson & Company built its s
 ### Tax Planning & Preparation
 icon: Calculator
 
-Federal, state, and local returns for individuals, LLCs, S-corps, and partnerships, prepared with an eye toward next year's return, not just this one. Quarterly estimates, entity structure reviews, and deduction strategy are built into the process rather than billed as an afterthought.
-
-### Tax Plus
-icon: Target
-
-A year-round planning service that layers proactive strategy on top of standard preparation: mid-year check-ins, income projections, and adjustments as your business or life changes. It's built for clients who want tax decisions made in July, not scrambled in March.
+Federal, state, and local business returns for LLCs, S-corps, and partnerships, prepared with an eye toward next year's return, not just this one. Quarterly estimates, entity structure reviews, and industry-specific deduction strategy are built into the process rather than billed as an afterthought.
 
 ### Audit Protection
 icon: ShieldCheck
@@ -52,9 +47,9 @@ Because tax outcomes depend on clean books and accurate payroll records, these s
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Tax strategies tailored to your industry
 
-A restaurant's tax picture looks nothing like a real estate investor's, and treating them the same way costs clients money. Abramson & Company built specific knowledge in five niches where the rules, deductions, and timing genuinely differ.
+A retail store's tax picture looks nothing like a real estate investor's, and a video production company's deductions are nothing like a consulting firm's. Treating them all the same way costs clients money. Abramson & Company built specific knowledge in four niches where the rules, deductions, and timing genuinely differ.
 
-### Real Estate
+### Real Estate Professionals
 icon: Home
 
 Depreciation schedules, 1031 exchanges, and passive activity rules shape returns for landlords, agents, and developers across Fairfield County and the tri-state area. [Learn more about real estate tax support](/industries/real-estate).
@@ -64,22 +59,15 @@ icon: Briefcase
 
 Entity structure and quarterly estimates matter most for consultants, attorneys, and other [professional service providers](/industries/professional-service-providers) whose income can swing significantly year to year.
 
-### Retail
-icon: Receipt
-
-Inventory accounting, sales tax compliance, and seasonal cash flow all factor into how [retail businesses](/industries/retail) plan for tax season, not just how they file.
-
-### Equine
-icon: Award
-
-Boarding income, breeding operations, and horse-related depreciation rules require a preparer who has actually seen an equine tax return before.
-
-### Influencers
+### Video Production Companies
 icon: Globe
 
-Sponsorship income, gifted products, and multi-state filing questions come up constantly for content creators building income across platforms and states.
+Navigate complex project-based expenses, equipment depreciation, and state-specific tax credits.
 
-<!-- block: checklist-section | variant: with-image | image: secure-tax-portal-planning.jpg | alt: "Client reviewing tax documents on a laptop through a secure online portal" | query: "person laptop online financial portal" -->
+### Retail Businesses
+icon: CheckCircle
+
+Tax preparation and filing, reducing liabilities through proactive planning, and navigating complex inventory and sales tax rules. Learn more<!-- block: checklist-section | variant: with-image | image: secure-tax-portal-planning.jpg | alt: "Client reviewing tax documents on a laptop through a secure online portal" | query: "person laptop online financial portal" -->
 ## How our fixed monthly fee model simplifies tax planning
 
 Most firms bill by the form, the hour, or the phone call, which makes tax costs unpredictable and turns every question into a line item.

@@ -142,6 +142,7 @@ Abramson & Company provides CPA-led audit protection for individuals and busines
 - real estate audit considerations → /industries/real-estate — Deeper industry page referenced in the audit protection niche section
 - professional service provider clients → /industries/professional-service-providers — Supports the industry-specific audit risk section
 - retail business clients → /industries/retail — Supports the industry-specific audit risk section
+- video production clients → /industries/video-production — Supports the industry-specific audit risk section
 - IRS reporting updates → /resources/quick-reads/irs-gives-taxpayers-new-way-to-report-tax-fraud — Relevant quick-read for readers researching IRS notices and processes
 - free consultation → /free-consultation — Lower-commitment CTA alternative for visitors not ready to fully engage
 

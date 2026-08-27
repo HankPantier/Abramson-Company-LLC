@@ -41,10 +41,10 @@ Setup work goes fine until it's rushed. Here's exactly what happens when Abramso
 
 By the time we hand off your finished system, it's already been tested against a full month of real transactions, not a demo account.
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Built around your business, not a generic template
 
-A chart of accounts that works for a real estate investor doesn't work for a retail shop, and neither works for an equine business tracking boarding income and vet costs. We build your setup around the business you actually run.
+A chart of accounts that works for a real estate investor doesn't work for a retail shop, and neither works for a video production company tracking project budgets and equipment costs. We build your QuickBooks Online setup around the business you actually run.
 
 ### Real Estate
 icon: Home
@@ -61,15 +61,10 @@ icon: Building2
 
 Inventory, cost of goods sold, and multi-location sales require a setup that separates margin from overhead from day one. See our [retail](/industries/retail) approach.
 
-### Equine
-icon: HeartPulse
+### Video Production
+icon: Video
 
-Boarding fees, vet bills, feed costs, and breeding income each need their own line so you know what's actually profitable.
-
-### Influencers
-icon: Sparkles
-
-Sponsorship income, platform payouts, and equipment expenses get tracked separately so tax time doesn't turn into a scramble.
+Project revenue, freelance crew costs, equipment depreciation, and licensing fees each need their own line so you know exactly where the money goes on every production.
 
 <!-- block: content-split | variant: image-left | image: secure-client-portal-review.jpg | alt: "Client and accountant reviewing accounting setup progress on secure online platform" | query: "client accountant reviewing documents online screen" -->
 ## Collaborate in real time on our secure platform

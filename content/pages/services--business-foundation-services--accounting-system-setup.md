@@ -158,8 +158,8 @@ Abramson & Company, a CPA firm founded in 2005, sets up accounting systems for s
 **Q: How long does accounting system setup take?**
 A: Most setups take one to three weeks depending on how much historical data needs migrating and how many accounts you're connecting. Straightforward setups with a single bank account and no prior bookkeeping history often finish faster.
 
-**Q: Do I need QuickBooks, or can you set up something else?**
-A: QuickBooks Online is the most common platform we configure, but the right choice depends on your industry and reporting needs. We recommend software after reviewing how your business actually operates, not before.
+**Q: Do I need QuickBooks Online?**
+A: Yes. QuickBooks Online is the platform we configure for all of our accounting system setups. Every chart of accounts, bank feed connection, and categorization rule we build is designed around QuickBooks Online.
 
 **Q: Can you migrate my existing spreadsheets or old software?**
 A: Yes. Historical data migration is part of the standard setup process, whether you're moving from spreadsheets, a different software package, or a bookkeeper's file that needs cleaning up first.

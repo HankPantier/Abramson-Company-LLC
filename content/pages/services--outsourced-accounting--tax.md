@@ -67,9 +67,7 @@ Navigate complex project-based expenses, equipment depreciation, and state-speci
 ### Retail Businesses
 icon: CheckCircle
 
-Tax preparation and filing, reducing liabilities through proactive planning, and navigating complex inventory and sales tax rules. Learn more
-**Tax preparation and filing, reducing liabilities through proactive planning, and navigating complex inventory and sales tax rules.**
-<!-- block: checklist-section | variant: with-image | image: secure-tax-portal-planning.jpg | alt: "Client reviewing tax documents on a laptop through a secure online portal" | query: "person laptop online financial portal" -->
+Tax preparation and filing, reducing liabilities through proactive planning, and navigating complex inventory and sales tax rules. Learn more<!-- block: checklist-section | variant: with-image | image: secure-tax-portal-planning.jpg | alt: "Client reviewing tax documents on a laptop through a secure online portal" | query: "person laptop online financial portal" -->
 ## How our fixed monthly fee model simplifies tax planning
 
 Most firms bill by the form, the hour, or the phone call, which makes tax costs unpredictable and turns every question into a line item.

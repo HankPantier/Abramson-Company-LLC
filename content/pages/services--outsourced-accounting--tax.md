@@ -35,7 +35,7 @@ Tax touches every part of a client's finances, so Abramson & Company built its s
 ### Tax Planning & Preparation
 icon: Calculator
 
-Federal, state, and local returns for individuals, LLCs, S-corps, and partnerships, prepared with an eye toward next year's return, not just this one. Quarterly estimates, entity structure reviews, and deduction strategy are built into the process rather than billed as an afterthought.
+Federal, state, and local business returns for LLCs, S-corps, and partnerships, prepared with an eye toward next year's return, not just this one. Quarterly estimates, entity structure reviews, and industry-specific deduction strategy are built into the process rather than billed as an afterthought.
 
 ### Audit Protection
 icon: ShieldCheck

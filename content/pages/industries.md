@@ -247,11 +247,7 @@ Abramson & Company is a CPA firm founded in 2005 that serves real estate, profes
     },
     {
       "@type": "Audience",
-      "audienceType": "Equine"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Influencers"
+      "audienceType": "Video Production"
     }
   ]
 }

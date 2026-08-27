@@ -55,16 +55,6 @@ Production budgets, project-based income, equipment depreciation, and crew payro
 Bookkeeping runs through a secure online platform, so production owners can see where a project stands financially without waiting for a month-end report that arrives after the edit is already done.
 
 <!-- block: checklist-section | variant: with-image | image: small-business-team-consultation.jpg | alt: "Small business owners meeting with a CPA advisor at a table" | query: "small business owner meeting advisor" -->
-## Not seeing your industry here
-
-Real estate, professional services, retail, and video production are where Abramson & Company has built specific playbooks, but they aren't the whole client list. Not-for-profits, construction firms, healthcare practices, and early-stage startups bring the same core problem: too much generic information available online, not enough of a CPA who actually returns calls.
-
-- Construction and contracting businesses managing job costing and bonding requirements
-- Healthcare practices balancing billing complexity with staffing costs
-- Not-for-profit organizations needing compliance-ready bookkeeping and reporting
-- Startups building a financial foundation from the first hire
-
-The team-oriented culture at Abramson & Company means more than one person on staff knows your file well enough to step in if needed. If your business doesn't fit neatly into a category above, that's fine.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Industries we serve

@@ -25,9 +25,9 @@ For business owners in Westport and across Fairfield County, entity type analysi
 <!-- block: content-split | variant: image-right | image: business-owner-entity-review.jpg | alt: "Small business owner reviewing entity structure paperwork with an advisor" | query: "small business owner meeting advisor documents" -->
 ## Who benefits most from a professional entity review
 
-New business owners face this decision on day one, often without knowing how much it matters. A [real estate](/industries/real-estate) investor forming an LLC for a rental property, a [professional service provider](/industries/professional-service-providers) setting up a consulting practice, or a [retail](/industries/retail) owner opening a second location each face a different calculation. Guess wrong, and unwinding the paperwork later costs more than getting it right the first time.
+New business owners face this decision on day one, often without knowing how much it matters. A [real estate](/industries/real-estate) investor forming an LLC for a rental property, a [professional service provider](/industries/professional-service-providers) setting up a consulting practice, a [retail](/industries/retail) owner opening a second location, or a video production company managing project-based revenue each face a different calculation. Guess wrong, and unwinding the paperwork later costs more than getting it right the first time.
 
-Established businesses need this review too. An equine business scaling from hobby to full operation, an influencer whose income has outgrown a sole proprietorship, or a retail partnership bringing on new owners all reach a point where the original structure no longer fits. Restructuring isn't a sign something went wrong. It's what growth looks like on paper.
+Established businesses need this review too. A real estate professional adding a property management arm, a consulting firm bringing on partners, a retailer expanding into e-commerce, or a video production company transitioning from freelance to a formal business entity can all reach a point where the original structure no longer fits. Restructuring isn't a sign something went wrong. It's what growth looks like on paper.
 
 <!-- block: process-steps | variant: vertical -->
 ## How our CPA-led process works

@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "industries-we-serve-westport-ct.jpg"
 hero_image_alt: "CPA meeting with a small business owner in a Westport CT office"
-hero_subhead: "CPA-led bookkeeping, payroll, and tax support built around real estate, retail, equine, and creator businesses across Fairfield County"
+hero_subhead: "CPA-led bookkeeping, payroll, and tax support built around real estate, retail, professional services, and video production businesses across Fairfield County"
 hero_headline: "CPA expertise built around your industry"
 answer_block: "Abramson & Company serves real estate professionals, professional service providers, retail businesses, equine industry clients, and influencers across Westport, Fairfield County, and the tri-state area. The firm bundles CPA-led bookkeeping, payroll, tax, and advisory services for a fixed monthly fee, with support delivered through a secure online collaboration platform."
 eeat_signals: ["Firm founded in 2005 and operating in its current form since","CPA-led team serving Westport, CT, Fairfield County, and the tri-state area of CT, NY, and NJ","Niche specialization in equine industry accounting, a specialty rarely listed by CPA firms","Team-oriented culture where multiple staff members know each client file well enough to step in"]

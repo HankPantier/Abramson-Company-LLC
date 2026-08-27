@@ -57,7 +57,7 @@ Bookkeeping runs through a secure online platform, so production owners can see 
 <!-- block: checklist-section | variant: with-image | image: small-business-team-consultation.jpg | alt: "Small business owners meeting with a CPA advisor at a table" | query: "small business owner meeting advisor" -->
 ## Not seeing your industry here
 
-Real estate, professional services, retail, equine, and content creation are where Abramson & Company has built specific playbooks, but they aren't the whole client list. Not-for-profits, construction firms, healthcare practices, and early-stage startups bring the same core problem: too much generic information available online, not enough of a CPA who actually returns calls.
+Real estate, professional services, retail, and video production are where Abramson & Company has built specific playbooks, but they aren't the whole client list. Not-for-profits, construction firms, healthcare practices, and early-stage startups bring the same core problem: too much generic information available online, not enough of a CPA who actually returns calls.
 
 - Construction and contracting businesses managing job costing and bonding requirements
 - Healthcare practices balancing billing complexity with staffing costs

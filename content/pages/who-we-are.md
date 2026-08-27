@@ -4,7 +4,7 @@ url: "/who-we-are"
 meta_title: "Who We Are | Westport, CT CPA Firm Since 2005"
 meta_description: "Meet the Westport, CT CPA firm behind Abramson & Company. Founded in 2005, we bundle bookkeeping, tax, payroll, and advisory into one fixed-fee, personal service."
 target_keyword: "who we are westport, ct"
-secondary_keywords: ["Westport CT CPA firm","CPA firm Fairfield County","accounting firm Westport Connecticut"]
+secondary_keywords: ["Westport CT CPA firm","CPA firm Fairfield County","accounting firm Westport Connecticut","CPA for real estate professionals","CPA for video production companies","CPA for professional service providers","CPA for retail businesses"]
 canonical_url: "https://www.abramsonco.com/who-we-are"
 schema_markup: "AboutPage"
 hero: "hero-split"

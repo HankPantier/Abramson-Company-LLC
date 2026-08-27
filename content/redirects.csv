@@ -25,3 +25,4 @@ old_url,new_url,status_code,reason
 /services/accounting-system-setup,/services/business-foundation-services/accounting-system-setup,301,Relocated via AI
 /services/retirement-plan-analysis,/services/business-foundation-services/retirement-plan-analysis,301,Relocated via AI
 /services/audit-protection,/services/outsourced-accounting/tax/audit-protection,301,Relocated via AI
+/services/outsourced-accounting/tax/audit-protection,/services/outsourced-accounting/business-tax/audit-protection,301,Relocated via AI

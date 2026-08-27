@@ -251,10 +251,10 @@ Abramson & Company builds accounting systems, including chart of accounts design
     },
     {
       "@type": "Question",
-      "name": "Do I need QuickBooks, or can you set up something else?",
+      "name": "Do I need QuickBooks Online?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "QuickBooks Online is the most common platform we configure, but the right choice depends on your industry and reporting needs. We recommend software after reviewing how your business actually operates, not before."
+        "text": "Yes. QuickBooks Online is the platform we configure for all of our accounting system setups. Every chart of accounts, bank feed connection, and categorization rule we build is designed around QuickBooks Online."
       }
     },
     {

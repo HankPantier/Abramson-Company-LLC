@@ -111,7 +111,7 @@ A: Yes. Abramson & Company is based in Westport and serves Fairfield County clos
 
 Ray founded Abramson & Company in 2005 because business owners needed more than a once-a-year tax preparer. Nearly two decades later, that's still the job: a CPA-led team that knows your business well enough to help you make decisions, not just file paperwork after the fact.
 
-If you're running a real estate portfolio, a retail shop, a professional practice, an equine operation, or a growing influencer brand, and you're tired of piecing together advice from a dozen sources, let's talk. A short conversation is enough to see whether our business management services fit how you actually work.
+If you're running a real estate portfolio, a retail shop, a professional practice, or a video production company, and you're tired of piecing together advice from a dozen sources, let's talk. A short conversation is enough to see whether our business management services fit how you actually work.
 
 [Schedule a consultation](/contact)
 

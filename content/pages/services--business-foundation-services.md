@@ -113,7 +113,7 @@ Business foundation services from Abramson & Company give new business owners in
 **E-E-A-T Signals:**
 - Firm founded in its current form in 2005 by Ray
 - Team-oriented culture where multiple staff members know each client account
-- Direct experience with niche industries including equine businesses and influencers
+- Direct experience with real estate, professional service providers, video production companies, and retail businesses
 - CPA-led entity type analysis and accounting system setup
 - Secure online platform for real-time client collaboration
 - Serves Westport, CT, Fairfield County, and the tri-state CT/NY/NJ area plus Bay Area, CA clients

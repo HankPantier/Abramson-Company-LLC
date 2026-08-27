@@ -37,11 +37,6 @@ icon: Calculator
 
 Federal, state, and local returns for individuals, LLCs, S-corps, and partnerships, prepared with an eye toward next year's return, not just this one. Quarterly estimates, entity structure reviews, and deduction strategy are built into the process rather than billed as an afterthought.
 
-### Tax Plus
-icon: Target
-
-A year-round planning service that layers proactive strategy on top of standard preparation: mid-year check-ins, income projections, and adjustments as your business or life changes. It's built for clients who want tax decisions made in July, not scrambled in March.
-
 ### Audit Protection
 icon: ShieldCheck
 
@@ -54,7 +49,7 @@ Because tax outcomes depend on clean books and accurate payroll records, these s
 
 A restaurant's tax picture looks nothing like a real estate investor's, and treating them the same way costs clients money. Abramson & Company built specific knowledge in five niches where the rules, deductions, and timing genuinely differ.
 
-### Real Estate
+### Real Estate Professionals
 icon: Home
 
 Depreciation schedules, 1031 exchanges, and passive activity rules shape returns for landlords, agents, and developers across Fairfield County and the tri-state area. [Learn more about real estate tax support](/industries/real-estate).
@@ -64,21 +59,16 @@ icon: Briefcase
 
 Entity structure and quarterly estimates matter most for consultants, attorneys, and other [professional service providers](/industries/professional-service-providers) whose income can swing significantly year to year.
 
-### Retail
-icon: Receipt
-
-Inventory accounting, sales tax compliance, and seasonal cash flow all factor into how [retail businesses](/industries/retail) plan for tax season, not just how they file.
-
-### Equine
-icon: Award
-
-Boarding income, breeding operations, and horse-related depreciation rules require a preparer who has actually seen an equine tax return before.
-
-### Influencers
+### Video Production Companies
 icon: Globe
 
-Sponsorship income, gifted products, and multi-state filing questions come up constantly for content creators building income across platforms and states.
+Navigate complex project-based expenses, equipment depreciation, and state-specific tax credits.
 
+### Retail Businesses
+icon: CheckCircle
+
+Tax preparation and filing, reducing liabilities through proactive planning, and navigating complex inventory and sales tax rules. Learn more
+**Tax preparation and filing, reducing liabilities through proactive planning, and navigating complex inventory and sales tax rules.**
 <!-- block: checklist-section | variant: with-image | image: secure-tax-portal-planning.jpg | alt: "Client reviewing tax documents on a laptop through a secure online portal" | query: "person laptop online financial portal" -->
 ## How our fixed monthly fee model simplifies tax planning
 

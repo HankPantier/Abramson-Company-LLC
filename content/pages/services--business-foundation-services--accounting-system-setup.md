@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "accounting-system-setup-westport.jpg"
 hero_image_alt: "CPA configuring QuickBooks accounting system on laptop with small business owner"
-hero_subhead: "A chart of accounts and software setup built for your business, guided by a CPA from the first entry"
+hero_subhead: "A chart of accounts and QuickBooks Online setup built for your industry, guided by a CPA from the first entry"
 hero_headline: "Get a solid accounting foundation from day one"
 answer_block: "Abramson & Company, a CPA firm founded in 2005, sets up accounting systems for small businesses in Westport, CT and Fairfield County, including chart of accounts design, QuickBooks configuration, bank feed connections, and data migration. Setup is built around your industry, whether real estate, retail, professional services, or video production, and connects directly into ongoing bookkeeping and tax support."
 eeat_signals: ["Firm founded in 2005 by Ray Abramson","Team-oriented staffing model so multiple team members know each client's setup and history","CPA-led accounting system setup across bookkeeping, payroll, tax, and advisory services","Serves niche industries including real estate, professional services, retail, and video production","Serves Westport, Fairfield County, the CT/NY/NJ tri-state area, and Bay Area California clients"]

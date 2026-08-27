@@ -104,7 +104,7 @@ Abramson & Company serves real estate professionals, professional service provid
 - real estate professionals → /industries/real-estate — Links to the dedicated real estate industry page for deeper detail
 - professional service providers → /industries/professional-service-providers — Links to the detailed page for law firms and consultants
 - retail businesses → /industries/retail — Links to retail-specific accounting support page
-- content creator finances → /industries/video-production — Closest existing niche page covering video and content creator businesses
+- video production companies → /industries/video-production — Links to the dedicated video production industry page
 - bundled bookkeeping, payroll, and tax services → /services — Points to the full service overview supporting the differentiator claim
 - Schedule a consultation → /contact — Primary page CTA directing visitors to book a meeting
 

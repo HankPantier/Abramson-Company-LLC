@@ -52,34 +52,29 @@ More importantly, more than one person on our team knows your business well enou
 For a business owner, that means fewer dropped threads and less time spent re-explaining your own company to whoever happens to answer the phone.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for real estate, professional services, retail, equine, and influencer businesses
+## Built for real estate, professional services, video production, and retail businesses
 
 Different industries carry different operational headaches. Here's where our business management clients typically need the most support.
 
 ### Real Estate
 icon: Building2
 
-Multi-entity structures, property-level P&Ls, and 1031 timelines mean [real estate](/industries/real-estate) clients need reporting that rolls up cleanly across properties and partnerships. We track cash flow by entity so you can see which properties are actually performing.
+Multi-entity structures, property-level P&Ls, and 1031 timelines mean [real estate](/industries/real-estate) clients need reporting that rolls up cleanly across properties and partnerships. We track income and expenses by entity so you can see which properties are actually performing.
 
 ### Professional Service Providers
 icon: Briefcase
 
-[Law firms, consultancies, and agencies](/industries/professional-service-providers) deal with uneven billing cycles and partner draws that complicate cash flow planning. We coordinate payroll, partner distributions, and tax planning so cash on hand matches what's actually owed.
+[Law firms, consultancies, and agencies](/industries/professional-service-providers) deal with uneven billing cycles and partner draws that complicate financial planning. We coordinate payroll, partner distributions, and tax planning so your financials stay clear and your obligations are never a surprise.
+
+### Video Production Companies
+icon: Video
+
+Production budgets, project-based revenue, and irregular payment schedules create financial complexity that standard bookkeeping templates don't handle well. We build reporting around project timelines and cost tracking so you always know where each production stands financially.
 
 ### Retail
 icon: Receipt
 
 Inventory financing, seasonal swings, and thin margins mean [retail](/industries/retail) businesses need close, current numbers, not a report that shows up six weeks late. We keep clients current on cost of goods, inventory turns, and vendor terms.
-
-### Equine Businesses
-icon: HeartPulse
-
-Boarding income, vet and farrier bills, and seasonal show expenses create cash flow patterns that don't look like a typical small business. We build reporting around those rhythms instead of forcing a generic template onto an equine operation.
-
-### Influencers and Content Creators
-icon: Sparkles
-
-Brand deal income, platform payouts, and self-employment tax obligations arrive unevenly and from multiple sources. We help track income by channel and plan tax payments so a good month doesn't turn into a tax-time surprise.
 
 <!-- block: content-split | variant: image-left | image: secure-client-portal-review.jpg | alt: "Business owner reviewing financial dashboard on a laptop with an advisor" | query: "business owner laptop financial dashboard review" -->
 ## Real-time visibility through a secure online platform

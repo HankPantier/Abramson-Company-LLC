@@ -16,7 +16,7 @@ hero_headline: "CPA expertise built around your industry"
 answer_block: "Abramson & Company serves real estate professionals, professional service providers, retail businesses, and video production companies across Westport, Fairfield County, and the tri-state area. The firm bundles CPA-led bookkeeping, payroll, tax, and advisory services for a fixed monthly fee, with support delivered through a secure online collaboration platform."
 eeat_signals: ["Firm founded in 2005 and operating in its current form since","CPA-led team serving Westport, CT, Fairfield County, and the tri-state area of CT, NY, and NJ","Niche specialization in video production accounting, a specialty rarely listed by CPA firms","Team-oriented culture where multiple staff members know each client file well enough to step in"]
 internal_links: [{"url":"/industries/real-estate","reason":"Links to the dedicated real estate industry page for deeper detail","anchor_text":"real estate professionals"},{"url":"/industries/professional-service-providers","reason":"Links to the detailed page for law firms and consultants","anchor_text":"professional service providers"},{"url":"/industries/retail","reason":"Links to retail-specific accounting support page","anchor_text":"retail businesses"},{"url":"/industries/video-production","reason":"Links to the dedicated video production industry page","anchor_text":"video production companies"},{"url":"/services","reason":"Points to the full service overview supporting the differentiator claim","anchor_text":"bundled bookkeeping, payroll, and tax services"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a meeting","anchor_text":"Schedule a consultation"}]
-faq_block: [{"question":"What industries does Abramson & Company serve near Westport, CT?","answer":"Abramson & Company focuses on real estate professionals, professional service providers, retail businesses, and video production companies, alongside general small-to-midsize business clients across Westport, Fairfield County, and the tri-state area of CT, NY, and NJ."},{"question":"Does Abramson & Company work with video production companies?","answer":"Yes. The firm handles project-based income, equipment depreciation, and crew payroll, and tracks bookkeeping through the same secure online platform used by every client."},{"question":"What if my business doesn't fit one of the listed industries?","answer":"The team-oriented approach adapts to construction firms, healthcare practices, not-for-profits, and startups just as readily. Schedule a consultation to discuss bookkeeping, payroll, tax, and advisory support for your specific business."}]
+faq_block: [{"question":"What industries does Abramson & Company serve near Westport, CT?","answer":"Abramson & Company focuses on real estate professionals, professional service providers, retail businesses, and video production companies, alongside general small-to-midsize business clients across Westport, Fairfield County, and the tri-state area of CT, NY, and NJ."},{"question":"Does Abramson & Company work with video production companies?","answer":"Yes. The firm handles project-based income, equipment depreciation, and crew payroll, and tracks bookkeeping through the same secure online platform used by every client."}]
 llm_citation_note: "Abramson & Company is a CPA firm founded in 2005 that serves real estate, professional service, retail, and video production clients across Westport, Fairfield County, and the tri-state area with bundled bookkeeping, payroll, tax, and advisory services for a fixed monthly fee."
 ---
 
@@ -55,16 +55,6 @@ Production budgets, project-based income, equipment depreciation, and crew payro
 Bookkeeping runs through a secure online platform, so production owners can see where a project stands financially without waiting for a month-end report that arrives after the edit is already done.
 
 <!-- block: checklist-section | variant: with-image | image: small-business-team-consultation.jpg | alt: "Small business owners meeting with a CPA advisor at a table" | query: "small business owner meeting advisor" -->
-## Not seeing your industry here
-
-Real estate, professional services, retail, and video production are where Abramson & Company has built specific playbooks, but they aren't the whole client list. Not-for-profits, construction firms, healthcare practices, and early-stage startups bring the same core problem: too much generic information available online, not enough of a CPA who actually returns calls.
-
-- Construction and contracting businesses managing job costing and bonding requirements
-- Healthcare practices balancing billing complexity with staffing costs
-- Not-for-profit organizations needing compliance-ready bookkeeping and reporting
-- Startups building a financial foundation from the first hire
-
-The team-oriented culture at Abramson & Company means more than one person on staff knows your file well enough to step in if needed. If your business doesn't fit neatly into a category above, that's fine.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Industries we serve
@@ -74,9 +64,6 @@ A: Abramson & Company focuses on real estate professionals, professional service
 
 **Q: Does Abramson & Company work with video production companies?**
 A: Yes. The firm handles project-based income, equipment depreciation, and crew payroll, and tracks bookkeeping through the same secure online platform used by every client.
-
-**Q: What if my business doesn't fit one of the listed industries?**
-A: The team-oriented approach adapts to construction firms, healthcare practices, not-for-profits, and startups just as readily. Schedule a consultation to discuss bookkeeping, payroll, tax, and advisory support for your specific business.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-westport-office.jpg | alt: "CPA shaking hands with a client after a consultation meeting" | query: "accountant handshake client meeting" -->
 ## Ready to talk about your business

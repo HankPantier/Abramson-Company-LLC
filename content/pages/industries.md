@@ -2,7 +2,7 @@
 title: "Industries we serve | Abramson & Company LLC"
 url: "/industries"
 meta_title: "Industries We Serve in Westport, CT | Abramson & Co"
-meta_description: "CPA firm serving Westport, CT and Fairfield County across real estate, retail, professional services, equine, and influencer industries with bundled tax and bookkeeping support."
+meta_description: "CPA firm serving Westport, CT and Fairfield County across real estate, retail, professional services, and video production with bundled tax and bookkeeping support."
 target_keyword: "industries we serve westport, ct"
 secondary_keywords: ["CPA firm Fairfield County","small business accountant Westport CT","real estate CPA Westport","equine business accountant","influencer tax accountant"]
 canonical_url: "https://www.abramsonco.com/industries"

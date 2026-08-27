@@ -11,8 +11,8 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "westport-personal-tax-consultation.jpg"
 hero_image_alt: "CPA discussing personal tax return with a client in a Westport office"
-hero_subhead: "Straight answers on your personal tax return from a CPA who already knows Fairfield County and tri-state tax rules"
-hero_headline: "Personal tax help built for Westport and Fairfield County residents"
+hero_subhead: "Straight answers on your personal tax return from a CPA who already knows Fairfield County, tri-state, and cross-border tax rules"
+hero_headline: "Personal income tax preparation for Westport and Fairfield County residents"
 answer_block: "Abramson & Company is a CPA firm in Westport, CT that prepares personal income tax returns for individuals across Fairfield County and the CT-NY-NJ tri-state area, plus Bay Area clients. Founded in 2005, the firm handles federal and multi-state filings, year-round tax planning, and audit protection under one CPA-led team."
 eeat_signals: ["Firm founded in 2005 by Ray","CPA-led review of every personal tax return","Serves Westport, Fairfield County, and the CT-NY-NJ tri-state area, plus Bay Area clients","Team-oriented culture with multiple staff familiar with each client file","Bundled fixed-monthly-fee service model","Secure online platform for real-time document collaboration"]
 internal_links: [{"url":"/services/tax","reason":"Cross-sell to owners whose personal return connects to a business filing","anchor_text":"business tax services"},{"url":"/services/audit-protection","reason":"Directly supports the audit protection deliverable mentioned in the outline","anchor_text":"audit protection"},{"url":"/services/bookkeeping","reason":"Reinforces bundled service coordination for business owners","anchor_text":"bookkeeping services"},{"url":"/industries/real-estate","reason":"Supports the niche-strategy section referencing real estate clients","anchor_text":"real estate professionals"},{"url":"/free-consultation","reason":"Alternative conversion path for visitors not ready to fill out the contact form","anchor_text":"schedule a free consultation"}]

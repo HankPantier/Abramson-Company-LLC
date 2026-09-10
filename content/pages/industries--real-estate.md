@@ -35,7 +35,10 @@ Property income rarely fits into one bucket. Rental cash flow, commission checks
 ### Outsourced Accounting
 icon: Briefcase
 
-A full accounting department without the overhead — bookkeeping, payroll, tax preparation and planning, audit protection, and advisory services built around property income, rent rolls, commission structures, and multi-entity portfolios. [Learn more](/services/outsourced-accounting)
+A full accounting department without the overhead — bookkeeping, payroll, tax preparation and planning, audit protection, and advisory services built around property income, rent rolls, commission structures, and multi-entity portfolios.
+**Services tailored to property income and transactions**
+
+[Learn more](/services/outsourced-accounting)
 
 ### Business Foundation Services
 icon: Building2

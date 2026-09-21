@@ -43,3 +43,4 @@ old_url,new_url,status_code,reason
 /services/outsourced-accounting,/what-we-do/outsourced-accounting,301,Relocated via AI
 /services/business-foundation-services,/what-we-do/business-foundation-services,301,Relocated via AI
 /services/business-management-services,/what-we-do/business-management-services,301,Relocated via AI
+/services,/what-we-do,301,Relocated via AI

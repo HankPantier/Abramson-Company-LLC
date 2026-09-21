@@ -40,3 +40,4 @@ old_url,new_url,status_code,reason
 /resources/video-library,/resources/resource-library/video-library,301,Nested via nav editor
 /services/business-tax,/what-we-do/business-tax,301,Relocated via AI
 /services/tax-plus,/what-we-do/tax-plus,301,Relocated via AI
+/services/outsourced-accounting,/what-we-do/outsourced-accounting,301,Relocated via AI

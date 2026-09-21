@@ -38,3 +38,4 @@ old_url,new_url,status_code,reason
 /resources/forms-documents-and-links,/resources/resource-library/forms-documents-and-links,301,Nested via nav editor
 /resources/refund-tracker,/resources/resource-library/refund-tracker,301,Nested via nav editor
 /resources/video-library,/resources/resource-library/video-library,301,Nested via nav editor
+/services/business-tax,/what-we-do/business-tax,301,Relocated via AI

@@ -1,56 +1,52 @@
 {
   "primary": [
     {
-      "label": "Who We Are",
-      "url": "/who-we-are"
-    },
-    {
       "label": "Services",
-      "url": "/services",
+      "url": "/what-we-do",
       "children": [
         {
           "label": "Bookkeeping",
-          "url": "/services/outsourced-accounting/bookkeeping"
+          "url": "/what-we-do/bookkeeping"
         },
         {
           "label": "Payroll",
-          "url": "/services/outsourced-accounting/payroll"
+          "url": "/what-we-do/payroll"
         },
         {
           "label": "Business Tax",
-          "url": "/services/outsourced-accounting/business-tax"
+          "url": "/what-we-do/business-tax"
         },
         {
           "label": "Personal income tax",
-          "url": "/services/tax-plus"
+          "url": "/what-we-do/tax-plus"
         },
         {
           "label": "Outsourced accounting",
-          "url": "/services/outsourced-accounting"
+          "url": "/what-we-do/outsourced-accounting"
         },
         {
           "label": "Business foundation services",
-          "url": "/services/business-foundation-services/"
+          "url": "/what-we-do/business-foundation-services"
         },
         {
           "label": "Audit protection",
-          "url": "/services/outsourced-accounting/business-tax/audit-protection"
+          "url": "/what-we-do/audit-protection"
         },
         {
           "label": "Entity type analysis",
-          "url": "/services/business-foundation-services/entity-type-analysis"
+          "url": "/what-we-do/entity-type-analysis"
         },
         {
           "label": "Accounting system setup",
-          "url": "/services/business-foundation-services/accounting-system-setup"
+          "url": "/what-we-do/accounting-system-setup"
         },
         {
           "label": "Retirement plan analysis",
-          "url": "/services/business-foundation-services/retirement-plan-analysis"
+          "url": "/what-we-do/retirement-plan-analysis"
         },
         {
           "label": "Business management services",
-          "url": "/services/business-management-services"
+          "url": "/what-we-do/business-management-services"
         }
       ]
     },
@@ -77,31 +73,30 @@
       ]
     },
     {
+      "label": "Who We Are",
+      "url": "/industries/who-we-are"
+    },
+    {
       "label": "Resource library",
       "url": "/resources/resource-library",
       "children": [
         {
           "label": "Forms documents and links",
-          "url": "/resources/forms-documents-and-links"
+          "url": "/resources/resource-library/forms-documents-and-links"
         },
         {
           "label": "Refund tracker",
-          "url": "/resources/refund-tracker"
+          "url": "/resources/resource-library/refund-tracker"
         },
         {
           "label": "Video library",
-          "url": "/resources/video-library"
+          "url": "/resources/resource-library/video-library"
         },
         {
           "label": "Quick reads",
-          "url": "/resources/quick-reads",
-          "children": []
+          "url": "/resources/resource-library/quick-reads"
         }
       ]
-    },
-    {
-      "label": "Client success stories",
-      "url": "/testimonials"
     },
     {
       "label": "Careers",
@@ -114,10 +109,6 @@
     {
       "label": "Contact",
       "url": "/contact"
-    },
-    {
-      "label": "Schedule a free consultation",
-      "url": "/free-consultation"
     }
   ]
 }

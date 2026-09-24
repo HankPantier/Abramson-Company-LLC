@@ -1,11 +1,11 @@
 ---
 title: "Video Production | Abramson & Company LLC"
-url: "/industries/video-production"
+url: "/specialties/video-production"
 meta_title: "CPA for Video Production Companies in Westport, CT"
 meta_description: "Abramson & Company offers CPA-led bookkeeping, payroll, tax planning, and advisory services for video production companies in Westport, CT and Fairfield County."
 target_keyword: "CPA for video production companies Westport CT"
 secondary_keywords: ["video production accounting services Westport","bookkeeping for video production Connecticut","tax services video production Westport CT","video production business accountant near me","payroll services video production companies CT","outsourced accounting video production Westport","tax planning video production professionals","media production CPA Westport Connecticut","film production tax accountant CT","production company bookkeeper Westport"]
-canonical_url: "https://www.abramsonco.com/industries/video-production"
+canonical_url: "https://www.abramsonco.com/specialties/video-production"
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "Bookkeeping, payroll, and tax planning built for project-based production income and freelance crews"

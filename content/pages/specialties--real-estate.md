@@ -1,11 +1,11 @@
 ---
 title: "Real estate accounting | Abramson & Company LLC"
-url: "/industries/real-estate"
+url: "/specialties/real-estate"
 meta_title: "Real Estate Accounting in Westport, CT | Abramson & Co."
 meta_description: "CPA-led real estate accounting in Westport, CT for agents, investors, and property managers. Tax strategy, bookkeeping, and payroll on one secure platform."
 target_keyword: "real estate accounting westport, ct"
 secondary_keywords: ["real estate CPA Fairfield County","1031 exchange tax planning","property management bookkeeping","real estate investor tax strategy CT"]
-canonical_url: "https://www.abramsonco.com/industries/real-estate"
+canonical_url: "https://www.abramsonco.com/specialties/real-estate"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"

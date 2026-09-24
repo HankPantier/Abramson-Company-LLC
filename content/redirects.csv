@@ -47,3 +47,5 @@ old_url,new_url,status_code,reason
 /what-we-do/tax-plus,/what-we-do/personal-income-tax,301,Relocated via AI
 /what-we-do/business-tax,/what-we-do/tax,301,Relocated via AI
 /resources/careers,/industries/who-we-are/careers,301,Nested via nav editor
+/industries/who-we-are/careers,/who-we-are/careers,301,Relocated via AI
+/industries/who-we-are,/who-we-are,301,Relocated via AI

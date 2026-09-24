@@ -74,11 +74,11 @@
     },
     {
       "label": "Who We Are",
-      "url": "/industries/who-we-are",
+      "url": "/who-we-are",
       "children": [
         {
           "label": "Careers",
-          "url": "/industries/who-we-are/careers"
+          "url": "/who-we-are/careers"
         }
       ]
     },

@@ -70,7 +70,7 @@ Having someone to call before you make a decision, not just after, is the differ
 
 ## A CPA team that knows your business by name
 
-Ray founded Abramson & Company in its current form in 2005, and the firm has kept a deliberately team-oriented culture since. Multiple people on our team know each client's business well enough to step in for one another, so you're never stuck waiting on one person's calendar to get an answer.
+At Abramson & Company, we take pride in maintaining a team-oriented culture. Multiple people on our team know each client's business well enough to step in for one another, so you're never stuck waiting on one person's calendar to get an answer.
 
 We work with small business owners, real estate professionals, retail businesses, and professional service providers across Westport, Fairfield County, and the broader tri-state area of Connecticut, New York, and New Jersey, along with a growing group of clients in California's Bay Area. Read more about how the firm works on our [who we are](/who-we-are) page.
 

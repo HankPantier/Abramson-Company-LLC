@@ -5,6 +5,10 @@
       "url": "/what-we-do",
       "children": [
         {
+          "label": "Outsourced accounting",
+          "url": "/what-we-do/outsourced-accounting"
+        },
+        {
           "label": "Bookkeeping",
           "url": "/what-we-do/bookkeeping"
         },
@@ -17,20 +21,16 @@
           "url": "/what-we-do/tax"
         },
         {
+          "label": "Audit protection",
+          "url": "/what-we-do/audit-protection"
+        },
+        {
           "label": "Personal income tax",
           "url": "/what-we-do/personal-income-tax"
         },
         {
-          "label": "Outsourced accounting",
-          "url": "/what-we-do/outsourced-accounting"
-        },
-        {
           "label": "Business foundation services",
           "url": "/what-we-do/business-foundation-services"
-        },
-        {
-          "label": "Audit protection",
-          "url": "/what-we-do/audit-protection"
         },
         {
           "label": "Entity type analysis",
@@ -74,37 +74,41 @@
     },
     {
       "label": "Who We Are",
-      "url": "/industries/who-we-are"
-    },
-    {
-      "label": "Resource library",
-      "url": "/resources/resource-library",
+      "url": "/industries/who-we-are",
       "children": [
         {
-          "label": "Forms documents and links",
-          "url": "/resources/resource-library/forms-documents-and-links"
-        },
-        {
-          "label": "Refund tracker",
-          "url": "/resources/resource-library/refund-tracker"
-        },
-        {
-          "label": "Video library",
-          "url": "/resources/resource-library/video-library"
-        },
-        {
-          "label": "Quick reads",
-          "url": "/resources/resource-library/quick-reads"
+          "label": "Careers",
+          "url": "/industries/who-we-are/careers"
         }
       ]
     },
     {
-      "label": "Careers",
-      "url": "/resources/careers"
-    },
-    {
       "label": "Resources",
-      "url": "/resources"
+      "url": "/resources",
+      "children": [
+        {
+          "label": "Resource library",
+          "url": "/resources/resource-library",
+          "children": [
+            {
+              "label": "Forms documents and links",
+              "url": "/resources/resource-library/forms-documents-and-links"
+            },
+            {
+              "label": "Refund tracker",
+              "url": "/resources/resource-library/refund-tracker"
+            },
+            {
+              "label": "Video library",
+              "url": "/resources/resource-library/video-library"
+            },
+            {
+              "label": "Quick reads",
+              "url": "/resources/resource-library/quick-reads"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Contact",

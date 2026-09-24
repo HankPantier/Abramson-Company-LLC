@@ -51,24 +51,24 @@
       ]
     },
     {
-      "label": "Industries we serve",
-      "url": "/industries",
+      "label": "Specialties",
+      "url": "/specialties",
       "children": [
         {
           "label": "Real estate accounting",
-          "url": "/industries/real-estate"
+          "url": "/specialties/real-estate"
         },
         {
           "label": "Professional service provider accounting",
-          "url": "/industries/professional-service-providers"
+          "url": "/specialties/professional-service-providers"
         },
         {
           "label": "Retail accounting",
-          "url": "/industries/retail"
+          "url": "/specialties/retail"
         },
         {
           "label": "Video Production",
-          "url": "/industries/video-production"
+          "url": "/specialties/video-production"
         }
       ]
     },

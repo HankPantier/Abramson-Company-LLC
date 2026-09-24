@@ -49,3 +49,8 @@ old_url,new_url,status_code,reason
 /resources/careers,/industries/who-we-are/careers,301,Nested via nav editor
 /industries/who-we-are/careers,/who-we-are/careers,301,Relocated via AI
 /industries/who-we-are,/who-we-are,301,Relocated via AI
+/industries/professional-service-providers,/specialties/professional-service-providers,301,Relocated via AI
+/industries/real-estate,/specialties/real-estate,301,Relocated via AI
+/industries/retail,/specialties/retail,301,Relocated via AI
+/industries/video-production,/specialties/video-production,301,Relocated via AI
+/industries,/specialties,301,Relocated via AI

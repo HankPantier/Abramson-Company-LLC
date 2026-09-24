@@ -1,11 +1,11 @@
 ---
 title: "Retail accounting | Abramson & Company LLC"
-url: "/industries/retail"
+url: "/specialties/retail"
 meta_title: "Retail Accounting Services Westport CT | Abramson & Co"
 meta_description: "CPA-led retail accounting in Westport, CT: bookkeeping, POS reconciliation, payroll, and tax planning for local retailers. Schedule a consultation today."
 target_keyword: "retail accounting services Westport CT"
 secondary_keywords: ["CPA for retail businesses Westport","retail bookkeeping Westport Connecticut","retail tax preparation Westport CT","retail business accounting Westport","outsourced accounting retail Westport CT","retail payroll services Westport","retail financial planning Westport CT","retail store accounting Westport","retail business CPA near me","retail tax services Connecticut","retail audit protection Westport","retail bookkeeper Westport CT","retail business management accounting Westport","retail POS accounting services"]
-canonical_url: "https://www.abramsonco.com/industries/retail"
+canonical_url: "https://www.abramsonco.com/specialties/retail"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"

@@ -54,3 +54,6 @@ old_url,new_url,status_code,reason
 /industries/retail,/specialties/retail,301,Relocated via AI
 /industries/video-production,/specialties/video-production,301,Relocated via AI
 /industries,/specialties,301,Relocated via AI
+/resources/resource-library/forms-documents-and-links,/resources/forms-documents-and-links,301,Nested via nav editor
+/resources/resource-library/refund-tracker,/resources/refund-tracker,301,Nested via nav editor
+/resources/resource-library/video-library,/resources/video-library,301,Nested via nav editor

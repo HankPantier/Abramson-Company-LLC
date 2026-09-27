@@ -15,12 +15,12 @@
     "email": "info@abramsonco.com"
   },
   "palette": {
-    "primary": "#c23c3c",
-    "secondary": "#742424",
-    "complementary": "#3cc2c2",
-    "action": "#40e3e4",
-    "nearBlack": "#3f0706",
-    "nearWhite": "#cfc0be"
+    "primary": "#782223",
+    "secondary": "#4f0008",
+    "complementary": "#ffdfdd",
+    "action": "#9d6900",
+    "nearBlack": "#211514",
+    "nearWhite": "#fef9f8"
   },
   "social": [
     {

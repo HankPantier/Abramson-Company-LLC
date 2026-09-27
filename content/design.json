@@ -2,7 +2,7 @@
   "typography": {
     "headingFont": "Merriweather",
     "bodyFont": "Open Sans",
-    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Merriweather:wght@400;500;700&family=Open+Sans:wght@400;500;700&display=swap",
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Merriweather:wght@400;500;700&family=Open+Sans:wght@400;500;700&family=Fraunces:wght@400;500;700&display=swap",
     "accentFont": "Fraunces"
   },
   "roundness": "sharp",

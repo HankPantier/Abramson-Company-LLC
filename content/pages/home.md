@@ -105,7 +105,7 @@ Abramson & Company works with clients in person around Westport and Fairfield Co
 - Small businesses and real estate professionals: every client gets a team, not one point of contact
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Home
+## Frequently Asked Questions
 
 **Q: Where is Abramson & Company located?**
 A: Abramson & Company is based in Westport, CT, serving clients throughout Fairfield County and the surrounding tri-state area. The firm meets with local clients in person and works remotely with clients further away using its secure online platform.

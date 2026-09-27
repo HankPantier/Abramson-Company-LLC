@@ -27,6 +27,17 @@
   /* Custom brand tokens — used directly by block components via var() */
   --color-action: #40e3e4;
   --color-action-foreground: #cfc0be;
+  /* Action colour for SMALL text, AA-corrected (lightness only) against the
+   * rendered surfaces it sits on: -text on the canvas (background, muted,
+   * card), -text-tint on the 10-15% action-tint badges, -on-primary / -on-ink
+   * in those sections (globals.css re-scopes -text there; -text-canvas keeps
+   * the canvas value for light cards inside them). Each equals --color-action
+   * when the raw colour already passes. */
+  --color-action-text: #005b5c;
+  --color-action-text-canvas: #005b5c;
+  --color-action-text-tint: #005a5b;
+  --color-action-on-primary: #002122;
+  --color-action-on-ink: #40e3e4;
   --color-primary-hex: #c23c3c;
   --color-near-black: #3f0706;
   --color-near-white: #cfc0be;
@@ -100,6 +111,17 @@
   /* Custom brand tokens */
   --color-action: #40e3e4;
   --color-action-foreground: #cfc0be;
+  /* Action colour for SMALL text, AA-corrected (lightness only) against the
+   * rendered surfaces it sits on: -text on the canvas (background, muted,
+   * card), -text-tint on the 10-15% action-tint badges, -on-primary / -on-ink
+   * in those sections (globals.css re-scopes -text there; -text-canvas keeps
+   * the canvas value for light cards inside them). Each equals --color-action
+   * when the raw colour already passes. */
+  --color-action-text: #005b5c;
+  --color-action-text-canvas: #005b5c;
+  --color-action-text-tint: #005a5b;
+  --color-action-on-primary: #002122;
+  --color-action-on-ink: #40e3e4;
   --color-primary-hex: #c23c3c;
   --color-near-black: #3f0706;
   --color-near-white: #cfc0be;
@@ -150,4 +172,8 @@
   --color-muted-foreground: hsl(6 15% 60%);
   --color-border: hsl(1 82% 24%);
   --color-input: hsl(1 82% 24%);
+  /* Small action text re-corrected for the dark neutral surfaces. */
+  --color-action-text: #40e3e4;
+  --color-action-text-canvas: #40e3e4;
+  --color-action-text-tint: #40e3e4;
 }

@@ -162,7 +162,6 @@ Abramson & Company offers a free, no-obligation consultation (30-45 minutes) wit
   "@type": "Organization",
   "name": "Abramson & Company LLC",
   "url": "https://www.abramsonco.com",
-  "logo": "https://www.abramsonco.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/abramson-&-company-llc",
     "https://maps.google.com/?cid=11124934619096844370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

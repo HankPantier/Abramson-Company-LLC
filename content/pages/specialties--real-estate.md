@@ -146,7 +146,6 @@ Abramson & Company is a CPA firm founded in 2005 in Westport, CT, offering bundl
   "@type": "Organization",
   "name": "Abramson & Company LLC",
   "url": "https://www.abramsonco.com",
-  "logo": "https://www.abramsonco.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/abramson-&-company-llc",
     "https://maps.google.com/?cid=11124934619096844370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
